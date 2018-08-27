@@ -1,0 +1,4407 @@
+<td>Dan Aaker</td> <td>Winner</td>
+<td>Karen Abata</td> <td>Douglas</td>
+<td>Aisha Abbink</td> <td>Menno</td>
+<td>Jason Aberson</td> <td>Baltic</td>
+<td>Katie Abraham</td> <td>Madison Central</td>
+<td>Mark Acheson</td> <td>Tri-Valley</td>
+<td>Laurie Adams</td> <td>Brandon Valley</td>
+<td>Michele Adamson</td> <td>Brookings</td>
+<td>Sheri Adney</td> <td>Pierre</td>
+<td>Gina Adrian</td> <td>White River</td>
+<td>Nicole Aesoph</td> <td>Faulkton</td>
+<td>John Agnew</td> <td>Sisseton</td>
+<td>Jessica Ahlers</td> <td>Dell Rapids</td>
+<td>Barb Aisenbrey</td> <td>Ethan</td>
+<td>Jim Akre</td> <td>Parkston</td>
+<td>Sheri Alberts</td> <td>Langford</td>
+<td>Marian Alexander</td> <td>Rapid City</td>
+<td>Debra Allen</td> <td>Rapid City</td>
+<td>Jennifer Allen</td> <td>Pierre</td>
+<td>Lisa Allen</td> <td>Douglas</td>
+<td>Coralee Alley</td> <td>Douglas</td>
+<td>Carol Allgaier</td> <td>Oldham-Ramona</td>
+<td>Brian Allmendinger</td> <td>Gregory</td>
+<td>Susan Almjeld</td> <td>Dakota Valley</td>
+<td>Quinnie Altura</td> <td>McIntosh</td>
+<td>Bridget Ambur</td> <td>Agar-Blunt-Onida</td>
+<td>Jennifer Anders</td> <td>Harding County</td>
+<td>Linda Andersen</td> <td>Plankinton</td>
+<td>Angela Anderson</td> <td>Rapid City</td>
+<td>Becky Anderson</td> <td>Mitchell</td>
+<td>Brenda Anderson</td> <td>St. Lawrence Catholic</td>
+<td>Chelsea Anderson</td> <td>McCook Central</td>
+<td>Cindy Anderson</td> <td>Bon Homme</td>
+<td>Darrel Anderson</td> <td>Mitchell</td>
+<td>Dori Anderson</td> <td>Plankinton</td>
+<td>Gay Anderson</td> <td>Brandon Valley</td>
+<td>Kelsey Anderson</td> <td>Dakota Valley</td>
+<td>Kristi Anderson</td> <td>Ethan</td>
+<td>Lukas Anderson</td> <td>Willow Lake</td>
+<td>Martha Anderson</td> <td>Rapid City</td>
+<td>Melissa Anderson</td> <td>Brookings</td>
+<td>Merry Anderson</td> <td>Canton</td>
+<td>Nancy Anderson</td> <td>Watertown</td>
+<td>Paul Anderson</td> <td>Canton</td>
+<td>Sheila Anderson</td> <td>Britton-Hecla</td>
+<td>Stacey Anderson</td> <td>Garretson</td>
+<td>Nicole Anderson-Gappa</td> <td>Brandon Valley</td>
+<td>Sharon Andrews</td> <td>Sioux Falls Public</td>
+<td>Julie Anshutz</td> <td>Gregory</td>
+<td>Lauren Antonen</td> <td>Arlington</td>
+<td>Bonnie Archer</td> <td>Dell Rapids</td>
+<td>Lisa Arend</td> <td>Hanson</td>
+<td>Miranda Arnold</td> <td>Dakota Valley</td>
+<td>Ashley Artz</td> <td>Harrisburg</td>
+<td>Mary Ashes</td> <td>Vermillion</td>
+<td>Kathy Askew</td> <td>Pierre</td>
+<td>Terry Aslesen</td> <td>Mitchell</td>
+<td>Darla Aspen</td> <td>Meade</td>
+<td>Michele Astleford</td> <td>White River</td>
+<td>Cassie Auch</td> <td>Mitchell</td>
+<td>Brandy Aukerman</td> <td>Douglas</td>
+<td>Diane Aus</td> <td>Madison Central</td>
+<td>Stephanie Austerman</td> <td>Howard</td>
+<td>Krista Averill</td> <td>McCook Central</td>
+<td>Larry Ayres</td> <td>Brookings</td>
+<td>Jill Aarstad</td> <td>South Central Coop</td>
+<td>Lindsey Abbas</td> <td>Pierre</td>
+<td>Jerry Aberle</td> <td>Northeast Ed Coop</td>
+<td>Grace Abeyta</td> <td>Langford</td>
+<td>Lisa Acheson</td> <td>Chester</td>
+<td>Jodi Ackerman</td> <td>Brandon Valley</td>
+<td>Chad Adamson</td> <td>Brookings</td>
+<td>Courtney Addison</td> <td>USD - Student Teachers</td>
+<td>Bobbi Adrian</td> <td>Rapid City</td>
+<td>Lauren Adrian</td> <td>Haakon</td>
+<td>Jackie Agnew</td> <td>Sisseton</td>
+<td>Jared Ahlberg</td> <td>Aberdeen</td>
+<td>Roger Ahlers</td> <td>Huron</td>
+<td>Eric Aisenbrey</td> <td>Ethan</td>
+<td>Molly Alberts</td> <td>Brookings</td>
+<td>Becky Albrecht</td> <td>De Smet</td>
+<td>Joanne Alleger</td> <td>Rapid City</td>
+<td>Denise Allen</td> <td>Langford</td>
+<td>Laura Allen</td> <td>SDPB</td>
+<td>Stacy Allen</td> <td>Bennett County</td>
+<td>Roxane Alley</td> <td>Hanson</td>
+<td>Chad Allison</td> <td>Lennox</td>
+<td>Monica Alm</td> <td>Mitchell</td>
+<td>Jim Altenburg</td> <td>Harrisburg</td>
+<td>Damon Alvey</td> <td>Vermillion</td>
+<td>Sarah Andera</td> <td>Brandon Valley</td>
+<td>John Anders</td> <td>White River</td>
+<td>Alyssa Anderson</td> <td>Sioux Falls Public</td>
+<td>April Anderson</td> <td>Milbank</td>
+<td>Betsy Anderson</td> <td>Sioux Falls Public</td>
+<td>Cathie Anderson</td> <td>Meade</td>
+<td>Cheryl Anderson</td> <td>Arlington</td>
+<td>Curtis Anderson</td> <td>Oglala Lakota County</td>
+<td>Diane Anderson</td> <td>Willow Lake</td>
+<td>Gary Anderson</td> <td>Agar-Blunt-Onida</td>
+<td>Jessica Anderson</td> <td>USD - Student Teachers</td>
+<td>Kent Anderson</td> <td>Brandon Valley</td>
+<td>Kristi Anderson</td> <td>Groton</td>
+<td>Marcy Anderson</td> <td>Dell Rapids</td>
+<td>Meghan Anderson</td> <td>Sacred Heart School</td>
+<td>Merretta Anderson</td> <td>Timber Lake</td>
+<td>Nancy Anderson</td> <td>St. Mary's</td>
+<td>Nicole Anderson</td> <td>Brookings</td>
+<td>Ruth Anderson</td> <td>Gayville-Volin</td>
+<td>Sheila Anderson</td> <td>Huron</td>
+<td>Vickie Anderson</td> <td>Langford</td>
+<td>Kelly Andrews</td> <td>Harrisburg</td>
+<td>Andy Andrewson</td> <td>Demo</td>
+<td>Lisa Anson</td> <td>Miller</td>
+<td>Denise Arbach</td> <td>Marion</td>
+<td>Mikayla Arechigo</td> <td>Aberdeen</td>
+<td>Cindy Argo</td> <td>Wilmot</td>
+<td>Charles Arseneault</td> <td>Custer</td>
+<td>Ellen Ashes</td> <td>Marty Indian School</td>
+<td>Lori Ashley</td> <td>Douglas</td>
+<td>Cheryle Aslesen</td> <td>Mitchell</td>
+<td>Heather Asmussen</td> <td>Brookings</td>
+<td>Kelly Assman</td> <td>Winner</td>
+<td>Bonnie Attema</td> <td>Mitchell Christian</td>
+<td>Joan Aughenbaugh</td> <td>Mitchell</td>
+<td>Kathleen Auriemma</td> <td>Douglas</td>
+<td>Mary Austad</td> <td>Oahe Special Ed Coop</td>
+<td>Leanne Austin</td> <td>Beresford</td>
+<td>Emily Ayres</td> <td>Beresford</td>
+<td>Marilyn Azevedo</td> <td>Bison</td>
+<td>Kyle Babb</td> <td>Brandon Valley</td>
+<td>Drake Bachmeier</td> <td>Sioux Falls Public</td>
+<td>Cami Bacon</td> <td>St. Mary's</td>
+<td>Judith Badura</td> <td>Douglas</td>
+<td>Lisa Bahe</td> <td>Brookings</td>
+<td>Ashley Bailey</td> <td>McIntosh</td>
+<td>Bruce Bailey</td> <td>Irene-Wakonda</td>
+<td>Chris Bailey</td> <td>McIntosh</td>
+<td>Russ Bailey</td> <td>Custer</td>
+<td>Todd Bak</td> <td>Gayville-Volin</td>
+<td>Tina Baker</td> <td>Pierre</td>
+<td>Scott Bakken</td> <td>Sioux Falls Public</td>
+<td>Dan Baldwin</td> <td>Wall</td>
+<td>Crissy Balfany</td> <td>Pierre Indian Learning Center</td>
+<td>Holly Ballis</td> <td>Brookings</td>
+<td>Shelly Balogh</td> <td>Madison Central</td>
+<td>Carlene Barber</td> <td>Pierre</td>
+<td>Lisa Barger</td> <td>Sacred Heart School</td>
+<td>Douglas Barnes</td> <td>Aberdeen</td>
+<td>Tammy Barnes</td> <td>Huron</td>
+<td>Judy Barnett</td> <td>South Central Coop</td>
+<td>Janelle Barondeau</td> <td>Frederick Area</td>
+<td>Michelle Bartels</td> <td>Hamlin</td>
+<td>Jenny Barthel</td> <td>Harrisburg</td>
+<td>Jacque Bartling</td> <td>Gregory</td>
+<td>Damon Bartscher</td> <td>Mitchell</td>
+<td>Lesley Bartscher</td> <td>Ethan</td>
+<td>Pegge Basham</td> <td>Douglas</td>
+<td>Tyler Bassett</td> <td>USD - Student Teachers</td>
+<td>Matthew Bastian</td> <td>Florence</td>
+<td>Teresa Bastian</td> <td>Brandon Valley</td>
+<td>Alison Batie</td> <td>Eureka</td>
+<td>Arlene Batin</td> <td>Miller</td>
+<td>James Bauder</td> <td>Mitchell</td>
+<td>Katrina Bauer</td> <td>Florence</td>
+<td>Sherry Bauman</td> <td>Elkton</td>
+<td>Bruce Baumann</td> <td>Sisseton</td>
+<td>Kristie Baumeister</td> <td>McIntosh</td>
+<td>Terry Beacom</td> <td>Vermillion</td>
+<td>Gaye Beaner</td> <td>Tri-Valley</td>
+<td>Brian Bechard</td> <td>Sioux Falls Public</td>
+<td>Claire Beck</td> <td>Kadoka</td>
+<td>Laura Beck</td> <td>Huron</td>
+<td>Kendra Becker</td> <td>Redfield</td>
+<td>Myrna Becker</td> <td>Douglas</td>
+<td>Halley Becking</td> <td>Florence</td>
+<td>Kirk Beebout</td> <td>Hamlin</td>
+<td>Scott Beehler</td> <td>Iroquois</td>
+<td>Maureen Beer</td> <td>Little Eagle Grant School</td>
+<td>Ann Beesley</td> <td>Brandon Valley</td>
+<td>Andrea Begeman</td> <td>Sioux Falls Christian</td>
+<td>Rhonda Begley</td> <td>Sioux Falls Public</td>
+<td>Deb Beilke</td> <td>Miller</td>
+<td>Tessa Belgum</td> <td>Gayville-Volin</td>
+<td>Deborah Bell</td> <td>Hanson</td>
+<td>Jaime Bell</td> <td>Sioux Falls Public</td>
+<td>Kelsey Bellrichard</td> <td>West Central</td>
+<td>Amanda Bender</td> <td>Lead-Deadwood</td>
+<td>Bob Bennett</td> <td>Garretson</td>
+<td>James Benning</td> <td>Estelline</td>
+<td>Mark Benson</td> <td>Douglas</td>
+<td>Sherri Beresford</td> <td>Dakota Valley</td>
+<td>Jared Berg</td> <td>Sioux Falls Public</td>
+<td>Rita Berg</td> <td>Baltic</td>
+<td>Tom Berg</td> <td>Mitchell</td>
+<td>Laura Bergeleen</td> <td>CORE</td>
+<td>Joel Bergeson</td> <td>Andes Central</td>
+<td>Linda Bergjord</td> <td>Winner</td>
+<td>Jay Berglund</td> <td>Gettysburg</td>
+<td>Kimberly Bergstrom</td> <td>Baltic</td>
+<td>Marcia Berkness</td> <td>Tri-Valley</td>
+<td>Jamie Bernard</td> <td>Dakota Valley</td>
+<td>Jeffrey Berndt</td> <td>Sioux Falls Public</td>
+<td>Sheila Berndt</td> <td>Deubrook</td>
+<td>Jessica Bernhagen</td> <td>Meade</td>
+<td>Karen Bertsch</td> <td>Mount Vernon</td>
+<td>Tiffany Beste</td> <td>Yankton</td>
+<td>Cabrini Bettelyoun</td> <td>Crazy Horse School</td>
+<td>Gina Bialas</td> <td>Mitchell</td>
+<td>Stacey Biberdorf</td> <td>Douglas</td>
+<td>Genevon Bickerdyke</td> <td>Harding County</td>
+<td>Rox Bicknase</td> <td>Harrisburg</td>
+<td>Al Bierschbach</td> <td>Madison Central</td>
+<td>Tony Biesiot</td> <td>Lead-Deadwood</td>
+<td>Stacie Biggerstaff</td> <td>Mitchell</td>
+<td>Becky Binder</td> <td>Lead-Deadwood</td>
+<td>Eileen Binkley</td> <td>Brookings</td>
+<td>Savannah Bird</td> <td>Sunshine Bible Academy</td>
+<td>Erin Bisbee</td> <td>Brandon Valley</td>
+<td>Melisa Bisenius</td> <td>Dakota Valley</td>
+<td>Nicole Bisgaard</td> <td>Rapid City</td>
+<td>Jenna Biskeborn</td> <td>Kimball</td>
+<td>Todd Bjorklund</td> <td>Estelline</td>
+<td>Phil Bjorneberg</td> <td>Parker</td>
+<td>Sarah Blaeser</td> <td>Dakota Valley</td>
+<td>Sandra Blakeman</td> <td>Hamlin</td>
+<td>Andrew Blank</td> <td>Demo</td>
+<td>Cherri Block</td> <td>Custer</td>
+<td>Nancy Block</td> <td>Webster</td>
+<td>Tammy Block</td> <td>Webster</td>
+<td>Kelly Blok</td> <td>Garretson</td>
+<td>Stacy Blow</td> <td>Tri-Valley</td>
+<td>Angela Bly</td> <td>Garretson</td>
+<td>Adam Bobzien</td> <td>Brandon Valley</td>
+<td>Justin Bochman</td> <td>Yankton</td>
+<td>Terrin Boe</td> <td>McIntosh</td>
+<td>Tim Boeck</td> <td>Arlington</td>
+<td>Gary Boer</td> <td>Sioux Falls Christian</td>
+<td>David Boerger</td> <td>Milbank</td>
+<td>Christine Boever</td> <td>Brookings</td>
+<td>Jackie Bogue</td> <td>Brandon Valley</td>
+<td>David Bohlander</td> <td>Herreid</td>
+<td>Linda Bohlmann</td> <td>Brookings</td>
+<td>Alexis Bohn</td> <td>Harrisburg</td>
+<td>Steve Boint</td> <td>Brandon Valley</td>
+<td>Donna Bolstad</td> <td>Brookings</td>
+<td>Morgan Bonnichsen</td> <td>Highmore-Harrold</td>
+<td>A'Lece Boomsma</td> <td>DSU - Student Teachers</td>
+<td>Scott Boone</td> <td>Northwestern</td>
+<td>Sheri Booze</td> <td>Tri-Valley</td>
+<td>Ben Bordeaux</td> <td>Todd County</td>
+<td>Kristina Borgan</td> <td>Mitchell</td>
+<td>Kim Borkowski</td> <td>Huron</td>
+<td>Michele Bornitz</td> <td>Iroquois</td>
+<td>Julie Borr</td> <td>Herreid</td>
+<td>Teresa Bortnem</td> <td>Brookings</td>
+<td>Marcel Boscaljon</td> <td>Brandon Valley</td>
+<td>Delesa Bosworth</td> <td>Kimball</td>
+<td>Melissa Bothun</td> <td>Brookings</td>
+<td>Jared Bouman</td> <td>White River</td>
+<td>Alison Bowers</td> <td>Hanson</td>
+<td>Brenda Boyd</td> <td>Northeast Ed Coop</td>
+<td>Joseph Boyd</td> <td>Todd County</td>
+<td>Jeanette Boyle</td> <td>Douglas</td>
+<td>Cindy Brace</td> <td>Redfield</td>
+<td>Kathy Bradeen</td> <td>Custer</td>
+<td>Shane Bradford</td> <td>Rapid City</td>
+<td>George Bradstream</td> <td>Douglas</td>
+<td>Ashley Brake</td> <td>Brookings</td>
+<td>Denise Brandner</td> <td>Leola</td>
+<td>Sharon Brandsrud</td> <td>Florence</td>
+<td>Gavin Brandt</td> <td>USD - Student Teachers</td>
+<td>Julie Brandt</td> <td>Sioux Falls Public</td>
+<td>Kim Bratland</td> <td>Willow Lake</td>
+<td>Darlene Braun</td> <td>St. Joseph School</td>
+<td>Jenny Braun</td> <td>Garretson</td>
+<td>Julie Braun</td> <td>Gregory</td>
+<td>Lenna Braun</td> <td>Gregory</td>
+<td>Mark Braun</td> <td>Gregory</td>
+<td>Micah Bredberg</td> <td>Douglas</td>
+<td>Becky Breen</td> <td>Wagner</td>
+<td>Jeff Breitkreutz</td> <td>Tri-Valley</td>
+<td>Kim Brenden</td> <td>Mitchell</td>
+<td>Penney Bressler</td> <td>Dakota Valley</td>
+<td>Doni Bridge</td> <td>Hanson</td>
+<td>Julie Bridge</td> <td>Hanson</td>
+<td>Marquette Brink</td> <td>St. Joseph School</td>
+<td>Amanda Brinkman</td> <td>Tea</td>
+<td>Heidi Brisk</td> <td>Rapid City</td>
+<td>Craig Brockel</td> <td>Sunshine Bible Academy</td>
+<td>Bradley Brockmueller</td> <td>Sioux Falls Public</td>
+<td>Sara Broesder</td> <td>Brookings</td>
+<td>Joe Brooks</td> <td>White River</td>
+<td>Brian Brosnahan</td> <td>Rutland</td>
+<td>Britney Brouillette</td> <td>Douglas</td>
+<td>Amy Brown</td> <td>Tripp-Delmont</td>
+<td>Karen Brown</td> <td>Marty Indian School</td>
+<td>Linda Brown</td> <td>Douglas</td>
+<td>Mark Brown</td> <td>Oglala Lakota County</td>
+<td>Nikki Brown</td> <td>Rutland</td>
+<td>Toni Brown</td> <td>Langford</td>
+<td>Rich Brubakken</td> <td>Brookings</td>
+<td>Julie Bruckner</td> <td>Wessington Springs</td>
+<td>Craig Bruening</td> <td>Parkston</td>
+<td>Lee Bruguier</td> <td>Mitchell</td>
+<td>Cathee Bruinsma</td> <td>Harrisburg</td>
+<td>Julie Brummels</td> <td>Brandon Valley</td>
+<td>Devon Bruna</td> <td>Madison Central</td>
+<td>Justin Brunick</td> <td>Vermillion</td>
+<td>Aileen Brunner</td> <td>Newell</td>
+<td>Moe Bruns</td> <td>Elkton</td>
+<td>Samantha Bruns</td> <td>Garretson</td>
+<td>Sue Bubbers</td> <td>McIntosh</td>
+<td>Sandra Buchholz</td> <td>Meade</td>
+<td>Frank Buck</td> <td>Leola</td>
+<td>Carol Buesing</td> <td>Huron</td>
+<td>Clarice Buhler</td> <td>Milbank</td>
+<td>Paul Buisker</td> <td>Sioux Valley</td>
+<td>Susan Bull</td> <td>Sioux Falls Public</td>
+<td>Laura Bult</td> <td>Madison Central</td>
+<td>Drew Bunkers</td> <td>Dell Rapids</td>
+<td>Jenna Burbach</td> <td>Douglas</td>
+<td>Tim Burgard</td> <td>Stanley County</td>
+<td>Trisha Burke</td> <td>Chamberlain</td>
+<td>Jason Burma</td> <td>Sunshine Bible Academy</td>
+<td>Jennifer Burns</td> <td>Watertown</td>
+<td>Alexis Burwitz</td> <td>Canton</td>
+<td>Kim Buseman</td> <td>Marion</td>
+<td>Erin Bush</td> <td>Pierre</td>
+<td>Robin Bushie</td> <td>Rapid City</td>
+<td>Kristi Butler</td> <td>Meade</td>
+<td>Holly Butrum</td> <td>Sisseton</td>
+<td>Nicole Bye</td> <td>Elkton</td>
+<td>Frank Baca</td> <td>Miller</td>
+<td>Blaine Bacon</td> <td>St. Mary's</td>
+<td>Peggy Bader</td> <td>Parkston</td>
+<td>Karol Baer</td> <td>Beresford</td>
+<td>Amy Baier</td> <td>Brandon Valley</td>
+<td>Barry Bailey</td> <td>Todd County</td>
+<td>Casey Bailey</td> <td>CORE</td>
+<td>Dena Bailey</td> <td>McIntosh</td>
+<td>Tammy Bailey</td> <td>Brandon Valley</td>
+<td>Chase Baker</td> <td>Tea</td>
+<td>Jonathan Bakken</td> <td>Brookings</td>
+<td>Christina Baldwin</td> <td>Gregory</td>
+<td>Kris Baldwin</td> <td>TIE</td>
+<td>Shelly Ballard</td> <td>Rapid City</td>
+<td>Shyla Balo</td> <td>Waverly</td>
+<td>Cathy Baragar</td> <td>Douglas</td>
+<td>Julie Barber</td> <td>Dell Rapids</td>
+<td>Ty Barker</td> <td>Armour</td>
+<td>Rie Barnes</td> <td>Brookings</td>
+<td>Fern Barnett</td> <td>Pierre</td>
+<td>Kelli Barnhart</td> <td>Mitchell</td>
+<td>Karen Barsness</td> <td>Brookings</td>
+<td>Jennifer Bartelt</td> <td>Parkston</td>
+<td>Teresa Bartlett</td> <td>Meade</td>
+<td>Ann Bartscher</td> <td>Hanson</td>
+<td>Deb Bartscher</td> <td>Mitchell</td>
+<td>Nikki Bartscher</td> <td>Hanson</td>
+<td>Alan Baskerville</td> <td>Baltic</td>
+<td>Emily Bastian</td> <td>Willow Lake</td>
+<td>Melissa Bastian</td> <td>Watertown</td>
+<td>Thomas Baszler</td> <td>Huron</td>
+<td>Dale Batie</td> <td>Eureka</td>
+<td>Barb Bauder</td> <td>Mitchell</td>
+<td>Kathy Bauer</td> <td>Ipswich</td>
+<td>Lisa Bauer</td> <td>Douglas</td>
+<td>Stephanie Bauman</td> <td>Deubrook</td>
+<td>Alyssa Baumberger</td> <td>Chester</td>
+<td>Steve Bazata</td> <td>Tri-Valley</td>
+<td>Braydn Beals</td> <td>Madison Central</td>
+<td>Diane Beastrom</td> <td>Highmore-Harrold</td>
+<td>Christine Beck</td> <td>Brandon Valley</td>
+<td>Jennifer Beck</td> <td>Aberdeen</td>
+<td>Lisa Beck</td> <td>Mitchell</td>
+<td>Kimberly Becker</td> <td>Brandon Valley</td>
+<td>Sherri Becker</td> <td>Mitchell</td>
+<td>Kelsey Beckman</td> <td>Elkton</td>
+<td>Shari Beeghly</td> <td>Stanley County</td>
+<td>Patrick Beeman</td> <td>Gayville-Volin</td>
+<td>Jill Beers</td> <td>Waubay</td>
+<td>Larry Beesley</td> <td>Brandon Valley</td>
+<td>Kayla Begeman</td> <td>Gregory</td>
+<td>Patti Behrend</td> <td>Parkston</td>
+<td>Tina Belden</td> <td>Estelline</td>
+<td>Alisha Bell</td> <td>Sioux Falls Public</td>
+<td>Erica Bell</td> <td>Sioux Falls Public</td>
+<td>Katie Bell</td> <td>Douglas</td>
+<td>Dawn Beltran</td> <td>Douglas</td>
+<td>Michele Benike</td> <td>Wilmot</td>
+<td>Liz Bennett</td> <td>Garretson</td>
+<td>Jean Benson</td> <td>Chester</td>
+<td>Brad Berens</td> <td>West Central</td>
+<td>Erin Berg</td> <td>Sioux Falls Public</td>
+<td>Renee Berg</td> <td>Mitchell</td>
+<td>Shelly Berg</td> <td>Brandon Valley</td>
+<td>Janel Bergan</td> <td>Frederick Area</td>
+<td>Julie Berger</td> <td>Huron</td>
+<td>Cyndi Bergh</td> <td>Tri-Valley</td>
+<td>Dan Bergland</td> <td>Beresford</td>
+<td>Fran Bergren</td> <td>Canton</td>
+<td>Robert Bergstrom</td> <td>Oldham-Ramona</td>
+<td>Angela Bernard</td> <td>Dakota Valley</td>
+<td>Marilyn Bernard</td> <td>Mitchell</td>
+<td>Paul Berndt</td> <td>Brandon Valley</td>
+<td>Teresa Berndt</td> <td>DOE</td>
+<td>Kim Bertram</td> <td>McCook Central</td>
+<td>Kathleen Beste</td> <td>Brookings</td>
+<td>Tony Beste</td> <td>Yankton</td>
+<td>Kerry Beyer</td> <td>Rapid City</td>
+<td>Sean Bialas</td> <td>Rapid City</td>
+<td>Savanna Bice</td> <td>Andes Central</td>
+<td>Tarynn Bickett</td> <td>Colman-Egan</td>
+<td>Elayna Bierle</td> <td>Harrisburg</td>
+<td>Kathy Bierscheid</td> <td>Watertown</td>
+<td>Dana Bigge</td> <td>Harrisburg</td>
+<td>Becky Binde</td> <td>Florence</td>
+<td>Dawn Bindert</td> <td>Lake Preston</td>
+<td>Steve Binkley</td> <td>Brookings</td>
+<td>Mindee Birnstiehl</td> <td>Freeman</td>
+<td>Jason Bisbee</td> <td>Brandon Valley</td>
+<td>Will Bisenius</td> <td>Dakota Valley</td>
+<td>Jason Bishop</td> <td>Wolsey-Wessington</td>
+<td>Mary Bitterman</td> <td>Armour</td>
+<td>Vonda Bjorklund</td> <td>Brookings</td>
+<td>Mary-kay Black</td> <td>Florence</td>
+<td>Megan Blake</td> <td>Madison Central</td>
+<td>Alicia Blanchard</td> <td>Rapid City</td>
+<td>Matthew Bleeker</td> <td>Tri-Valley</td>
+<td>Lindsey Block</td> <td>Brandon Valley</td>
+<td>Sandi Block</td> <td>Deuel</td>
+<td>Lester Bloem</td> <td>Milbank</td>
+<td>Ann Blondheim</td> <td>Huron</td>
+<td>Mark Blumhardt</td> <td>Douglas</td>
+<td>Tina Board</td> <td>Aberdeen</td>
+<td>Morgan Bobzien</td> <td>Brandon Valley</td>
+<td>Michael Boe</td> <td>McIntosh</td>
+<td>Anita Boeck</td> <td>Arlington</td>
+<td>Duane Boer</td> <td>Sioux Falls Public</td>
+<td>Allyson Boerger</td> <td>Elkton</td>
+<td>Kimberly Boeve</td> <td>Brookings</td>
+<td>Leslie Bogenhagen</td> <td>Pierre</td>
+<td>Jason Bohl</td> <td>Garretson</td>
+<td>Karen Bohlander</td> <td>Iroquois</td>
+<td>Todd Bohls</td> <td>Pierre</td>
+<td>Lawron Bohr</td> <td>Plankinton</td>
+<td>Brianne Bolstad</td> <td>Watertown</td>
+<td>Tyler Bolstad</td> <td>Watertown</td>
+<td>Peter Books</td> <td>Rutland</td>
+<td>Ashley Boone</td> <td>Pierre</td>
+<td>Betty Booze</td> <td>Demo</td>
+<td>Chris Borchardt</td> <td>Brandon Valley</td>
+<td>Richard Bordeaux</td> <td>Todd County</td>
+<td>Karla Borge</td> <td>Northwestern</td>
+<td>Melissa Bormann</td> <td>Parkston</td>
+<td>Annie Borns</td> <td>Brookings</td>
+<td>Sharon Bortnem</td> <td>Brookings</td>
+<td>Dorothy Bos</td> <td>Brookings</td>
+<td>Dana Bosworth</td> <td>Leola</td>
+<td>Heather Botha</td> <td>McIntosh</td>
+<td>Ashley Bouman</td> <td>White River</td>
+<td>Lori Bouza</td> <td>Wagner</td>
+<td>Jan Bowes</td> <td>Iroquois</td>
+<td>Dianne Boyd</td> <td>Henry</td>
+<td>Kahryn Boyer</td> <td>Sioux Falls Public</td>
+<td>Cary Brace</td> <td>Rapid City</td>
+<td>Christy Bradberry</td> <td>Agar-Blunt-Onida</td>
+<td>Laura Bradfield</td> <td>Tea</td>
+<td>Angela Bradsky</td> <td>Rapid City</td>
+<td>Kayla Braffet</td> <td>Harrisburg</td>
+<td>Jorrie Brandhagen</td> <td>Rapid City</td>
+<td>Brad Brandsrud</td> <td>Watertown</td>
+<td>Teresa Brandsrud</td> <td>Brandon Valley</td>
+<td>Jessica Brandt</td> <td>Aberdeen</td>
+<td>Lisa Brandt</td> <td>Castlewood</td>
+<td>Sonja Braucht</td> <td>Brandon Valley</td>
+<td>Deb Braun</td> <td>Ipswich</td>
+<td>Jill Braun</td> <td>Wessington Springs</td>
+<td>Kyle Braun</td> <td>Webster</td>
+<td>Lisa Braun</td> <td>Ipswich</td>
+<td>Alyssa Brazil</td> <td>St. Mary's</td>
+<td>Phil Breed</td> <td>Dakota Valley</td>
+<td>Kyle Brees</td> <td>DSU - Student Teachers</td>
+<td>Nancy Brekke</td> <td>Dell Rapids</td>
+<td>Brett Brennan</td> <td>Waverly</td>
+<td>Pam Brewer</td> <td>Harding County</td>
+<td>James Bridge</td> <td>Hanson</td>
+<td>Dylan Briest</td> <td>Brandon Valley</td>
+<td>Kelli Brinka</td> <td>Watertown</td>
+<td>Matthew Brinkman</td> <td>Tea</td>
+<td>Rhonda Britzman</td> <td>Lead-Deadwood</td>
+<td>Ashley Brockhaus</td> <td>Aberdeen</td>
+<td>Stephanie Brodeur</td> <td>Sacred Heart School</td>
+<td>Diane Broksieck</td> <td>Brookings</td>
+<td>Larry Broomfield</td> <td>New Underwood</td>
+<td>Sheila Broughton</td> <td>Canton</td>
+<td>Millie Brower</td> <td>Sioux Falls Public</td>
+<td>Anne Elisa Brown</td> <td>Madison Central</td>
+<td>Leslie Brown</td> <td>Highmore-Harrold</td>
+<td>Lori Brown</td> <td>Elkton</td>
+<td>Michelle Brown</td> <td>Douglas</td>
+<td>Sara Brown</td> <td>Scotland</td>
+<td>Ashley Brua</td> <td>Plankinton</td>
+<td>Denise Bruckner</td> <td>Scotland</td>
+<td>Ken Bruckner</td> <td>Menno</td>
+<td>Trish Bruening</td> <td>Parkston</td>
+<td>Tammy Bruha</td> <td>Harding County</td>
+<td>Sherri Bruinsma</td> <td>Plankinton</td>
+<td>Alexandrea Bruna</td> <td>Chester</td>
+<td>Melissa Bruna</td> <td>Bon Homme</td>
+<td>Wayne Brunke</td> <td>Scotland</td>
+<td>Ardana Bruns</td> <td>Madison Central</td>
+<td>Ryan Bruns</td> <td>Northwestern</td>
+<td>Maggie Bryant</td> <td>Brandon Valley</td>
+<td>Kelsey Buchholz</td> <td>Garretson</td>
+<td>Staci Buchholz</td> <td>Waverly</td>
+<td>Kelly Budig</td> <td>Sacred Heart School</td>
+<td>Larry Buffington</td> <td>Gayville-Volin</td>
+<td>Kelli Buisker</td> <td>Brookings</td>
+<td>Michele Bull</td> <td>Dakota Valley</td>
+<td>Jule Bullington</td> <td>Brookings</td>
+<td>Kari Bultje</td> <td>Sioux Falls Public</td>
+<td>Loreen Bunkers</td> <td>Brookings</td>
+<td>Paula Bures</td> <td>Mitchell</td>
+<td>Bonnie Burke</td> <td>McIntosh</td>
+<td>Karron Burleigh-Williams</td> <td>Rapid City</td>
+<td>Anthony Burns</td> <td>Douglas</td>
+<td>Lori Burress</td> <td>Rapid City</td>
+<td>Beth Bury</td> <td>Rapid City</td>
+<td>Carolyn Bush</td> <td>Rapid City</td>
+<td>Ryan Bush</td> <td>Spearfish</td>
+<td>Katie Busser</td> <td>DSU - Student Teachers</td>
+<td>Nathan Butler</td> <td>Plankinton</td>
+<td>Blossom Buum</td> <td>Brandon Valley</td>
+<td>Andrea Byrd</td> <td>Douglas</td>
+<td>Angi Cable</td> <td>Harrisburg</td>
+<td>Robin Cahoy</td> <td>John Paul II</td>
+<td>Tona Cain</td> <td>Custer</td>
+<td>Thad Caldwell</td> <td>Rapid City</td>
+<td>Charla Callahan</td> <td>Madison Central</td>
+<td>Cheryl Cameron</td> <td>Langford</td>
+<td>Thomas Cameron</td> <td>White River</td>
+<td>Colleen Campbell</td> <td>Sisseton</td>
+<td>Matthew Campbell</td> <td>Lead-Deadwood</td>
+<td>Chandra Canaan</td> <td>Douglas</td>
+<td>Debbie Cano</td> <td>Meade</td>
+<td>David Cantrell</td> <td>Deuel</td>
+<td>Jerry Carda</td> <td>Beresford</td>
+<td>Pamela Carda</td> <td>Douglas</td>
+<td>Vonnie Carda</td> <td>Sacred Heart School</td>
+<td>Angela Carlson</td> <td>Southeast Area Coop</td>
+<td>Jane Carlson</td> <td>Beresford</td>
+<td>Pam Carlson</td> <td>Brookings</td>
+<td>Susan Carlson</td> <td>Brookings</td>
+<td>Kristi Carmody</td> <td>Hanson</td>
+<td>Travis Carpenter</td> <td>Mitchell</td>
+<td>Aaron Carroll</td> <td>Brandon Valley</td>
+<td>Emily Carroll</td> <td>Brandon Valley</td>
+<td>Suzanne Carroll</td> <td>Brandon Valley</td>
+<td>Dave Carson</td> <td>Langford</td>
+<td>Nancy Cartwright</td> <td>Lead-Deadwood</td>
+<td>Craig Caselli</td> <td>Sioux Falls Public</td>
+<td>Tim Casper</td> <td>Lake Preston</td>
+<td>Craig Cassens</td> <td>Faulkton</td>
+<td>Will Castle</td> <td>Miller</td>
+<td>Quinton Cermak</td> <td>Highmore-Harrold</td>
+<td>Jacinda Cerwinske</td> <td>Sioux Falls Public</td>
+<td>Michelle Chalcraft</td> <td>Rapid City</td>
+<td>Bradley Chaney</td> <td>Rapid City</td>
+<td>Kathy Chase</td> <td>McIntosh</td>
+<td>Ryan Chase</td> <td>Sioux Falls Christian</td>
+<td>Everette Chasing Hawk</td> <td>Little Eagle Grant School</td>
+<td>Karla Chiarello</td> <td>Sioux Falls Public</td>
+<td>Jeremy Chicoine</td> <td>Agar-Blunt-Onida</td>
+<td>Joe Childs</td> <td>Mitchell</td>
+<td>Sandie Childs</td> <td>Harrisburg</td>
+<td>Jim Chilson</td> <td>Florence</td>
+<td>Roxie Chocholousek</td> <td>Gregory</td>
+<td>Cal Christensen</td> <td>Meade</td>
+<td>Jill Christensen</td> <td>Arlington</td>
+<td>Lori Christensen</td> <td>Madison Central</td>
+<td>Carla Christiansen</td> <td>Gayville-Volin</td>
+<td>Josh Christiansen</td> <td>Flandreau</td>
+<td>Sherri Christianson</td> <td>Brookings</td>
+<td>Matt Christie</td> <td>Brookings</td>
+<td>Michael Christopherson</td> <td>Sioux Falls Public</td>
+<td>Pennee Clanton</td> <td>Harding County</td>
+<td>Brady Clark</td> <td>Oldham-Ramona</td>
+<td>Edward Clark</td> <td>Baltic</td>
+<td>Karline Clark</td> <td>Douglas</td>
+<td>Narcel Clark</td> <td>McIntosh</td>
+<td>Steve Clark</td> <td>Elkton</td>
+<td>Jean Clarke</td> <td>Bridgewater-Emery</td>
+<td>Karyl Clay</td> <td>Winner</td>
+<td>Denise Clemens</td> <td>Northwestern</td>
+<td>Renee Clement</td> <td>Miller</td>
+<td>Bill Clements</td> <td>Dakota Valley</td>
+<td>Eimi Cloutier</td> <td>Sioux Falls Public</td>
+<td>Kelly Coates</td> <td>Douglas</td>
+<td>Mary Coates</td> <td>Douglas</td>
+<td>Kayli Coburn</td> <td>Garretson</td>
+<td>Lynette Coker</td> <td>Baltic</td>
+<td>Naomi Colberg</td> <td>West Central</td>
+<td>Lindsey Cole</td> <td>Spearfish</td>
+<td>Stephanie Cole</td> <td>Watertown</td>
+<td>Brent Combs</td> <td>Gregory</td>
+<td>Misty Comes</td> <td>Waverly</td>
+<td>Amy Comp</td> <td>Scotland</td>
+<td>Chad Conaway</td> <td>Lennox</td>
+<td>Janna Conrad</td> <td>Brandon Valley</td>
+<td>Linda Conrad</td> <td>Sioux Falls Public</td>
+<td>Justin Conroy</td> <td>Rapid City</td>
+<td>Ruth Conway</td> <td>Rapid City</td>
+<td>Tracy Cook</td> <td>Rapid City</td>
+<td>Rose Cooke</td> <td>Marty Indian School</td>
+<td>Kristin Coon</td> <td>Brookings</td>
+<td>Roxie Cooper</td> <td>Meade</td>
+<td>Jessi Copeland</td> <td>Harrisburg</td>
+<td>Lisa Coppess</td> <td>Pierre</td>
+<td>Robert Cordts</td> <td>Madison Central</td>
+<td>Josie Corliss</td> <td>Todd County</td>
+<td>Karen Cota</td> <td>Sioux Falls Public</td>
+<td>Wanda Cournoyer</td> <td>Todd County</td>
+<td>Kerri Cox</td> <td>Sioux Falls Public</td>
+<td>Joyce Crabtree</td> <td>Ipswich</td>
+<td>Sara Crawford-Brown</td> <td>Douglas</td>
+<td>Mary Crockett</td> <td>Mitchell</td>
+<td>Chelsey Cronin</td> <td>Hoven</td>
+<td>Linda Crowe</td> <td>Brookings</td>
+<td>Julie Croymans</td> <td>Brookings</td>
+<td>Tom Culver</td> <td>Avon</td>
+<td>Marcy Cundall</td> <td>Douglas</td>
+<td>Jill Cundy</td> <td>Iroquois</td>
+<td>Duane Cunningham</td> <td>Lead-Deadwood</td>
+<td>Joann Curran</td> <td>Sisseton</td>
+<td>Connie Currey</td> <td>Madison Central</td>
+<td>Ruth-Ann Curriel</td> <td>Tri-Valley</td>
+<td>Shawn Cutler</td> <td>Leola</td>
+<td>Pam Cwach</td> <td>Canton</td>
+<td>Celisity Cadotte</td> <td>Meade</td>
+<td>Sara Cain</td> <td>Beresford</td>
+<td>Chad Caldwell</td> <td>Brookings</td>
+<td>Tracey Caldwell</td> <td>Rapid City</td>
+<td>Alice Cameron</td> <td>White River</td>
+<td>Christopher Cameron</td> <td>Sioux Falls Public</td>
+<td>Amanda Campbell</td> <td>McIntosh</td>
+<td>Kara Campbell</td> <td>McIntosh</td>
+<td>Monica Campbell</td> <td>Madison Central</td>
+<td>Dan Canfield</td> <td>Brandon Valley</td>
+<td>Greg Cantine</td> <td>Milbank</td>
+<td>Char Carda</td> <td>Huron</td>
+<td>Mike Carda</td> <td>Huron</td>
+<td>Paul Carda</td> <td>White River</td>
+<td>Tim Cariveau</td> <td>Deubrook</td>
+<td>Angie Carlson</td> <td>Groton</td>
+<td>Krislyn Carlson</td> <td>Beresford</td>
+<td>Stacie Carlson</td> <td>Beresford</td>
+<td>Tara Carlson</td> <td>Brookings</td>
+<td>Sara Carpenter</td> <td>Waverly</td>
+<td>Todd Carr</td> <td>Yankton</td>
+<td>David Carroll</td> <td>Douglas</td>
+<td>Scott Carroll</td> <td>Brandon Valley</td>
+<td>Thomas Carruthers</td> <td>Chamberlain</td>
+<td>Lisa Carson</td> <td>Langford</td>
+<td>Jean Case</td> <td>Florence</td>
+<td>Chase Casper</td> <td>Faulkton</td>
+<td>Alyssa Cassels</td> <td>Deuel</td>
+<td>Pat Cassutt</td> <td>Mitchell</td>
+<td>Nichole Caylor</td> <td>Brookings</td>
+<td>Jeremy Cerny</td> <td>Belle Fourche</td>
+<td>Amanda Chada</td> <td>Rapid City</td>
+<td>Alyssa Chambers</td> <td>Harrisburg</td>
+<td>Emily Charlson</td> <td>Brookings</td>
+<td>Michelle Chase</td> <td>Huron</td>
+<td>Tracy Chase</td> <td>McCook Central</td>
+<td>Judith Cheeseman</td> <td>Hanson</td>
+<td>Jennifer Chicoine</td> <td>Brandon Valley</td>
+<td>Jamee Childress</td> <td>Brandon Valley</td>
+<td>Mindy Childs</td> <td>Mitchell</td>
+<td>Gina Chilson</td> <td>Northeast Ed Coop</td>
+<td>Harriet Chipman</td> <td>Miller</td>
+<td>Amy Christensen</td> <td>Mitchell</td>
+<td>Delci Christensen</td> <td>Northeast Technical High School</td>
+<td>Jill Christensen</td> <td>Parker</td>
+<td>Matthew Christensen</td> <td>Brandon Valley</td>
+<td>Janna Christiansen</td> <td>Tea</td>
+<td>Wendy Christiansen</td> <td>Harrisburg</td>
+<td>Tonya Christianson</td> <td>Deubrook</td>
+<td>Barbara Christopher</td> <td>Harrisburg</td>
+<td>Lisa Cihak</td> <td>Wagner</td>
+<td>Colleen Clapper</td> <td>Hill City</td>
+<td>Carla Clark</td> <td>Aberdeen</td>
+<td>Jeannie Clark</td> <td>Douglas</td>
+<td>Monette Clark</td> <td>Agar-Blunt-Onida</td>
+<td>Rebecca Clark</td> <td>Sioux Falls Public</td>
+<td>Carrie Clarke</td> <td>Sioux Falls Public</td>
+<td>Brenda Clauson</td> <td>Douglas</td>
+<td>Kelly Clelland</td> <td>Arlington</td>
+<td>Jan Clement</td> <td>Highmore-Harrold</td>
+<td>Amy Clements</td> <td>Dakota Valley</td>
+<td>J.J. Clendenin</td> <td>Watertown</td>
+<td>Heather Clyde</td> <td>Oelrichs</td>
+<td>Kip Coates</td> <td>Douglas</td>
+<td>Ruth Coates</td> <td>Douglas</td>
+<td>Dawn Coggins</td> <td>Beresford</td>
+<td>David Colberg</td> <td>Marion</td>
+<td>Austin Cole</td> <td>Dakota Valley</td>
+<td>Melissa Cole</td> <td>Centerville</td>
+<td>Vincent Colford</td> <td>Sioux Falls Public</td>
+<td>Heidi Comes</td> <td>Madison Central</td>
+<td>Tim Comes</td> <td>Watertown</td>
+<td>Brooke Compton</td> <td>Groton</td>
+<td>Pam Conklin</td> <td>Beresford</td>
+<td>Linda Conrad</td> <td>Northeast Ed Coop</td>
+<td>Wendy Conrad</td> <td>Rapid City</td>
+<td>Dale Convey</td> <td>Jones County</td>
+<td>Mary Cook</td> <td>Meade</td>
+<td>Nancy Cooke</td> <td>South Central Coop</td>
+<td>Stacy Cookie</td> <td>Douglas</td>
+<td>Tom Cooney</td> <td>Andes Central</td>
+<td>Dale Copeland</td> <td>Plankinton</td>
+<td>Michele Copeland</td> <td>Wessington Springs</td>
+<td>Tiffany Cordell</td> <td>Hoven</td>
+<td>Rebecca Corlew</td> <td>Brandon Valley</td>
+<td>Ronette Costain</td> <td>Harrisburg</td>
+<td>Kyla Cote</td> <td>Douglas</td>
+<td>Gloria Cox</td> <td>Rapid City</td>
+<td>Jesse Coy</td> <td>Rapid City</td>
+<td>Theresa Crawford</td> <td>Brookings</td>
+<td>Rachel Crissman</td> <td>Ipswich</td>
+<td>Sherry Crofut</td> <td>Rapid City</td>
+<td>Teresa Crooks</td> <td>Douglas</td>
+<td>Kathy Crowley</td> <td>St. Agnes</td>
+<td>Alaina Cuka</td> <td>Brandon Valley</td>
+<td>Renee Cummings</td> <td>Watertown</td>
+<td>Holly Cundy</td> <td>Huron</td>
+<td>Darcy Cunningham</td> <td>Sioux Falls Public</td>
+<td>Gina Curran</td> <td>Crazy Horse School</td>
+<td>Kelly Curran</td> <td>Dakota Valley</td>
+<td>Stacey Currie</td> <td>Rapid City</td>
+<td>Donna Curry</td> <td>Douglas</td>
+<td>Leslie Cutshaw</td> <td>Deuel</td>
+<td>Kim Cypher</td> <td>Miller</td>
+<td>James Dahl</td> <td>Milbank</td>
+<td>Jane Dahme</td> <td>Mitchell</td>
+<td>Paula Damaska</td> <td>Aberdeen</td>
+<td>Lisa Danforth</td> <td>Garretson</td>
+<td>Stephanie Danielsen</td> <td>Watertown</td>
+<td>Liz Dannen</td> <td>East Dakota Educational Coop</td>
+<td>Robert Darkow</td> <td>Sioux Falls Public</td>
+<td>Darwin Daugaard</td> <td>Dell Rapids</td>
+<td>Tanisha Daugaard</td> <td>Baltic</td>
+<td>Katherine Davidson</td> <td>Brandon Valley</td>
+<td>Josh Davies</td> <td>Wagner</td>
+<td>Courtney Davis</td> <td>Ipswich</td>
+<td>Tanya Davis</td> <td>Corsica-Stickney</td>
+<td>Dan Dawson</td> <td>Mobridge-Pollock</td>
+<td>Karrah Dawson</td> <td>Custer</td>
+<td>Mary Day</td> <td>Belle Fourche</td>
+<td>Rachelle Debeer</td> <td>Deubrook</td>
+<td>Linda Deboer</td> <td>Miller</td>
+<td>Kayle Decker</td> <td>Sioux Falls Public</td>
+<td>Brent Deckert</td> <td>Brandon Valley</td>
+<td>Teresa Deckert</td> <td>Parkston</td>
+<td>Cheryl Deelstra</td> <td>Chester</td>
+<td>Kitti DeGeest</td> <td>Plankinton</td>
+<td>Dustin Degen</td> <td>Beresford</td>
+<td>Marcia DeGroot</td> <td>Demo</td>
+<td>Donna Deinert</td> <td>Parkston</td>
+<td>Breanna DeKam</td> <td>Castlewood</td>
+<td>Darla Dekraai</td> <td>Meade</td>
+<td>Kathy Dekraai</td> <td>Brookings</td>
+<td>Shawna Delaney</td> <td>Douglas</td>
+<td>Ann Delay</td> <td>Centerville</td>
+<td>Joseph Delvaux</td> <td>Vermillion</td>
+<td>Cathleen Denekamp</td> <td>Douglas</td>
+<td>Jessica DeNeui</td> <td>Sioux Falls Public</td>
+<td>Tina Denne</td> <td>Madison Central</td>
+<td>Shana Dennis</td> <td>Marion</td>
+<td>Donna DeNure</td> <td>Mitchell</td>
+<td>Deanne DeRungs</td> <td>Oldham-Ramona</td>
+<td>Susan DeSautel</td> <td>Sioux Falls Christian</td>
+<td>Jeff Determan</td> <td>Gregory</td>
+<td>Teresa Determan</td> <td>Mitchell</td>
+<td>Bobbie Deuter</td> <td>Warner</td>
+<td>Gabe Devitt</td> <td>Canton</td>
+<td>Susan Dewey</td> <td>Douglas</td>
+<td>Brandon Dewitt</td> <td>Tri-Valley</td>
+<td>Jeremiah Dibley</td> <td>Gayville-Volin</td>
+<td>Matt Dick</td> <td>Harrisburg</td>
+<td>Megan Dieren</td> <td>Brandon Valley</td>
+<td>Stephanie Dietterle</td> <td>Miller</td>
+<td>Diane Dittmer</td> <td>Rapid City</td>
+<td>Leslea Dobbs</td> <td>Brookings</td>
+<td>Mathew Doering</td> <td>White Lake</td>
+<td>Kathleen Doerr</td> <td>Douglas</td>
+<td>Stephen Dolan</td> <td>Rapid City</td>
+<td>Debra Domogalski</td> <td>Meade</td>
+<td>Don Donley</td> <td>Groton</td>
+<td>Amy Donovan</td> <td>Chamberlain</td>
+<td>Mindy Dooley</td> <td>Custer</td>
+<td>Anita Doschadis</td> <td>Ipswich</td>
+<td>Jessica Doty</td> <td>Webster</td>
+<td>Donna Dowling</td> <td>Pierre</td>
+<td>Catherine Downs</td> <td>Madison Central</td>
+<td>Jennifer Doyle</td> <td>Custer</td>
+<td>Becky Dragt</td> <td>Wolsey-Wessington</td>
+<td>Michael Dramstad</td> <td>Huron</td>
+<td>Lori Dressen</td> <td>Beresford</td>
+<td>Rebecca Driedger</td> <td>John Paul II</td>
+<td>Jody Driscoll</td> <td>West Central</td>
+<td>Laura Drotzmann</td> <td>Gayville-Volin</td>
+<td>Jodi Dubbeldee</td> <td>Brookings</td>
+<td>Micaela Duch</td> <td>Aberdeen</td>
+<td>Brock Dufek</td> <td>Lake Preston</td>
+<td>Annette Duffy</td> <td>Hill City</td>
+<td>Lory Dufrain</td> <td>Wagner</td>
+<td>Darlene Dulitz</td> <td>Webster</td>
+<td>Doug Duncan</td> <td>Northwestern</td>
+<td>Jeff Duncanson</td> <td>Brandon Valley</td>
+<td>Joan Dunmire</td> <td>Douglas</td>
+<td>Diane Durrin</td> <td>Winner</td>
+<td>Robin Dutt</td> <td>Newell</td>
+<td>Alicia Dykstra</td> <td>Bon Homme</td>
+<td>Julie Dahl</td> <td>BHSU</td>
+<td>Debra Dailey</td> <td>Dakota Valley</td>
+<td>Shar Dambowy</td> <td>Douglas</td>
+<td>Kevin Danielsen</td> <td>Viborg-Hurley</td>
+<td>Abby Danko</td> <td>Baltic</td>
+<td>Vicki Dant</td> <td>Iroquois</td>
+<td>Sarah Darling</td> <td>Brandon Valley</td>
+<td>Jenny Daugaard</td> <td>Baltic</td>
+<td>Matt David</td> <td>Canton</td>
+<td>Camille Davies</td> <td>Hanson</td>
+<td>Angela Davis</td> <td>Douglas</td>
+<td>Maren Davis</td> <td>Milbank</td>
+<td>Alexandra Davison</td> <td>Harrisburg</td>
+<td>Jessica Dawson</td> <td>Huron</td>
+<td>Lisa Dawson</td> <td>Britton-Hecla</td>
+<td>Sara DeBeaumont</td> <td>Lead-Deadwood</td>
+<td>Donavan DeBoer</td> <td>Parker</td>
+<td>Michelle DeBoer</td> <td>Harrisburg</td>
+<td>Lorna Decker</td> <td>Parkston</td>
+<td>Melissa Deckert</td> <td>Freeman</td>
+<td>Kevin Decurtins</td> <td>Madison Central</td>
+<td>Sarah Deffenbaugh</td> <td>Kimball</td>
+<td>Vern Degeest</td> <td>Corsica-Stickney</td>
+<td>Diane Degroot</td> <td>Brookings</td>
+<td>Phyllis Degroot</td> <td>Demo</td>
+<td>Gay Dejong</td> <td>Sioux Falls Public</td>
+<td>Sue Dekker</td> <td>Brandon Valley</td>
+<td>Donna DeKraai</td> <td>Brookings</td>
+<td>Rikki Delaney</td> <td>Elkton</td>
+<td>Cassandra DeLarm</td> <td>USD - Student Teachers</td>
+<td>Taylor Delker</td> <td>Dell Rapids</td>
+<td>Cyndy Demers</td> <td>Winner</td>
+<td>Dawn Deneui</td> <td>Parker</td>
+<td>Karla Denison</td> <td>Elkton</td>
+<td>Cara Dennert</td> <td>Groton</td>
+<td>Jean Denton</td> <td>St. Joseph School</td>
+<td>Kim DeRouchey</td> <td>Hanson</td>
+<td>Logan DeRungs</td> <td>Rutland</td>
+<td>Ann Deslauriers</td> <td>Doland</td>
+<td>Nikki Determan</td> <td>Baltic</td>
+<td>James Dettman</td> <td>Douglas</td>
+<td>Jennifer Deutsch</td> <td>Langford</td>
+<td>Cindy DeWandel</td> <td>Harrisburg</td>
+<td>Jessica DeWit</td> <td>Sioux Falls Christian</td>
+<td>Jessica Dial</td> <td>Rapid City</td>
+<td>Kamden Dibley</td> <td>Vermillion</td>
+<td>Shelley Diercks</td> <td>Centerville</td>
+<td>Lindsey Dietterle</td> <td>Madison Central</td>
+<td>Brett Distel</td> <td>Douglas</td>
+<td>Brian Dobbs</td> <td>Brookings</td>
+<td>Susan Dodd</td> <td>Mitchell</td>
+<td>Shana Doering</td> <td>Alcester-Hudson</td>
+<td>Jennifer Doescher</td> <td>Watertown</td>
+<td>Crystal Domke</td> <td>Highmore-Harrold</td>
+<td>Patrick Donelan</td> <td>Brandon Valley</td>
+<td>Joann Donley</td> <td>Groton</td>
+<td>Bobbie Jo Donovan</td> <td>Rapid City</td>
+<td>Jim Dorman</td> <td>Sioux Falls Public</td>
+<td>Maridee Dossett</td> <td>Madison Central</td>
+<td>Susan Doty</td> <td>Sioux Falls Public</td>
+<td>Justin Downes</td> <td>Arlington</td>
+<td>Tracy Downs</td> <td>Rapid City</td>
+<td>George Dragoo</td> <td>Rapid City</td>
+<td>Elizabeth Drake</td> <td>Douglas</td>
+<td>Erika Drawdy</td> <td>Brookings</td>
+<td>Nichole Drexler</td> <td>Harrisburg</td>
+<td>Laura Drietz</td> <td>Flandreau</td>
+<td>Kristi Driscoll</td> <td>Mitchell</td>
+<td>Ethan Dschaak</td> <td>Meade</td>
+<td>Angel Dubro</td> <td>Northeast Ed Coop</td>
+<td>Melanie Duchscher</td> <td>Yankton</td>
+<td>Mike Duffek</td> <td>Bon Homme</td>
+<td>Ashley Duffy</td> <td>Winner</td>
+<td>Amy Dulaney</td> <td>Brandon Valley</td>
+<td>Joline Dunbar</td> <td>Brookings</td>
+<td>William Duncan</td> <td>Groton</td>
+<td>Kelly Dunkelberger</td> <td>Parker</td>
+<td>Doug Durfee</td> <td>McCook Central</td>
+<td>Jenna Durrin</td> <td>Dakota Christian</td>
+<td>Todd Dvoracek</td> <td>Yankton</td>
+<td>Tacey Dykstra</td> <td>Kimball</td>
+<td>Patrick Ealy</td> <td>Douglas</td>
+<td>Kendra Earll</td> <td>White River</td>
+<td>Leta Eberhard</td> <td>Douglas</td>
+<td>Carolyn Ebright</td> <td>Brandon Valley</td>
+<td>Tim Eckart</td> <td>Sioux Falls Public</td>
+<td>Aldena Ecklein</td> <td>McCook Central</td>
+<td>Terry Eckstaine</td> <td>Ethan</td>
+<td>Doug Edberg</td> <td>Centerville</td>
+<td>Lindsy Edwards</td> <td>Huron</td>
+<td>Tatem Effling</td> <td>Sioux Falls Public</td>
+<td>Natalie Eggers</td> <td>Dell Rapids</td>
+<td>Ardeth Egleston</td> <td>White River</td>
+<td>Julie Ehlers</td> <td>White Lake</td>
+<td>Courtney Ehlke</td> <td>Huron</td>
+<td>Marletta Eich</td> <td>DSU - Student Teachers</td>
+<td>Kelly Eichelberg</td> <td>Brandon Valley</td>
+<td>Beth Eickman</td> <td>McCook Central</td>
+<td>Glenda Eisenbeisz</td> <td>Bowdle</td>
+<td>Heidi Eitemiller</td> <td>Mitchell</td>
+<td>Valerie Ekern</td> <td>Brookings</td>
+<td>Eric Elder</td> <td>Douglas</td>
+<td>Robert Ellefson</td> <td>Rapid City</td>
+<td>Deb Ellinger</td> <td>Henry</td>
+<td>Donna Ellingson</td> <td>Mitchell</td>
+<td>Timothy Elseman</td> <td>Custer</td>
+<td>Gary Elsinger</td> <td>Rutland</td>
+<td>Rene Emme</td> <td>Douglas</td>
+<td>Mark Emry</td> <td>Sioux Falls Public</td>
+<td>Kelli Endorf</td> <td>Hanson</td>
+<td>Rachelle Engbrecht</td> <td>Brookings</td>
+<td>Kathy Engeman</td> <td>St. Mary's</td>
+<td>Jennifer Englert</td> <td>Madison Central</td>
+<td>Eileen Englund</td> <td>Rosholt</td>
+<td>Marlys Enstad</td> <td>Douglas</td>
+<td>George Erdahl</td> <td>Marty Indian School</td>
+<td>Julie Erdmann</td> <td>Groton</td>
+<td>Phyllis Erfman</td> <td>Meade</td>
+<td>Sheila Erhart</td> <td>Belle Fourche</td>
+<td>Jody Erickson</td> <td>Warner</td>
+<td>Melissa Erickson</td> <td>Elkton</td>
+<td>Monica Erickson</td> <td>Canton</td>
+<td>Steve Erickson</td> <td>Elkton</td>
+<td>Amy Erlandson</td> <td>Douglas</td>
+<td>Amber Ernste</td> <td>Brandon Valley</td>
+<td>Ceci Estes</td> <td>Belle Fourche</td>
+<td>Dan Evans</td> <td>Irene-Wakonda</td>
+<td>Holly Evans</td> <td>Madison Central</td>
+<td>Lisa Evans</td> <td>Rapid City</td>
+<td>Ryan Evans</td> <td>McCook Central</td>
+<td>Jennifer Even</td> <td>Tri-Valley</td>
+<td>Becky Earll</td> <td>Canton</td>
+<td>Stacey Eastman</td> <td>Dakota Valley</td>
+<td>Scott Ebert</td> <td>Beresford</td>
+<td>Linda Eck</td> <td>Huron</td>
+<td>Sara Eckhoff</td> <td>Dakota Valley</td>
+<td>Jessica Eckmann</td> <td>Iroquois</td>
+<td>Mary Eckstrom</td> <td>Pierre</td>
+<td>Janet Edwards</td> <td>Mid Central Educational Cooperative</td>
+<td>Roger Edwards</td> <td>Pierre</td>
+<td>Kim Eggers</td> <td>Deuel</td>
+<td>Peggy Eggers</td> <td>Wagner</td>
+<td>Peter Egstad</td> <td>Sioux Falls Public</td>
+<td>Lisa Ehlers</td> <td>Dakota Valley</td>
+<td>Kara Ehrenfeldt</td> <td>Centerville</td>
+<td>Deb Eichacker</td> <td>McCook Central</td>
+<td>Emily Eichler</td> <td>Groton</td>
+<td>Katie Eide</td> <td>Oldham-Ramona</td>
+<td>Chad Eisenbraun</td> <td>Kadoka</td>
+<td>Kayla Ekeland</td> <td>Brookings</td>
+<td>Kristi Ekroth</td> <td>Sacred Heart School</td>
+<td>Christine Eleeson</td> <td>Sioux Falls Public</td>
+<td>Jessa Ellendorf</td> <td>White River</td>
+<td>Diane Ellinger</td> <td>Freeman</td>
+<td>Darren Ellwein</td> <td>Harrisburg</td>
+<td>Lana Elshere</td> <td>Haakon</td>
+<td>Doreen Emery</td> <td>Leola</td>
+<td>Hilaree Emmons</td> <td>McLaughlin</td>
+<td>Jessica Enderson</td> <td>Brookings</td>
+<td>Tracey Endorf</td> <td>Hanson</td>
+<td>Travis Engebretson</td> <td>Brookings</td>
+<td>Tina England</td> <td>Stanley County</td>
+<td>Christie English</td> <td>Rapid City</td>
+<td>Katherine Engst</td> <td>Huron</td>
+<td>Kathy Entwistle</td> <td>Brookings</td>
+<td>Danielle Erdmann</td> <td>Mitchell</td>
+<td>Sharol Erdmann</td> <td>Ipswich</td>
+<td>Derrick Erhart</td> <td>Belle Fourche</td>
+<td>Becky Erickson</td> <td>Groton</td>
+<td>Mary Erickson</td> <td>Brandon Valley</td>
+<td>Meri Erickson</td> <td>Groton</td>
+<td>Rita Erickson</td> <td>Brookings</td>
+<td>Stacia Ericsson</td> <td>Brandon Valley</td>
+<td>David Ermish</td> <td>Wall</td>
+<td>Alecia Erstad</td> <td>Lake Preston</td>
+<td>Danielle Eszlinger</td> <td>Baltic</td>
+<td>Emily Evans</td> <td>Ethan</td>
+<td>Jd Evans</td> <td>Montrose</td>
+<td>Roxanne Evans</td> <td>Centerville</td>
+<td>Jeanne Even</td> <td>Sioux Falls Public</td>
+<td>Jody Evjen</td> <td>Waverly</td>
+<td>Korinne Face</td> <td>White River</td>
+<td>Bob Falk</td> <td>Canton</td>
+<td>Nancy Falor</td> <td>Madison Central</td>
+<td>Vickie Fargen</td> <td>Elkton</td>
+<td>Leroy Farmen</td> <td>Smee</td>
+<td>Beth Farrar</td> <td>Rapid City</td>
+<td>Susan Farrell-Poncelet</td> <td>Sanborn Central</td>
+<td>Mary Jane Fast</td> <td>Iroquois</td>
+<td>Sue Faulhaber</td> <td>Plankinton</td>
+<td>Kimberly Fedeler</td> <td>West Central</td>
+<td>Debra Feenstra</td> <td>Armour</td>
+<td>Casey Feininger</td> <td>Lake Area Technical Institute</td>
+<td>Sarah Felder</td> <td>Brandon Valley</td>
+<td>Erin Feldhaus</td> <td>Howard</td>
+<td>Jake Ferdinand</td> <td>DSU - Student Teachers</td>
+<td>Andrew Fergen</td> <td>Corsica-Stickney</td>
+<td>Kathleen Fesler</td> <td>Harrisburg</td>
+<td>Cindy Feyereisen</td> <td>Brandon Valley</td>
+<td>Haley Fiedler</td> <td>McCook Central</td>
+<td>Kristine Fiegen</td> <td>St. Mary's</td>
+<td>Rebecca Finck</td> <td>Madison Central</td>
+<td>Lauren Fink</td> <td>USD - Student Teachers</td>
+<td>Jeff Finley</td> <td>Dakota Valley</td>
+<td>Nicole Finnesand</td> <td>Tri-Valley</td>
+<td>Amanda Fischer</td> <td>USD - Student Teachers</td>
+<td>Maren Fischer</td> <td>Oldham-Ramona</td>
+<td>Sarah Fischer</td> <td>Sioux Falls Public</td>
+<td>Andrew Fisher</td> <td>Dakota Valley</td>
+<td>Marie Fisher</td> <td>Todd County</td>
+<td>Jade Fjelstad</td> <td>Lennox</td>
+<td>Shawn Flanagan</td> <td>Sioux Falls Public</td>
+<td>Derick Fleming</td> <td>Sioux Falls Public</td>
+<td>Carli Flemmer</td> <td>Mitchell</td>
+<td>Keith Flemmer</td> <td>Harrisburg</td>
+<td>Jennifer Flemming</td> <td>Madison Central</td>
+<td>Jill Flint</td> <td>Brandon Valley</td>
+<td>Meghan Fluke</td> <td>Aberdeen</td>
+<td>Daniel Flyger</td> <td>Hanson</td>
+<td>Rachael Fode</td> <td>Brandon Valley</td>
+<td>Drew Foley</td> <td>Rapid City</td>
+<td>Craig Fonder</td> <td>Wessington Springs</td>
+<td>Linda Foos</td> <td>Wagner</td>
+<td>Julie Forbes</td> <td>Brandon Valley</td>
+<td>Jon Forster</td> <td>Madison Central</td>
+<td>Barb Fosheim</td> <td>Lead-Deadwood</td>
+<td>Eric Foss</td> <td>Sioux Falls Public</td>
+<td>Sonya Fossum</td> <td>Mitchell</td>
+<td>Lindsey Foster</td> <td>Winner</td>
+<td>Annette Fountain</td> <td>Douglas</td>
+<td>Erin Fowkes</td> <td>Mitchell</td>
+<td>Karen Fox</td> <td>Edmunds</td>
+<td>Courtney Francis</td> <td>Tripp-Delmont</td>
+<td>Adam Franken</td> <td>Groton</td>
+<td>Emma Frankman</td> <td>Demo</td>
+<td>Lynn Frederick</td> <td>Brookings</td>
+<td>Joe Frederiksen</td> <td>Brookings</td>
+<td>Alison Freeman</td> <td>Demo</td>
+<td>Karen Freeman</td> <td>Ethan</td>
+<td>Julie Freier</td> <td>Wagner</td>
+<td>Bill Freking</td> <td>Brandon Valley</td>
+<td>Anne Frericks</td> <td>Northwestern</td>
+<td>Rod Friedrich</td> <td>Tea</td>
+<td>Diane Friesz</td> <td>Madison Central</td>
+<td>Stacey Fritz</td> <td>Rosholt</td>
+<td>Julie Fritzemeier</td> <td>Mitchell</td>
+<td>Cindy Froiland</td> <td>Parker</td>
+<td>Vicky Fryda</td> <td>Scotland</td>
+<td>Tammy Fuerst</td> <td>Mitchell</td>
+<td>Christy Fuks</td> <td>Scotland</td>
+<td>Geof Furness</td> <td>Garretson</td>
+<td>Malissa Fagerland</td> <td>Langford</td>
+<td>Vilas Fallis</td> <td>Crow Creek Tribal</td>
+<td>Ruby Fanning</td> <td>Rapid City</td>
+<td>Jonathon Fargher</td> <td>Eureka</td>
+<td>Tal Farnham</td> <td>Elkton</td>
+<td>Tom Farrell</td> <td>Madison Central</td>
+<td>Janelle Farris</td> <td>Rapid City</td>
+<td>Lindsey Fathke</td> <td>Avon</td>
+<td>Pam Fauth</td> <td>Leola</td>
+<td>LaWanda Fedt</td> <td>Hamlin</td>
+<td>Tina Feenstra</td> <td>Brandon Valley</td>
+<td>Jim Felberg</td> <td>Willow Lake</td>
+<td>Dana Felderman</td> <td>Lake Preston</td>
+<td>Tammy Fender</td> <td>Chester</td>
+<td>Carrie Fergel</td> <td>McIntosh</td>
+<td>Jason Fersdahl</td> <td>Dell Rapids</td>
+<td>Nichole Fevilien</td> <td>Harrisburg</td>
+<td>Andrea Fiala</td> <td>Miller</td>
+<td>Andrew Fiegen</td> <td>Madison Central</td>
+<td>Jeffrey Fierro</td> <td>Rapid City</td>
+<td>Kerry Fink</td> <td>White Lake</td>
+<td>Rochelle Fink</td> <td>Plankinton</td>
+<td>Sheldon Finley</td> <td>Redfield</td>
+<td>Shelley Fischbach</td> <td>Northwestern</td>
+<td>Heather Fischer</td> <td>Henry</td>
+<td>Mike Fischer</td> <td>Oldham-Ramona</td>
+<td>Tony Fischer</td> <td>Oldham-Ramona</td>
+<td>Jennifer Fisher</td> <td>Sisseton</td>
+<td>Susan Fjeldheim</td> <td>Groton</td>
+<td>Becky Fjerstad</td> <td>Madison Central</td>
+<td>Bernita Flannery</td> <td>Edmunds</td>
+<td>Brett Flemmer</td> <td>Mitchell</td>
+<td>Cristy Flemmer</td> <td>Sioux Falls Public</td>
+<td>Ross Flemmer</td> <td>St. Mary's</td>
+<td>Pam Fleury</td> <td>Chamberlain</td>
+<td>Keri Flint</td> <td>Douglas</td>
+<td>Amber Fluth</td> <td>Tri-Valley</td>
+<td>Jeff Fode</td> <td>Brandon Valley</td>
+<td>Shane Fods</td> <td>Chester</td>
+<td>Lissa Foley</td> <td>Haakon</td>
+<td>Cornelius Fontenot</td> <td>Crow Creek Tribal</td>
+<td>Danette Forbes</td> <td>Rapid City</td>
+<td>Molly Forst</td> <td>DSU - Student Teachers</td>
+<td>Amanda Fosheim</td> <td>Baltic</td>
+<td>Donna Foss</td> <td>Douglas</td>
+<td>Jodie Fossum</td> <td>Canton</td>
+<td>Ethan Foster</td> <td>Demo</td>
+<td>Susan Foster</td> <td>Brandon Valley</td>
+<td>Stacy Fousek</td> <td>Wagner</td>
+<td>Amity Fox</td> <td>Plankinton</td>
+<td>Lori Fox</td> <td>Watertown</td>
+<td>Tara Frank</td> <td>Sacred Heart School</td>
+<td>Brad Franken</td> <td>Madison Central</td>
+<td>Amy Frantzen</td> <td>Brandon Valley</td>
+<td>Mary Frederick</td> <td>Brookings</td>
+<td>Deb Fredrickson</td> <td>Watertown</td>
+<td>Candy Freeman</td> <td>Demo</td>
+<td>Sally Freeman</td> <td>Demo</td>
+<td>Ginny Freitag</td> <td>Madison Central</td>
+<td>McKenzie Frerichs</td> <td>Ethan</td>
+<td>Sara Fridley</td> <td>DIAL</td>
+<td>Lacey Friesen</td> <td>Marion</td>
+<td>Angela Fritz</td> <td>Madison Central</td>
+<td>Susan Fritz</td> <td>Brandon Valley</td>
+<td>Alyssa Frogner</td> <td>Milbank</td>
+<td>Kaylin Frost</td> <td>Redfield</td>
+<td>Jeanene Fuchs</td> <td>Bennett County</td>
+<td>Bryan Fuks</td> <td>Scotland</td>
+<td>Jennifer Funke</td> <td>Harrisburg</td>
+<td>Nicole Gabriel</td> <td>Madison Central</td>
+<td>Terri Gaikowski</td> <td>Hamlin</td>
+<td>Adam Gale</td> <td>Chester</td>
+<td>Jennifer Galles</td> <td>Dakota Valley</td>
+<td>Kim Gamber</td> <td>Mitchell</td>
+<td>Jeff Ganschow</td> <td>Brandon Valley</td>
+<td>Ben Gant</td> <td>Madison Central</td>
+<td>Matthew Gappa</td> <td>Brandon Valley</td>
+<td>Lisa Garrett</td> <td>Harrisburg</td>
+<td>Patty Garry</td> <td>Lake Preston</td>
+<td>Amber Gaspar</td> <td>Brookings</td>
+<td>Patrick Gatzke</td> <td>Meade</td>
+<td>Troy Gauer</td> <td>Milbank</td>
+<td>Kim Gaul</td> <td>Dell Rapids</td>
+<td>Leonard Gebhart</td> <td>Elkton</td>
+<td>Roxie Geerdes</td> <td>Brandon Valley</td>
+<td>Val Geffre</td> <td>Leola</td>
+<td>Jennifer Gehring</td> <td>McIntosh</td>
+<td>Carrie Ann Gehringer</td> <td>Sioux Falls Public</td>
+<td>Shawn Geigle</td> <td>Baltic</td>
+<td>Melinda Geiszler</td> <td>Deubrook</td>
+<td>Jennifer Gemar</td> <td>Tripp-Delmont</td>
+<td>Pat Gengler</td> <td>Dell Rapids</td>
+<td>Amanda Geraets</td> <td>St. Mary's</td>
+<td>Julie Gerber</td> <td>Canton</td>
+<td>Morgan Gerken</td> <td>Freeman</td>
+<td>Teri Gerry</td> <td>Madison Central</td>
+<td>Brian Gevik</td> <td>SDPB</td>
+<td>Carol Giannonatti</td> <td>Harding County</td>
+<td>Deb Giblin</td> <td>Mitchell Technical Institute</td>
+<td>Lucas Giese</td> <td>Chamberlain</td>
+<td>Angela Giffin</td> <td>Rapid City</td>
+<td>Wendi Gilbert</td> <td>Ipswich</td>
+<td>Steve Gilbertson</td> <td>Arlington</td>
+<td>Mary Gile</td> <td>Brandon Valley</td>
+<td>Karen Giles</td> <td>Madison Central</td>
+<td>Robert Gill</td> <td>Pierre</td>
+<td>Drew Gillogly</td> <td>Kimball</td>
+<td>Carol Gilman</td> <td>Mitchell</td>
+<td>Erin Gimbel</td> <td>Timber Lake</td>
+<td>Connie Girard</td> <td>Brookings</td>
+<td>Robert Giuffre</td> <td>De Smet</td>
+<td>Margery Glandt</td> <td>Douglas</td>
+<td>Holly Glodrey</td> <td>Langford</td>
+<td>Kaitlyn Glover</td> <td>Madison Central</td>
+<td>Julie Gnadt</td> <td>Garretson</td>
+<td>Larry Goebel</td> <td>Hamlin</td>
+<td>Monica Goeden</td> <td>Sioux Falls Public</td>
+<td>Melissa Goethals</td> <td>Aberdeen</td>
+<td>Kathy Goetz</td> <td>Ipswich</td>
+<td>Vydel Gogolin</td> <td>Rapid City</td>
+<td>Lori Goldade</td> <td>Warner</td>
+<td>Kristen Gonsoir</td> <td>Groton</td>
+<td>Holly Good</td> <td>Douglas</td>
+<td>Katie Goodall</td> <td>Kimball</td>
+<td>Amy Goodrich</td> <td>USD - Student Teachers</td>
+<td>Emily Gordon</td> <td>Montrose</td>
+<td>Paula Gordon</td> <td>Brandon Valley</td>
+<td>Steven Gors</td> <td>Madison Central</td>
+<td>Tammy Gortmaker</td> <td>Montrose</td>
+<td>Neil Goter</td> <td>Wagner</td>
+<td>Laura Gottlob</td> <td>McCook Central</td>
+<td>Elizabeth Gould</td> <td>Harrisburg</td>
+<td>Ronda Graber</td> <td>Gregory</td>
+<td>Julie Graczyk</td> <td>Herreid</td>
+<td>Angie Graff</td> <td>West Central</td>
+<td>Marette Grage</td> <td>Brandon Valley</td>
+<td>Callie Graham</td> <td>Demo</td>
+<td>Pepper Graham</td> <td>Demo</td>
+<td>Tyree Graham</td> <td>Demo</td>
+<td>Alicia Gramkow</td> <td>Scotland</td>
+<td>Jami Grangaard</td> <td>Watertown</td>
+<td>Travis Graves</td> <td>Garretson</td>
+<td>Ange Green</td> <td>Douglas</td>
+<td>Marci Green</td> <td>Brookings</td>
+<td>Amber Gregg</td> <td>Dakota Valley</td>
+<td>Kris Gregoire</td> <td>St. Agnes</td>
+<td>Michelle Greseth</td> <td>Sisseton</td>
+<td>Lynette Grieve</td> <td>Groton</td>
+<td>Brody Griffin</td> <td>Rapid City</td>
+<td>Jamie Grimsrud</td> <td>Deubrook</td>
+<td>Thomas Grode</td> <td>Brandon Valley</td>
+<td>Mesa Groen</td> <td>Harrisburg</td>
+<td>Nora Groft</td> <td>Northwestern</td>
+<td>Michael Groher</td> <td>Sioux Falls Public</td>
+<td>Mark Gronlund</td> <td>Winner</td>
+<td>Sarah Groos</td> <td>Sisseton</td>
+<td>Dawn Gross</td> <td>Florence</td>
+<td>John Gross</td> <td>White River</td>
+<td>Rhonda Gross</td> <td>Baltic</td>
+<td>Sherry Gross</td> <td>Miller</td>
+<td>Jennifer Grover</td> <td>Huron</td>
+<td>Chris Gruenhagen</td> <td>Brookings</td>
+<td>Karla Gruis</td> <td>Dell Rapids</td>
+<td>Amy Gubbrud</td> <td>Belle Fourche</td>
+<td>Lynn Gudmundson</td> <td>Deuel</td>
+<td>Dave Guericke</td> <td>Marty Indian School</td>
+<td>Andrea Gullickson</td> <td>Brookings</td>
+<td>Amanda Gums</td> <td>Brookings</td>
+<td>Julie Gunderson</td> <td>Brookings</td>
+<td>Steve Gunderson</td> <td>Baltic</td>
+<td>Ashley Gunn</td> <td>Warner</td>
+<td>Bud Gusso</td> <td>Douglas</td>
+<td>Sheila Gust</td> <td>Centerville</td>
+<td>Beth Gustafson</td> <td>Groton</td>
+<td>Lisa Gustin</td> <td>Douglas</td>
+<td>Joel Guthmiller</td> <td>Groton</td>
+<td>Amber Gaikowski</td> <td>Waubay</td>
+<td>Carol Galbraith</td> <td>Todd County</td>
+<td>Yvonne Gall</td> <td>Tripp-Delmont</td>
+<td>Sue Galvin</td> <td>Vermillion</td>
+<td>Richard Ganci</td> <td>Brookings</td>
+<td>Stephanie Ganschow</td> <td>Irene-Wakonda</td>
+<td>Ellen Gant</td> <td>Dakota Valley</td>
+<td>Lana Gardner</td> <td>Dakota Valley</td>
+<td>Chad Garrow</td> <td>Brandon Valley</td>
+<td>Todd Gartner</td> <td>Douglas</td>
+<td>Anne Gaspar</td> <td>West Central</td>
+<td>Marcia Gaudet</td> <td>Sioux Falls Public</td>
+<td>Burdell Gauger</td> <td>Watertown</td>
+<td>Jennifer Gavlick</td> <td>Brookings</td>
+<td>Virginia Gebhart</td> <td>Elkton</td>
+<td>Todd Geerdes</td> <td>Brandon Valley</td>
+<td>Leighann Gehrels</td> <td>Madison Central</td>
+<td>Suzy Gehring</td> <td>Brookings</td>
+<td>Barb Geigle</td> <td>Sacred Heart School</td>
+<td>April Geist</td> <td>Mitchell</td>
+<td>Stephanie Gelderman</td> <td>Parkston</td>
+<td>Mark Gemar</td> <td>Tripp-Delmont</td>
+<td>Jackie Geppert-Anderson</td> <td>Sioux Falls Public</td>
+<td>Jan Geraets</td> <td>White Lake</td>
+<td>Terry Gerber</td> <td>Canton</td>
+<td>Cindy Gerlach</td> <td>Mitchell</td>
+<td>Karen Gesinger</td> <td>Miller</td>
+<td>Rachel Geyer-Fuhrman</td> <td>Wolsey-Wessington</td>
+<td>Ann Gibbs</td> <td>Groton</td>
+<td>Jennifer Gibson</td> <td>Miller</td>
+<td>Amy Giesler</td> <td>Mitchell</td>
+<td>Ann Gilbert</td> <td>Huron</td>
+<td>Bonnie Gilbertson</td> <td>Sioux Valley</td>
+<td>Diane Gilbertz</td> <td>Kimball</td>
+<td>Jacob Giles</td> <td>Hanson</td>
+<td>Scott Giles</td> <td>Brandon Valley</td>
+<td>Kristine Gillette</td> <td>Corsica-Stickney</td>
+<td>Jenna Gillogly</td> <td>Kimball</td>
+<td>Katie Gilmore</td> <td>Sisseton</td>
+<td>Ryan Gimbel</td> <td>Timber Lake</td>
+<td>Roberta Girtz</td> <td>Douglas</td>
+<td>Jeff Glandt</td> <td>Douglas</td>
+<td>Barb Glanzer</td> <td>Aberdeen</td>
+<td>Lori Gloe</td> <td>Stanley County</td>
+<td>Peg Glover</td> <td>Gregory</td>
+<td>Karla Godbey</td> <td>Garretson</td>
+<td>Janis Goeden</td> <td>Dakota Valley</td>
+<td>Shaina Goedtke</td> <td>Harrisburg</td>
+<td>Cathy Goethel</td> <td>Hitchcock-Tulare</td>
+<td>Christene Goff</td> <td>Waverly</td>
+<td>Michael Gohring</td> <td>Deuel</td>
+<td>Kate Gomez</td> <td>Sioux Falls Public</td>
+<td>Dana Gonyo</td> <td>Madison Central</td>
+<td>Colton Good Shield</td> <td>Little Eagle Grant School</td>
+<td>Christine Goodpaster</td> <td>Hill City</td>
+<td>Connie Gordon</td> <td>Douglas</td>
+<td>Karen Gordon</td> <td>Brookings</td>
+<td>Theresa Gordon</td> <td>Oldham-Ramona</td>
+<td>Reggie Gorter</td> <td>Rutland</td>
+<td>Cindy Goter</td> <td>Wagner</td>
+<td>Lois Gotheridge</td> <td>Bennett County</td>
+<td>Kali Gottsleben</td> <td>Harrisburg</td>
+<td>Mariah Gould</td> <td>Sioux Falls Public</td>
+<td>Jillian Grabinski</td> <td>Brandon Valley</td>
+<td>Jackson Graf</td> <td>Milbank</td>
+<td>Stephanie Graff</td> <td>Montrose</td>
+<td>Callie Graham</td> <td>Demo</td>
+<td>Dawn Graham</td> <td>Ipswich</td>
+<td>Twits Graham</td> <td>Demo</td>
+<td>Greg Gramberg</td> <td>Rapid City</td>
+<td>Lynsay Granberg</td> <td>Garretson</td>
+<td>Justin Graves</td> <td>Chamberlain</td>
+<td>Maggie Grayhome</td> <td>Demo</td>
+<td>Kent Green</td> <td>White River</td>
+<td>Sandra Greenough</td> <td>Miller</td>
+<td>Janelle Gregg</td> <td>Sisseton</td>
+<td>Peggy Greiner</td> <td>Milbank</td>
+<td>Connie Gretschmann</td> <td>Avon</td>
+<td>Tami Grieve</td> <td>Brandon Valley</td>
+<td>Ron Grimsley</td> <td>Meade</td>
+<td>Nova Griss</td> <td>Crow Creek Tribal</td>
+<td>Jim Groen</td> <td>Sioux Falls Christian</td>
+<td>Krista Groeneweg</td> <td>Harrisburg</td>
+<td>Cassondra Grogan</td> <td>Mitchell</td>
+<td>Debra Groninga</td> <td>Harrisburg</td>
+<td>Aaron Gronwald</td> <td>Pierre</td>
+<td>Clayton Gropper</td> <td>Mitchell</td>
+<td>Geoffrey Gross</td> <td>Beresford</td>
+<td>Kathy Gross</td> <td>Brookings</td>
+<td>Ryon Gross</td> <td>Waverly</td>
+<td>Jenna Grossenburg</td> <td>Aberdeen</td>
+<td>Kim Gruebele</td> <td>Eureka</td>
+<td>Lorinda Gruhlke</td> <td>McIntosh</td>
+<td>Kelley Gruneich</td> <td>Dell Rapids</td>
+<td>Tara Gubbrud</td> <td>Mitchell</td>
+<td>Vickie Guenthner</td> <td>Corsica-Stickney</td>
+<td>Kathleen Guindon</td> <td>Plankinton</td>
+<td>Terry Gullickson</td> <td>Brandon Valley</td>
+<td>Deb Gunderson</td> <td>Baltic</td>
+<td>Paula Gunderson</td> <td>Baltic</td>
+<td>Yancy Gunhammer</td> <td>Todd County</td>
+<td>Betty Gussiaas</td> <td>Huron</td>
+<td>Courtney Gusso</td> <td>Harrisburg</td>
+<td>Ginny Gustad</td> <td>Beresford</td>
+<td>Frank Gustafson</td> <td>Sisseton</td>
+<td>Brenda Guthmiller</td> <td>Waverly</td>
+<td>Lynne Guthrie</td> <td>Pierre</td>
+<td>Rachel Haag</td> <td>Sioux Falls Public</td>
+<td>Brian Haak</td> <td>Alcester-Hudson</td>
+<td>Beth Haar</td> <td>Mitchell</td>
+<td>Angela Haas</td> <td>St. Agnes</td>
+<td>Laura Haase</td> <td>Scotland</td>
+<td>Jill Haberman</td> <td>Scotland</td>
+<td>Laura Haberman</td> <td>Sacred Heart School</td>
+<td>Becky Haenfler</td> <td>Avon</td>
+<td>Gaylynn Hagemann</td> <td>Oldham-Ramona</td>
+<td>David Hagen</td> <td>Aberdeen</td>
+<td>Randy Hagen</td> <td>Rapid City</td>
+<td>Summer Hager</td> <td>Douglas</td>
+<td>Tracy Hague</td> <td>Elkton</td>
+<td>Ashley Haiar</td> <td>USD - Student Teachers</td>
+<td>Lisa Haiar</td> <td>Hanson</td>
+<td>Niki Hainy</td> <td>Wessington Springs</td>
+<td>Anna Hakeman</td> <td>Sioux Falls Public</td>
+<td>Rachael Hakl</td> <td>Tri-Valley</td>
+<td>Dan Hall</td> <td>Flandreau</td>
+<td>Mary Halle</td> <td>Douglas</td>
+<td>Denise Halstead-Peel</td> <td>Douglas</td>
+<td>Harlan Halverson</td> <td>Dakota Valley</td>
+<td>Nancy Halverson</td> <td>McIntosh</td>
+<td>Ashley Halvorson</td> <td>Beresford</td>
+<td>Kevin Ham</td> <td>Douglas</td>
+<td>Larry Hames</td> <td>Sacred Heart School</td>
+<td>Rick Hamil</td> <td>Custer</td>
+<td>Jeff Hamm</td> <td>Dakota Valley</td>
+<td>Mike Hamm</td> <td>Dakota Valley</td>
+<td>Lisa Hammrich</td> <td>Ipswich</td>
+<td>Thomas Hancock</td> <td>Douglas</td>
+<td>Jessica Haneke</td> <td>Tri-Valley</td>
+<td>Scott Hannemann</td> <td>Sioux Falls Public</td>
+<td>Alison Hansen</td> <td>Mitchell</td>
+<td>Bill Hansen</td> <td>Viborg-Hurley</td>
+<td>Judith Hansen</td> <td>Custer</td>
+<td>Melissa Hansen</td> <td>St. Mary's</td>
+<td>Steve Hansen</td> <td>Dell Rapids</td>
+<td>Cheryl Hanson</td> <td>Aberdeen</td>
+<td>Jolayne Hanson</td> <td>Harrisburg</td>
+<td>Matt Hanson</td> <td>Brookings</td>
+<td>Rita Hanson</td> <td>Hanson</td>
+<td>Wayne Hanson</td> <td>Herreid</td>
+<td>Kay Hanten</td> <td>Pierre</td>
+<td>Sarah Hanten</td> <td>Groton</td>
+<td>Scott Hardesty</td> <td>Spearfish</td>
+<td>Amanda Hargreaves</td> <td>Mitchell</td>
+<td>Vicki Harmdierks</td> <td>Mitchell</td>
+<td>Mark Harming</td> <td>Elkton</td>
+<td>Hailey Harms</td> <td>Baltic</td>
+<td>Roxanne Harms</td> <td>Parker</td>
+<td>Susan Harnisch</td> <td>Parkston</td>
+<td>Robert Harrington</td> <td>Rapid City</td>
+<td>Amanda Harris</td> <td>Harrisburg</td>
+<td>Jill Harris</td> <td>Plankinton</td>
+<td>Rebecca Harris</td> <td>Douglas</td>
+<td>Janene Harry</td> <td>Groton</td>
+<td>Shiloe Harsma</td> <td>Madison Christian School</td>
+<td>Jennifer Hart</td> <td>Brandon Valley</td>
+<td>Justin Harte</td> <td>Watertown</td>
+<td>Melissa Hartley</td> <td>Douglas</td>
+<td>Randi Hartman</td> <td>Brookings</td>
+<td>Susan Hartman</td> <td>Sioux Falls Public</td>
+<td>Kathy Harvey</td> <td>Miller</td>
+<td>James Haskamp</td> <td>Hanson</td>
+<td>Chris Hasler</td> <td>Willow Lake</td>
+<td>Andrea Hatlestad</td> <td>Brandon Valley</td>
+<td>Erika Hauck</td> <td>Estelline</td>
+<td>John Hauck</td> <td>Garretson</td>
+<td>Monique Haug</td> <td>Hamlin</td>
+<td>Rylee Haugen</td> <td>DSU - Student Teachers</td>
+<td>Donna Haugh</td> <td>Douglas</td>
+<td>Lisa Hausman</td> <td>Estelline</td>
+<td>Scott Hausmann</td> <td>Tri-Valley</td>
+<td>Kayla Haviland</td> <td>Tri-Valley</td>
+<td>Kayla Havrevold</td> <td>Lennox</td>
+<td>Tim Hawkins</td> <td>Ethan</td>
+<td>Jolinda Hay</td> <td>Lemmon</td>
+<td>Laurie Hayes</td> <td>Rapid City</td>
+<td>Scott Headrick</td> <td>Dell Rapids</td>
+<td>Tiffany Hearne</td> <td>McIntosh</td>
+<td>Beverly Heath</td> <td>Bennett County</td>
+<td>Renee Heck</td> <td>Sioux Falls Public</td>
+<td>Lisa Heckenlaible</td> <td>Mitchell</td>
+<td>Christy Hedderman</td> <td>Meade</td>
+<td>Heidi Heeren</td> <td>Brookings</td>
+<td>Toni Hegerfeld</td> <td>Brookings</td>
+<td>Steve Hegge</td> <td>Dell Rapids</td>
+<td>Sheila Heiberger</td> <td>Deuel</td>
+<td>Delilah Heil</td> <td>Lemmon</td>
+<td>Sandy Heimdal</td> <td>Harrisburg</td>
+<td>Chris Heinemann</td> <td>Kimball</td>
+<td>Ashley Heinrich</td> <td>Hamlin</td>
+<td>Victoria Heinrichs</td> <td>Chester</td>
+<td>Rachel Heisinger</td> <td>Montrose</td>
+<td>Lynette Heitz</td> <td>Ipswich</td>
+<td>Dennis Heller</td> <td>Lake Area Technical Institute</td>
+<td>Carol Helms</td> <td>Harding County</td>
+<td>Amanda Helphrey</td> <td>Canton</td>
+<td>Jill Helvig</td> <td>Groton</td>
+<td>Julie Hemeyer</td> <td>Gregory</td>
+<td>Ally Hemmer</td> <td>DSU - Student Teachers</td>
+<td>Bonnie Hemmer</td> <td>Colman-Egan</td>
+<td>Scott Hemmer</td> <td>Colman-Egan</td>
+<td>Tammy Hencke</td> <td>Douglas</td>
+<td>Patricia Hendricks</td> <td>Brookings</td>
+<td>Shelby Hendrickson</td> <td>Groton</td>
+<td>Paul Hendry</td> <td>Rapid City</td>
+<td>Carrie Henrickson</td> <td>Ethan</td>
+<td>Charles Henson</td> <td>Brandon Valley</td>
+<td>Dee Henson</td> <td>Eagle Butte</td>
+<td>Kayla Herbener</td> <td>Rapid City</td>
+<td>Elissa Herman</td> <td>Sioux Falls Public</td>
+<td>Kelley Herman</td> <td>Baltic</td>
+<td>Jamie Hermann</td> <td>Kadoka</td>
+<td>Cella Hermsen</td> <td>White River</td>
+<td>JoDi Hernes</td> <td>Canton</td>
+<td>Jennifer Herrmann</td> <td>John Paul II</td>
+<td>Julie Hersom</td> <td>Garretson</td>
+<td>Katie Herther</td> <td>Harrisburg</td>
+<td>Lindsey Hettich</td> <td>Sunshine Bible Academy</td>
+<td>Stephen Hettick</td> <td>Mobridge-Pollock</td>
+<td>Jennifer Heumiller</td> <td>McCook Central</td>
+<td>Joel Hieb</td> <td>Pierre</td>
+<td>Pamela Hieronimus</td> <td>Sioux Falls Public</td>
+<td>Kelby Hildebrandt</td> <td>Harrisburg</td>
+<td>Amanda Hill</td> <td>White River</td>
+<td>Ann Marie Hill</td> <td>Webster</td>
+<td>Mandy Hilmoe</td> <td>Watertown</td>
+<td>Morgan Hinds</td> <td>Dakota Valley</td>
+<td>Dawn Hink</td> <td>Northeast Ed Coop</td>
+<td>Roxanne Hinze</td> <td>Aberdeen</td>
+<td>Tyler Hockett</td> <td>Parkston</td>
+<td>Alyxa Hoefert</td> <td>Garretson</td>
+<td>Chris Hoek</td> <td>Oldham-Ramona</td>
+<td>Katie Hoekman</td> <td>Baltic</td>
+<td>Kerwin Hoellein</td> <td>Aberdeen</td>
+<td>Arlen Hofer</td> <td>Canton</td>
+<td>Darwin Hofer</td> <td>James Valley Christian</td>
+<td>Marilyn Hofer</td> <td>TIE</td>
+<td>Stacey Hofer</td> <td>Mitchell</td>
+<td>Courtney Hoff</td> <td>Pierre</td>
+<td>Samantha Hoff</td> <td>Douglas</td>
+<td>Jan Hoffman</td> <td>Groton</td>
+<td>Michele Hoffman</td> <td>McIntosh</td>
+<td>Randy Hoffman</td> <td>White Lake</td>
+<td>Marci Hofman</td> <td>Madison Central</td>
+<td>Allen Hogie</td> <td>Brandon Valley</td>
+<td>Morgan Hoglund</td> <td>DSU - Student Teachers</td>
+<td>Jamie Hohn</td> <td>Lead-Deadwood</td>
+<td>Levi Hohn</td> <td>Mitchell</td>
+<td>Lynsey Hoines</td> <td>Gayville-Volin</td>
+<td>Linda Holan</td> <td>Kimball</td>
+<td>Mandi Holbeck</td> <td>Armour</td>
+<td>Carleen Holm</td> <td>Brookings</td>
+<td>Jonathan Holmes</td> <td>Andes Central</td>
+<td>Breanna Holsing</td> <td>Northwestern</td>
+<td>Frankie Holt</td> <td>White River</td>
+<td>Tim Holter</td> <td>Sioux Valley</td>
+<td>Stacy Holzbauer</td> <td>Wagner</td>
+<td>Jacinta Holzwarth</td> <td>Parker</td>
+<td>Joann Honermann</td> <td>John Paul II</td>
+<td>Robert Honomichl</td> <td>Madison Central</td>
+<td>Joyce Hooker</td> <td>McIntosh</td>
+<td>Joyce Hora</td> <td>Milbank</td>
+<td>Mark Horan</td> <td>Mitchell</td>
+<td>Sharon Horning</td> <td>Freeman</td>
+<td>Kristina Horsted</td> <td>Harrisburg</td>
+<td>Stacey Hosman</td> <td>Corsica-Stickney</td>
+<td>Dustin Hourigan</td> <td>Deuel</td>
+<td>Lori Hovde</td> <td>Willow Lake</td>
+<td>Beverly Howe</td> <td>Garretson</td>
+<td>Sammantha Hoyles</td> <td>Rutland</td>
+<td>Jodi Hruby</td> <td>Hanson</td>
+<td>Voni Hubbell</td> <td>Marion</td>
+<td>John Huber</td> <td>Bowdle</td>
+<td>Kaaren Huber</td> <td>Sioux Falls Public</td>
+<td>Monica Huber</td> <td>Mitchell</td>
+<td>Del Hubers</td> <td>Brandon Valley</td>
+<td>Devin Hudelson</td> <td>Sioux Falls Public</td>
+<td>Rick Hudson</td> <td>Bon Homme</td>
+<td>Sophie Hughes</td> <td>Northwestern</td>
+<td>Tamara Hughson</td> <td>Oelrichs</td>
+<td>Jay Huls</td> <td>Montrose</td>
+<td>Larry Hulscher</td> <td>Wilmot</td>
+<td>Bill Hummel</td> <td>Andes Central</td>
+<td>Calvin Hunhoff</td> <td>Scotland</td>
+<td>Megan Hunold</td> <td>Dakota Valley</td>
+<td>Bobbi Hunt</td> <td>Iroquois</td>
+<td>Darin Hunter</td> <td>Miller</td>
+<td>Stephanie Hunter</td> <td>Rapid City</td>
+<td>Jeremy Hurd</td> <td>Hoven</td>
+<td>Renee Hurley</td> <td>Wessington Springs</td>
+<td>Deb Huska</td> <td>Dell Rapids</td>
+<td>Teri Huska</td> <td>Brandon Valley</td>
+<td>Hilarie Hutt</td> <td>Florence</td>
+<td>Yusuf Hyder</td> <td>Sioux Falls Public</td>
+<td>Sue Hylle</td> <td>Pierre</td>
+<td>Staci Haag</td> <td>Dakota Valley</td>
+<td>Darrell Haaland</td> <td>Sisseton</td>
+<td>Angela Haarsager</td> <td>Rapid City</td>
+<td>Cindy Haase</td> <td>Hamlin</td>
+<td>Shaun Haaseth</td> <td>Brookings</td>
+<td>Laura Haberman</td> <td>Pierre</td>
+<td>Jodee Hadley</td> <td>Brookings</td>
+<td>Jocelyn Hafner</td> <td>Rapid City</td>
+<td>Betty Hagen</td> <td>Hot Springs</td>
+<td>Mary Hagen</td> <td>St. Lawrence Catholic</td>
+<td>Scott Hagen</td> <td>Rapid City</td>
+<td>Lisa Hagerty</td> <td>John Paul II</td>
+<td>Delilah Hahn</td> <td>Scotland</td>
+<td>Denae Haiar</td> <td>Brandon Valley</td>
+<td>April Haigh</td> <td>Miller</td>
+<td>Pat Haisch</td> <td>Gayville-Volin</td>
+<td>Cory Haken</td> <td>Chester</td>
+<td>Chelsea Hall</td> <td>Vermillion</td>
+<td>Megan Hall</td> <td>Sunshine Bible Academy</td>
+<td>Jeffrey Halseth</td> <td>Sioux Falls Public</td>
+<td>Carol Halverson</td> <td>Oldham-Ramona</td>
+<td>Kara Halverson</td> <td>Rapid City</td>
+<td>Valarie Halverson</td> <td>Custer</td>
+<td>Laura Halvorson</td> <td>DIAL</td>
+<td>Jesse Hamer</td> <td>Douglas</td>
+<td>Shannon Hames</td> <td>Alcester-Hudson</td>
+<td>Darla Hamm</td> <td>Dakota Valley</td>
+<td>Melissa Hamm</td> <td>Dakota Valley</td>
+<td>David Hammer</td> <td>Wilmot</td>
+<td>Mary Hamstra</td> <td>Dakota Valley</td>
+<td>Lisa Handcock</td> <td>Agar-Blunt-Onida</td>
+<td>Penny Hanna</td> <td>Custer</td>
+<td>Linda Hannum</td> <td>Wessington Springs</td>
+<td>Ashley Hansen</td> <td>Flandreau</td>
+<td>John Hansen</td> <td>Gregory</td>
+<td>Kim Hansen</td> <td>Lead-Deadwood</td>
+<td>Patty Hansen</td> <td>Sioux Falls Public</td>
+<td>Timothy Hansen</td> <td>Lead-Deadwood</td>
+<td>Heather Hanson</td> <td>Corsica-Stickney</td>
+<td>Kristin Hanson</td> <td>Dakota Valley</td>
+<td>Rebecca Hanson</td> <td>Oldham-Ramona</td>
+<td>Shawn Hanson</td> <td>Sisseton</td>
+<td>Chris Hanten</td> <td>Doland</td>
+<td>Lynne Hanten</td> <td>Deuel</td>
+<td>Benjamin Harder</td> <td>Sioux Falls Public</td>
+<td>Brian Hardie</td> <td>Sioux Falls Public</td>
+<td>Demi Harlan</td> <td>Dakota Valley</td>
+<td>Cheryl Harming</td> <td>Brookings</td>
+<td>Sara Harmon</td> <td>Huron</td>
+<td>Marty Harms</td> <td>Sacred Heart School</td>
+<td>Wendy Harms</td> <td>Viborg-Hurley</td>
+<td>Emily Harriman</td> <td>Yankton</td>
+<td>Sally Harrington</td> <td>Tripp-Delmont</td>
+<td>Donald Harris</td> <td>Douglas</td>
+<td>Linda Harris</td> <td>Parkston</td>
+<td>Joseph Harrison</td> <td>Rapid City</td>
+<td>Kathy Harry</td> <td>Groton</td>
+<td>Andrea Hart</td> <td>Mitchell</td>
+<td>Shirley Hart</td> <td>Baltic</td>
+<td>Sarah Harte</td> <td>Brandon Valley</td>
+<td>Cheri Hartman</td> <td>Custer</td>
+<td>Renee Hartman</td> <td>Freeman</td>
+<td>Jim Hartwell</td> <td>McIntosh</td>
+<td>Vikki Hasche</td> <td>Arlington</td>
+<td>Mikaela Haskell</td> <td>Sioux Falls Public</td>
+<td>Naomi Hatfield</td> <td>Douglas</td>
+<td>Julie Hatling</td> <td>Belle Fourche</td>
+<td>Jesse Hauck</td> <td>Henry</td>
+<td>Laura Haug</td> <td>Madison Central</td>
+<td>Chad Hauge</td> <td>Brookings</td>
+<td>Kristi Hauger</td> <td>Deuel</td>
+<td>Peter Haugh</td> <td>Douglas</td>
+<td>Nancy Hausman</td> <td>Brookings</td>
+<td>Tamra Haven</td> <td>Northwestern</td>
+<td>Jennifer Havlik</td> <td>Dakota Valley</td>
+<td>Lance Hawkins</td> <td>Groton</td>
+<td>Kyle Haxton</td> <td>Belle Fourche</td>
+<td>T.J. Hay</td> <td>Rapid City</td>
+<td>Melissa Hayes</td> <td>Faulkton</td>
+<td>Bridget Healy</td> <td>Irene-Wakonda</td>
+<td>Janelle Hearnen</td> <td>Mitchell</td>
+<td>Katie Heavlin</td> <td>Sioux Falls Public</td>
+<td>Cindy Heckenlaible</td> <td>Sioux Falls Public</td>
+<td>Chad Hedderman</td> <td>Meade</td>
+<td>Pamela Hedman</td> <td>Brandon Valley</td>
+<td>Sara Heffner</td> <td>Iroquois</td>
+<td>Ann Hegge</td> <td>Frederick Area</td>
+<td>Jennifer Heggelund</td> <td>Watertown</td>
+<td>Jayne Heier</td> <td>Brookings</td>
+<td>Kim Heim</td> <td>Madison Central</td>
+<td>Jason Hein</td> <td>Bon Homme</td>
+<td>Becky Heinen</td> <td>McLaughlin</td>
+<td>Jami Heinrich</td> <td>Warner</td>
+<td>Denise Heisinger</td> <td>John Paul II</td>
+<td>Harlan Heitz</td> <td>Langford</td>
+<td>Gary Hektner</td> <td>Rapid City</td>
+<td>Wade Helleson</td> <td>Sioux Falls Public</td>
+<td>Kelli Helms</td> <td>Aberdeen</td>
+<td>Aaron Helvig</td> <td>Groton</td>
+<td>Heather Hemeyer</td> <td>Andes Central</td>
+<td>Robin Hemmen</td> <td>Elkton</td>
+<td>Amie Hemmer</td> <td>Colman-Egan</td>
+<td>Jailyn Hemmer</td> <td>Dell Rapids</td>
+<td>Misty Hemmingson</td> <td>Waverly</td>
+<td>Abbie Henderson</td> <td>Demo</td>
+<td>Jessica Hendrickson</td> <td>Dell Rapids</td>
+<td>Jodie Hendrix</td> <td>Freeman</td>
+<td>Richard Henn</td> <td>Iroquois</td>
+<td>Sabrina Henriksen</td> <td>Rapid City</td>
+<td>Chuck Henson</td> <td>Brandon Valley</td>
+<td>Deb Hepper</td> <td>Aberdeen</td>
+<td>Kelly Herbster</td> <td>St. Agnes</td>
+<td>Kara Herman</td> <td>Canton</td>
+<td>Linda Herman</td> <td>Canton</td>
+<td>Jill Hermansen</td> <td>Aberdeen</td>
+<td>Jane Hermsen</td> <td>Freeman</td>
+<td>Jacqueline Herrboldt</td> <td>Scotland</td>
+<td>Wendy Herrmann</td> <td>Sioux Falls Public</td>
+<td>Lynnette Hertel</td> <td>Watertown</td>
+<td>Craig Hertz</td> <td>Dakota Valley</td>
+<td>Chris Hettick</td> <td>Selby</td>
+<td>Kari Hettinger</td> <td>Dell Rapids</td>
+<td>Skyler Heyden</td> <td>Burke</td>
+<td>Samantha Hieb</td> <td>Mitchell</td>
+<td>Deann Hildebrandt</td> <td>Oldham-Ramona</td>
+<td>Monica Hilgemann</td> <td>Eureka</td>
+<td>Angie Hill</td> <td>Agar-Blunt-Onida</td>
+<td>Jason Hill</td> <td>Huron</td>
+<td>Greg Hilt</td> <td>Rapid City</td>
+<td>Gayle Hines</td> <td>Rapid City</td>
+<td>Heather Hinners</td> <td>Sioux Falls Public</td>
+<td>Jason Hirrschoff</td> <td>Brookings</td>
+<td>Max Hodgen</td> <td>Madison Central</td>
+<td>Susan Hoeffner</td> <td>Rapid City</td>
+<td>Nancy Hoeke</td> <td>Milbank</td>
+<td>Derek Hoellein</td> <td>Warner</td>
+<td>LaNessa Hof</td> <td>St. Mary's</td>
+<td>Clark Hofer</td> <td>Stanley County</td>
+<td>Lisa Hofer</td> <td>Brookings</td>
+<td>Melissa Hofer</td> <td>Harrisburg</td>
+<td>Blanche Hoff</td> <td>Sioux Falls Christian</td>
+<td>Kelsey Hoff</td> <td>Brandon Valley</td>
+<td>Halee Hoffman</td> <td>Gregory</td>
+<td>Jeff Hoffman</td> <td>Mitchell</td>
+<td>Nichole Hoffman</td> <td>Summit</td>
+<td>Kristin Hofkamp</td> <td>Brandon Valley</td>
+<td>Teresa Hogeland</td> <td>Bon Homme</td>
+<td>Brian Hogie</td> <td>Ipswich</td>
+<td>Ellen Hohbach</td> <td>Plankinton</td>
+<td>John Hohn</td> <td>Lead-Deadwood</td>
+<td>Nicole Hohn</td> <td>Mitchell</td>
+<td>Michelle Hojer</td> <td>Madison Central</td>
+<td>Craig Holbeck</td> <td>Armour</td>
+<td>Kristy Hollenbeck</td> <td>Estelline</td>
+<td>Jenny Holmes</td> <td>Tea</td>
+<td>June Holoch</td> <td>Elk Point-Jefferson</td>
+<td>Susan Holsworth</td> <td>Bowdle</td>
+<td>Bryce Holter</td> <td>Hanson</td>
+<td>Carissa Holtrop</td> <td>Canton</td>
+<td>Tamara Holzer</td> <td>Arlington</td>
+<td>Sarah Honerman</td> <td>DIAL</td>
+<td>Stefanie Honeyman</td> <td>McIntosh</td>
+<td>Lacey Hoogland</td> <td>Black Hills Lutheran Schools</td>
+<td>Gordon Hooks</td> <td>Wolsey-Wessington</td>
+<td>David Horan</td> <td>Douglas</td>
+<td>Laurie Horner</td> <td>Dakota Valley</td>
+<td>Merle Horst</td> <td>Brandon Valley</td>
+<td>Meggan Hortness</td> <td>Sisseton</td>
+<td>Misti Hostutler</td> <td>White River</td>
+<td>Cheryl Hovde</td> <td>Willow Lake</td>
+<td>Amy Howardson</td> <td>Watertown</td>
+<td>Erica Howell</td> <td>Sioux Valley</td>
+<td>Brenda Hrbek</td> <td>Sioux Falls Christian</td>
+<td>Melissa Hubbell</td> <td>Douglas</td>
+<td>Bridget Huber</td> <td>Mitchell</td>
+<td>Jon Huber</td> <td>Parkston</td>
+<td>Katie Huber</td> <td>Menno</td>
+<td>Stacy Huber</td> <td>Irene-Wakonda</td>
+<td>Phillip Huddleston</td> <td>Hot Springs</td>
+<td>Tom Hudso</td> <td>Demo</td>
+<td>Tamra Huffman</td> <td>Harrisburg</td>
+<td>Tim Hughes</td> <td>Garretson</td>
+<td>Adam Huisman</td> <td>Brandon Valley</td>
+<td>Jim Hulscher</td> <td>Doland</td>
+<td>Michael Hulstein</td> <td>Sioux Falls Public</td>
+<td>Tami Hummel</td> <td>Dakota Valley</td>
+<td>Stephanie Hunhoff</td> <td>Sacred Heart School</td>
+<td>Jessica Hunsaid</td> <td>Brandon Valley</td>
+<td>Kathy Hunt</td> <td>Brandon Valley</td>
+<td>Guy Hunter</td> <td>Pierre</td>
+<td>Jarrod Huntimer</td> <td>Brookings</td>
+<td>Megan Hurlbert</td> <td>DSU - Student Teachers</td>
+<td>Tyler Husby</td> <td>Colman-Egan</td>
+<td>Jordan Huska</td> <td>Dell Rapids</td>
+<td>Dave Hutchison</td> <td>Irene-Wakonda</td>
+<td>Shelby Hyde</td> <td>Highmore-Harrold</td>
+<td>Kim Hyland</td> <td>Oldham-Ramona</td>
+<td>Lon Ihler</td> <td>Oldham-Ramona</td>
+<td>Darin Indahl</td> <td>Bennett County</td>
+<td>Sheila Ingram</td> <td>Pierre</td>
+<td>Ed Isburg</td> <td>Crow Creek Tribal</td>
+<td>Cullen Iverson</td> <td>Wagner</td>
+<td>Laura Iverson</td> <td>Huron</td>
+<td>Michael Ihler</td> <td>Sioux Falls Public</td>
+<td>Brian Ingerson</td> <td>Eureka</td>
+<td>Cheryllynn Isaacson</td> <td>Meade</td>
+<td>Marie Ivers</td> <td>Flandreau</td>
+<td>Eleanor Iverson</td> <td>Miller</td>
+<td>Beth Ives</td> <td>Douglas</td>
+<td>Lisa Jackson</td> <td>Kimball</td>
+<td>Tammy Jacobi</td> <td>Rapid City</td>
+<td>Samuel Jacobs</td> <td>Vermillion</td>
+<td>Kristen Jacobsen</td> <td>Gregory</td>
+<td>Sarah Jacobsen</td> <td>Brookings</td>
+<td>Melanie Jacobson</td> <td>Mitchell</td>
+<td>Cody Jager</td> <td>Watertown</td>
+<td>Troy James</td> <td>Beresford</td>
+<td>Brian Jandahl</td> <td>Elkton</td>
+<td>Jerry Janisch</td> <td>Milbank</td>
+<td>Larry Janish</td> <td>De Smet</td>
+<td>Breanna Janovy</td> <td>USD - Student Teachers</td>
+<td>Molly Jansen</td> <td>USD - Student Teachers</td>
+<td>Megan Jaquet</td> <td>Brookings</td>
+<td>Robin Jarrett</td> <td>Montrose</td>
+<td>Karen Jaskulka</td> <td>Watertown</td>
+<td>Samantha Jenkins</td> <td>Sioux Falls Public</td>
+<td>Roberta Jenner</td> <td>Watertown</td>
+<td>Becky Jensen</td> <td>Beresford</td>
+<td>Deb Jensen</td> <td>Viborg-Hurley</td>
+<td>Georgianna Jensen</td> <td>Elkton</td>
+<td>Joshua Jensen</td> <td>Aberdeen</td>
+<td>Louann Jensen</td> <td>Estelline</td>
+<td>Rick Jensen</td> <td>Rapid City</td>
+<td>Sarah Jensen</td> <td>Sioux Valley</td>
+<td>Sheila Jensen</td> <td>Dakota Valley</td>
+<td>Jackie Jessop Rising</td> <td>Douglas</td>
+<td>Dan Jewett</td> <td>Tri-Valley</td>
+<td>Mark Joachim</td> <td>Corsica-Stickney</td>
+<td>Tara Johanneson</td> <td>Sioux Falls Catholic</td>
+<td>Abby Johnson</td> <td>Huron</td>
+<td>Alyssa Johnson</td> <td>Brandon Valley</td>
+<td>Amy Johnson</td> <td>Chester</td>
+<td>Andrea Johnson</td> <td>West Central</td>
+<td>Andrew Johnson</td> <td>Oldham-Ramona</td>
+<td>Ashley Johnson</td> <td>Florence</td>
+<td>Billijo Johnson</td> <td>Brookings</td>
+<td>Brittany Johnson</td> <td>USD - Student Teachers</td>
+<td>Darlyne Johnson</td> <td>Groton</td>
+<td>Gerald Johnson</td> <td>Rapid City</td>
+<td>Heidi Johnson</td> <td>Marion</td>
+<td>Jan Johnson</td> <td>Watertown</td>
+<td>Jesse Johnson</td> <td>Marion</td>
+<td>Josh Johnson</td> <td>Dakota Valley</td>
+<td>Joyce Johnson</td> <td>Milbank</td>
+<td>Karen Johnson</td> <td>Watertown</td>
+<td>Kirstin Johnson</td> <td>Madison Central</td>
+<td>Larissa Johnson</td> <td>Harrisburg</td>
+<td>Linda Johnson</td> <td>Brookings</td>
+<td>Lonny Johnson</td> <td>Montrose</td>
+<td>Mary Johnson</td> <td>Groton</td>
+<td>Michelle Johnson</td> <td>Huron</td>
+<td>Nicole Johnson</td> <td>Aberdeen</td>
+<td>Paula Johnson</td> <td>Groton</td>
+<td>Rhonda Johnson</td> <td>Madison Central</td>
+<td>Taylor Johnson</td> <td>Brookings</td>
+<td>Tina Johnson</td> <td>Rapid City</td>
+<td>Travis Johnson</td> <td>Madison Central</td>
+<td>Zach Johnson</td> <td>Madison Central</td>
+<td>Michele Joint</td> <td>Edgemont</td>
+<td>Dean Jones</td> <td>Waubay</td>
+<td>Ken Jones</td> <td>Highmore-Harrold</td>
+<td>Marcy Jones</td> <td>Mitchell</td>
+<td>Mike Jones</td> <td>Sioux Falls Public</td>
+<td>Tyann Jones</td> <td>Miller</td>
+<td>Barb Jonkers</td> <td>South Central Coop</td>
+<td>LaKisha Jordan</td> <td>Pierre</td>
+<td>Loretta Jorgensen</td> <td>Irene-Wakonda</td>
+<td>Janet Jorgenson</td> <td>Hamlin</td>
+<td>Patty Jorgenson</td> <td>Brookings</td>
+<td>Todd Jorgenson</td> <td>Brookings</td>
+<td>Nick Joslyn</td> <td>Canton</td>
+<td>Katie Juhnke</td> <td>Parker</td>
+<td>Jason Jund</td> <td>Dakota Valley</td>
+<td>Brent Jung</td> <td>Sioux Falls Public</td>
+<td>Tamara Jung</td> <td>Madison Central</td>
+<td>Nicki Jurgens</td> <td>Henry</td>
+<td>Alexis Jurrens</td> <td>Freeman</td>
+<td>Ted Jackson</td> <td>Madison Central</td>
+<td>Laura Jacobs</td> <td>Canton</td>
+<td>Toni Jacobs</td> <td>Rapid City</td>
+<td>Matthew Jacobsen</td> <td>Brookings</td>
+<td>Dorla Jacobson</td> <td>Big Stone City</td>
+<td>Jennifer Jacques</td> <td>Ethan</td>
+<td>Renee James</td> <td>Beresford</td>
+<td>Chase Jamison</td> <td>Mitchell</td>
+<td>Michael Janes</td> <td>Aberdeen</td>
+<td>Kevin Janish</td> <td>Scotland</td>
+<td>Danny Janklow</td> <td>Rapid City</td>
+<td>Jamie Jansen</td> <td>Hanson</td>
+<td>Jessica Janssen</td> <td>West Central</td>
+<td>James Jarovski</td> <td>Sioux Falls Public</td>
+<td>Kristy Jarrott</td> <td>Leola</td>
+<td>Lori Jeffers</td> <td>Harrisburg</td>
+<td>Todd Jenkins</td> <td>Clark</td>
+<td>Nanci Jennings</td> <td>Rapid City</td>
+<td>Deann Jensen</td> <td>Madison Central</td>
+<td>Debra Jensen</td> <td>Northeast Ed Coop</td>
+<td>Janet Jensen</td> <td>Rapid City</td>
+<td>Laura Jensen</td> <td>Tri-Valley</td>
+<td>Melinda Jensen</td> <td>West Central</td>
+<td>Ruth Jensen</td> <td>Rapid City</td>
+<td>Sharlene Jensen</td> <td>Oldham-Ramona</td>
+<td>Daryl Jessen</td> <td>Dakota Valley</td>
+<td>Jenna Jewell</td> <td>Florence</td>
+<td>John Jewett</td> <td>Dell Rapids</td>
+<td>Chad Jodozi</td> <td>Parkston</td>
+<td>Kathy Johannsen</td> <td>Alcester-Hudson</td>
+<td>Alec Johnson</td> <td>Brookings</td>
+<td>Amanda Johnson</td> <td>Doland</td>
+<td>Andrea Johnson</td> <td>Dakota Valley</td>
+<td>Andrew Johnson</td> <td>Dakota Valley</td>
+<td>Andy Johnson</td> <td>Brandon Valley</td>
+<td>Becky Johnson</td> <td>Milbank</td>
+<td>Brent Johnson</td> <td>Tea</td>
+<td>Connie Johnson</td> <td>Stanley County</td>
+<td>E. Orange Johnson</td> <td>Douglas</td>
+<td>Guy Johnson</td> <td>Garretson</td>
+<td>Jamie Johnson</td> <td>Brandon Valley</td>
+<td>Jennie Johnson</td> <td>Sacred Heart School</td>
+<td>Joseph Johnson</td> <td>Sioux Falls Public</td>
+<td>Joshua Johnson</td> <td>Brookings</td>
+<td>Karen Johnson</td> <td>Meade</td>
+<td>Kathy Johnson</td> <td>Watertown</td>
+<td>Kyle Johnson</td> <td>Huron</td>
+<td>Lexi Johnson</td> <td>De Smet</td>
+<td>Lisa Johnson</td> <td>Brandon Valley</td>
+<td>Mary Johnson</td> <td>Deubrook</td>
+<td>Mary Johnson</td> <td>Mitchell</td>
+<td>Missy Johnson</td> <td>Brandon Valley</td>
+<td>Patti Johnson</td> <td>Watertown</td>
+<td>Penny Johnson</td> <td>Oldham-Ramona</td>
+<td>Susan Johnson</td> <td>Dakota Valley</td>
+<td>Teresa Johnson</td> <td>Garretson</td>
+<td>Tony Johnson</td> <td>Garretson</td>
+<td>Valerie Johnson</td> <td>CORE</td>
+<td>Lorie Johnston</td> <td>Newell</td>
+<td>Barb Jones</td> <td>Miller</td>
+<td>Deb Jones</td> <td>Brandon Valley</td>
+<td>Kris Jones</td> <td>Brandon Valley</td>
+<td>Michael Jones</td> <td>Sioux Falls Public</td>
+<td>Sandra Jones</td> <td>Iroquois</td>
+<td>Sarah Jongeling</td> <td>Madison Central</td>
+<td>Arnold Jordan</td> <td>Douglas</td>
+<td>Patti Jordre</td> <td>Agar-Blunt-Onida</td>
+<td>Stephanie Jorgensen</td> <td>Brandon Valley</td>
+<td>Joel Jorgenson</td> <td>Madison Central</td>
+<td>Ronald Jorgenson</td> <td>Pierre</td>
+<td>Samantha Josephsen</td> <td>Hamlin</td>
+<td>Cody Juffer</td> <td>Dakota Valley</td>
+<td>Terri Juhnke</td> <td>Mitchell</td>
+<td>Rosa Jundt</td> <td>Eureka</td>
+<td>Jess Jung</td> <td>McIntosh</td>
+<td>Stephanie Jungers</td> <td>Brookings</td>
+<td>Katie Jurgensen</td> <td>Brandon Valley</td>
+<td>Joe Kafka</td> <td>Wagner</td>
+<td>Nicole Kafka</td> <td>Wagner</td>
+<td>Darla Kahler</td> <td>Bison</td>
+<td>Jennifer Kallstrom Kaufman</td> <td>Sisseton</td>
+<td>Connie Kaltenbach</td> <td>Oglala Lakota County</td>
+<td>Kimberly Kane</td> <td>Montrose</td>
+<td>Lori Kappler</td> <td>Chester</td>
+<td>Karen Karim</td> <td>Custer</td>
+<td>Kristi Karlson</td> <td>Dakota Valley</td>
+<td>Todd Karst</td> <td>Plankinton</td>
+<td>Justin Karstens</td> <td>Gayville-Volin</td>
+<td>Sandra Kasen</td> <td>Rapid City</td>
+<td>Carolyn Kastein</td> <td>Bon Homme</td>
+<td>Jane Kattke</td> <td>Oldham-Ramona</td>
+<td>Margie Katus</td> <td>McIntosh</td>
+<td>Merritt Keehn</td> <td>Lead-Deadwood</td>
+<td>Terry Keehn</td> <td>McCook Central</td>
+<td>Amy Keester</td> <td>Douglas</td>
+<td>Kathy Keffeler</td> <td>Douglas</td>
+<td>Lori Keleher</td> <td>Huron</td>
+<td>Kelly Keller</td> <td>Arlington</td>
+<td>Mary Kellogg</td> <td>Rapid City</td>
+<td>Kevin Kelly</td> <td>Mitchell</td>
+<td>Whitney Kemink</td> <td>West Central</td>
+<td>Mark Kenefick</td> <td>Douglas</td>
+<td>Dan Kennedy</td> <td>Iroquois</td>
+<td>Marie Kennedy</td> <td>Douglas</td>
+<td>Debra Kenworthy</td> <td>Pierre</td>
+<td>Katie Keppen</td> <td>Harrisburg</td>
+<td>Tracy Kern</td> <td>Harrisburg</td>
+<td>Lisa Ketchum</td> <td>Tripp-Delmont</td>
+<td>Terice Ketelhut</td> <td>Miller</td>
+<td>Jim Keyes</td> <td>Pierre</td>
+<td>Teresa Keyser</td> <td>Douglas</td>
+<td>Kristy Kienzle</td> <td>USD - Student Teachers</td>
+<td>Clinton Kiewel</td> <td>Mitchell</td>
+<td>Bobbie Kilber</td> <td>TIE</td>
+<td>Kaitlyn Killoran</td> <td>Canistota</td>
+<td>Nancy Kindelspire</td> <td>Leola</td>
+<td>Lori Kindle</td> <td>Douglas</td>
+<td>John King</td> <td>Gregory</td>
+<td>Julie King</td> <td>Huron</td>
+<td>Sandi King</td> <td>Centerville</td>
+<td>Tara King</td> <td>Arlington</td>
+<td>Tony Kinneberg</td> <td>Parkston</td>
+<td>Aaron Kinowski</td> <td>Sioux Falls Public</td>
+<td>Dan Kirsch</td> <td>Sioux Falls Public</td>
+<td>Stacey Kirschenman</td> <td>Irene-Wakonda</td>
+<td>Riley Kirwan</td> <td>Wagner</td>
+<td>Krysia Kjerstad</td> <td>Pierre</td>
+<td>Amanda Klawonn</td> <td>Madison Central</td>
+<td>Sara Klein</td> <td>Gregory</td>
+<td>Marissa Kleinhans</td> <td>Alcester-Hudson</td>
+<td>Paula Kleinsasser</td> <td>James Valley Christian</td>
+<td>Alise Kling</td> <td>McIntosh</td>
+<td>Camile Kling</td> <td>DSU - Student Teachers</td>
+<td>Gayle Klinker</td> <td>Brookings</td>
+<td>Kim Kludt</td> <td>Deubrook</td>
+<td>Karen Kluin</td> <td>Brandon Valley</td>
+<td>Sadie Klumb</td> <td>Mitchell</td>
+<td>Daniel Klumper</td> <td>Brandon Valley</td>
+<td>Lonnie Klundt</td> <td>Gregory</td>
+<td>Lori Knadle</td> <td>Arlington</td>
+<td>Dale Knebel</td> <td>Rosholt</td>
+<td>Kelly Lynn Knebel</td> <td>Langford</td>
+<td>Connie Knecht</td> <td>Sisseton</td>
+<td>Lori Kneebone</td> <td>Flandreau</td>
+<td>Betsy Knodel</td> <td>Menno</td>
+<td>Loretta Knodel</td> <td>Avon</td>
+<td>Melissa Knox</td> <td>Doland</td>
+<td>Cheryl Knudson</td> <td>Irene-Wakonda</td>
+<td>Kelly Knutson</td> <td>Beresford</td>
+<td>Nicholas Knutson</td> <td>Douglas</td>
+<td>Jim Kocer</td> <td>Scotland</td>
+<td>Pam Kocer</td> <td>Wagner</td>
+<td>Shawn Koch</td> <td>Harrisburg</td>
+<td>Dawn Kocmich</td> <td>Avon</td>
+<td>Emily Koenig</td> <td>Willow Lake</td>
+<td>Elizabeth Koerner</td> <td>Sacred Heart School</td>
+<td>Loretta Kokes</td> <td>Wagner</td>
+<td>Vickie Kolb</td> <td>Brandon Valley</td>
+<td>Jason Kolousek</td> <td>Wessington Springs</td>
+<td>Thomas Konechne</td> <td>Kimball</td>
+<td>Alexis Konrad</td> <td>Chamberlain</td>
+<td>Brent Konvalin</td> <td>Sioux Falls Public</td>
+<td>Eric Kooima</td> <td>Sioux Falls Christian</td>
+<td>Karla Koons</td> <td>Mitchell</td>
+<td>Tracy Kopejtka</td> <td>Marion</td>
+<td>Heidi Kopren</td> <td>Bison</td>
+<td>Brian Korber</td> <td>Pierre Indian Learning Center</td>
+<td>Joey Kortemeyer</td> <td>Custer</td>
+<td>Jeff Kosters</td> <td>Frederick Area</td>
+<td>Ericka Kotab</td> <td>South Central Coop</td>
+<td>Darla Kotrba</td> <td>Mitchell Technical Institute</td>
+<td>Michael Koupal</td> <td>Wagner</td>
+<td>Aaron Kowaleski</td> <td>Douglas</td>
+<td>Janelle Kozak</td> <td>Bon Homme</td>
+<td>Julie Kraft</td> <td>Wessington Springs</td>
+<td>Sara Kraft</td> <td>Platte-Geddes</td>
+<td>Brent Kramer</td> <td>Brandon Valley</td>
+<td>Cory Kranhold</td> <td>Sisseton</td>
+<td>Desiree Kranz</td> <td>Rapid City</td>
+<td>Gail Krause</td> <td>Hamlin</td>
+<td>Mark Kreie</td> <td>Brookings</td>
+<td>Deb Kresak</td> <td>Brandon Valley</td>
+<td>Jenny Krier</td> <td>Sacred Heart School</td>
+<td>Debra Kriete</td> <td>BIT</td>
+<td>Preston Kristensen</td> <td>Mount Vernon</td>
+<td>Joe Krivarchka</td> <td>Brandon Valley</td>
+<td>Kevin Kroger</td> <td>Harrisburg</td>
+<td>Casey Krogman</td> <td>Rutland</td>
+<td>Leigh Krogman</td> <td>White River</td>
+<td>Troy Krogman</td> <td>White River</td>
+<td>Michael Kroll</td> <td>Warner</td>
+<td>Angela Kronaizl</td> <td>Sacred Heart School</td>
+<td>Ann Kropuenske</td> <td>Beresford</td>
+<td>Kristi Krouse</td> <td>Mitchell</td>
+<td>Becky Krueger</td> <td>Wessington Springs</td>
+<td>Jessica Krueger</td> <td>Harrisburg</td>
+<td>Rhonda Kruger</td> <td>Watertown</td>
+<td>Chelsea Kruse</td> <td>Montrose</td>
+<td>Julie Kruse</td> <td>Deuel</td>
+<td>Steven Kruse</td> <td>Vermillion</td>
+<td>Doreen Kuca</td> <td>Wagner</td>
+<td>Elke Kuegle</td> <td>Douglas</td>
+<td>Tara Kuenkel</td> <td>Douglas</td>
+<td>Kim Kueter</td> <td>Brandon Valley</td>
+<td>Jamie Kuhlman</td> <td>Wagner</td>
+<td>Angie Kulesa</td> <td>Ipswich</td>
+<td>Peggy Kummer</td> <td>Parkston</td>
+<td>Travis Kurth</td> <td>Groton</td>
+<td>Diane Kurtz</td> <td>Groton</td>
+<td>Barbara Kusler</td> <td>Rapid City</td>
+<td>Abby Kyle</td> <td>Sioux Falls Public</td>
+<td>Kristi Kafka</td> <td>CORE</td>
+<td>Sherrie Kafka</td> <td>Hot Springs</td>
+<td>Joanne Kallhoff</td> <td>Madison Central</td>
+<td>RiAnna Kalovsky</td> <td>Mitchell</td>
+<td>Michael Kamrud</td> <td>Chester</td>
+<td>Christina Kannegieter</td> <td>Willow Lake</td>
+<td>Susan Karels</td> <td>Milbank</td>
+<td>Erica Karl</td> <td>Brandon Valley</td>
+<td>Michelle Karst</td> <td>Plankinton</td>
+<td>Jean Karsten</td> <td>Meade</td>
+<td>Ronette Karstens</td> <td>Gayville-Volin</td>
+<td>Jeannie Kasik</td> <td>Bon Homme</td>
+<td>Jim Katrenak</td> <td>Dakota Valley</td>
+<td>Heather Katus</td> <td>McIntosh</td>
+<td>Stephanie Kaufman</td> <td>Meade</td>
+<td>Teresa Keehn</td> <td>McCook Central</td>
+<td>Seth Keene</td> <td>Rapid City</td>
+<td>Mark Keeton</td> <td>Milbank</td>
+<td>Joy Kehrwald</td> <td>Ipswich</td>
+<td>Angela Keller</td> <td>Aberdeen Catholic</td>
+<td>Paul Kelley</td> <td>Custer</td>
+<td>Jensi Kellogg-Andrus</td> <td>Watertown</td>
+<td>Kimberly Kelly</td> <td>Brandon Valley</td>
+<td>Ashley Kemmis</td> <td>Sioux Falls Public</td>
+<td>Danelle Keninger</td> <td>Madison Central</td>
+<td>Luann Kennedy</td> <td>Sacred Heart School</td>
+<td>Rebecca Kenoyer</td> <td>Douglas</td>
+<td>Lucy Kephart</td> <td>Brookings</td>
+<td>Roxy Kerkvliet</td> <td>Hamlin</td>
+<td>Angela Keszler</td> <td>Hamlin</td>
+<td>Mark Ketelhut</td> <td>Miller</td>
+<td>Sara Kettwig</td> <td>Parker</td>
+<td>Jeff Keyman</td> <td>Canton</td>
+<td>Alysha Kientopf</td> <td>Garretson</td>
+<td>Ashley Kier</td> <td>Wall</td>
+<td>Kim Kightlinger</td> <td>Selby</td>
+<td>Jacqueline Kilbride</td> <td>Sioux Falls Public</td>
+<td>Linda Kimmel</td> <td>McCook Central</td>
+<td>Samantha Kinder</td> <td>DSU - Student Teachers</td>
+<td>Brooke King</td> <td>Huron</td>
+<td>Julie King</td> <td>Centerville</td>
+<td>Mike King</td> <td>Irene-Wakonda</td>
+<td>Sharon King</td> <td>Brookings</td>
+<td>Paula Kingery</td> <td>Madison Central</td>
+<td>Deb Kinnunen</td> <td>Irene-Wakonda</td>
+<td>Karen Kirkebak</td> <td>Beresford</td>
+<td>Jean Kirschenman</td> <td>Brookings</td>
+<td>Brenda Kirton</td> <td>Wagner</td>
+<td>Amanda Kjerstad</td> <td>Wall</td>
+<td>Connie Klaudt</td> <td>McIntosh</td>
+<td>Melissa Kleffman</td> <td>Ipswich</td>
+<td>Staci Klein</td> <td>Brookings</td>
+<td>Cleopatra Kleinsasser</td> <td>Miller</td>
+<td>Pamela Klenner</td> <td>Brandon Valley</td>
+<td>Amanda Kling</td> <td>Rapid City Catholic School System</td>
+<td>Ione Klinger</td> <td>Mitchell</td>
+<td>Patti Klinkhammer</td> <td>Hanson</td>
+<td>Randy Kludt</td> <td>Winner</td>
+<td>Jennifer Klumb</td> <td>Ethan</td>
+<td>Abby Klumper</td> <td>Brandon Valley</td>
+<td>Jennifer Klundt</td> <td>CORE</td>
+<td>Scott Klungseth</td> <td>Beresford</td>
+<td>Basil Knebel</td> <td>Langford</td>
+<td>Jason Knebel</td> <td>Wagner</td>
+<td>Stacey Knebel</td> <td>Wagner</td>
+<td>Roger Knecht</td> <td>Parker</td>
+<td>Eric Knight</td> <td>Centerville</td>
+<td>Landra Knodel</td> <td>Irene-Wakonda</td>
+<td>Jacquine Knox</td> <td>Highmore-Harrold</td>
+<td>Boyd Knudsen</td> <td>Hamlin</td>
+<td>Karyl Knudson</td> <td>Smee</td>
+<td>Kristin Knutson</td> <td>Douglas</td>
+<td>Rachel Knutson</td> <td>Parker</td>
+<td>Jody Kocer</td> <td>Wagner</td>
+<td>Cotton Koch</td> <td>Madison Central</td>
+<td>Anita Kochutin</td> <td>Douglas</td>
+<td>Gina Koehn</td> <td>Brandon Valley</td>
+<td>Ronda Koepsell</td> <td>Montrose</td>
+<td>Debra Kogel</td> <td>Wessington Springs</td>
+<td>Janet Kolb</td> <td>Sioux Falls Public</td>
+<td>Chris Koletzky</td> <td>Meade</td>
+<td>Patricia Konechne</td> <td>Kimball</td>
+<td>Cindy Konold</td> <td>Deuel</td>
+<td>DeeAnn Konrad</td> <td>Sioux Falls Public</td>
+<td>Matt Konz</td> <td>Baltic</td>
+<td>Kyle Kooima</td> <td>Castlewood</td>
+<td>Sherry Koopman</td> <td>Dell Rapids</td>
+<td>Kacee Kopfmann</td> <td>Mitchell</td>
+<td>Mitchell Korbel</td> <td>Woonsocket</td>
+<td>Ross Kortan</td> <td>Bon Homme</td>
+<td>Dean Koster</td> <td>Oldham-Ramona</td>
+<td>Timothy Kosters</td> <td>Lead-Deadwood</td>
+<td>Jill Kotalik</td> <td>Bon Homme</td>
+<td>Sona Kott</td> <td>CORE</td>
+<td>Lyle Kovalenko</td> <td>Harrisburg</td>
+<td>Bailey Kowalski</td> <td>TIE</td>
+<td>Brenda Kraft</td> <td>McIntosh</td>
+<td>Kathy Kraft</td> <td>Pierre</td>
+<td>Cindy Krakow</td> <td>Waverly</td>
+<td>Pat Kramer</td> <td>Pierre</td>
+<td>Lisa Kraning</td> <td>Hamlin</td>
+<td>Susan Kranz</td> <td>Deubrook</td>
+<td>Ashley Krdzalic</td> <td>Sioux Falls Public</td>
+<td>Mary Krell</td> <td>Mitchell</td>
+<td>Michelle Kretschmar</td> <td>Huron</td>
+<td>Trey Krier</td> <td>Yankton</td>
+<td>Merissa Kringen</td> <td>Brandon Valley</td>
+<td>Shelby Kristensen</td> <td>Mitchell</td>
+<td>Alana Kroeplin</td> <td>Highmore-Harrold</td>
+<td>Kyla Kroger</td> <td>Brandon Valley</td>
+<td>Kristan Krogman</td> <td>White River</td>
+<td>Melanie Krogman</td> <td>Watertown</td>
+<td>Jane Kroll</td> <td>Groton</td>
+<td>Mary Kron</td> <td>Douglas</td>
+<td>Cindy Kroon</td> <td>Montrose</td>
+<td>Jesse Kroupa</td> <td>Harrisburg</td>
+<td>Abby Krueger</td> <td>Langford</td>
+<td>Heidi Krueger</td> <td>Groton</td>
+<td>Katelyn Krueger</td> <td>McCook Central</td>
+<td>Shana Kruger</td> <td>Pierre</td>
+<td>Johnny Kruse</td> <td>Wessington Springs</td>
+<td>Samuel Kruse</td> <td>Brandon Valley</td>
+<td>Kenneth Krzyzanowski</td> <td>Rapid City</td>
+<td>Marsha Kucker</td> <td>East Dakota Educational Coop</td>
+<td>Stephanie Kuemper-Tibbs</td> <td>Elkton</td>
+<td>Dean Kueter</td> <td>Cornbelt Educational Cooperative</td>
+<td>Benita Kuhlman</td> <td>Avon</td>
+<td>Paul Kuhlman</td> <td>Avon</td>
+<td>Kathy Kulm</td> <td>Aberdeen</td>
+<td>Amanda Kunkel</td> <td>Plankinton</td>
+<td>Bill Kurtz</td> <td>Chamberlain</td>
+<td>Kristine Kurtz</td> <td>Dakota Valley</td>
+<td>Tomi Kusser</td> <td>Hanson</td>
+<td>Kami Labs</td> <td>New Underwood</td>
+<td>Jackie Lackas</td> <td>Parker</td>
+<td>Darren Lacroix</td> <td>Lead-Deadwood</td>
+<td>Donna Lager</td> <td>Harrisburg</td>
+<td>Joni Lambert</td> <td>Baltic</td>
+<td>Chantrel LaMont</td> <td>Highmore-Harrold</td>
+<td>Sharon Landsman</td> <td>Elkton</td>
+<td>Katee Lane</td> <td>Brandon Valley</td>
+<td>Dale Langbehn</td> <td>Plankinton</td>
+<td>Tana Langdeaux</td> <td>Wagner</td>
+<td>Stacey Langley</td> <td>Dakota Valley</td>
+<td>Anthony Lanham</td> <td>West Central</td>
+<td>Holly Lansink</td> <td>Dakota Valley</td>
+<td>Travis Lape</td> <td>Harrisburg</td>
+<td>Brittney Lardy</td> <td>Sisseton</td>
+<td>Nicole Larrabee</td> <td>Rapid City</td>
+<td>Erin Larsen</td> <td>Arlington</td>
+<td>Nancy Larsen</td> <td>Parkston</td>
+<td>Adam Larson</td> <td>Tea</td>
+<td>Bobbi Larson</td> <td>Chamberlain</td>
+<td>Caleb Larson</td> <td>Todd County</td>
+<td>Catherine Larson</td> <td>Gettysburg</td>
+<td>Diana Larson</td> <td>Madison Central</td>
+<td>Jarod Larson</td> <td>Brandon Valley</td>
+<td>Jessica Larson</td> <td>Aberdeen Catholic</td>
+<td>Kristin Larson</td> <td>Harrisburg</td>
+<td>Lisa Larson</td> <td>Kimball</td>
+<td>Michelle Larson</td> <td>Winner</td>
+<td>Morgan Larson</td> <td>Tri-Valley</td>
+<td>Pam Larson</td> <td>Brookings</td>
+<td>Roxann Larson</td> <td>CORE</td>
+<td>Sheryl Larson</td> <td>Chamberlain</td>
+<td>Susan Larson</td> <td>Langford</td>
+<td>Vickie Larson</td> <td>Rapid City</td>
+<td>Tricia Lasley</td> <td>Hanson</td>
+<td>Rory LaValliere</td> <td>Baltic</td>
+<td>Drew Lawrence</td> <td>Yankton</td>
+<td>Mary Lawson</td> <td>Plankinton</td>
+<td>Nancy Leach</td> <td>Mitchell</td>
+<td>Mary Lease</td> <td>Wagner</td>
+<td>Al Leber</td> <td>Elk Point-Jefferson</td>
+<td>Marci Leberman</td> <td>Parker</td>
+<td>John Leboeuf</td> <td>White River</td>
+<td>Diana Leclair</td> <td>Rosholt</td>
+<td>Melissa Ledeboer</td> <td>DSU - Student Teachers</td>
+<td>Andy Lee</td> <td>Brookings</td>
+<td>Irene Lee</td> <td>Rapid City</td>
+<td>Tina Lee</td> <td>Douglas</td>
+<td>Dawn Leenderts</td> <td>Brandon Valley</td>
+<td>Blake Lehman</td> <td>White River</td>
+<td>Dave Lehr</td> <td>Kimball</td>
+<td>Amanda Lehrke</td> <td>Waverly</td>
+<td>Patty Leidholt</td> <td>Pierre Indian Learning Center</td>
+<td>Kathy Leighton</td> <td>Florence</td>
+<td>Kevin Lein</td> <td>Harrisburg</td>
+<td>Goldie Leininger</td> <td>Sioux Falls Public</td>
+<td>Tyler Leisinger</td> <td>DSU - Student Teachers</td>
+<td>Mallory Leite</td> <td>Brookings</td>
+<td>Diane Leitheiser</td> <td>Aberdeen</td>
+<td>Jodi Lems</td> <td>Canton</td>
+<td>Tom Lenox</td> <td>Northeast Technical High School</td>
+<td>Vicki Lentz</td> <td>Agar-Blunt-Onida</td>
+<td>Lindsey Lesnar</td> <td>Baltic</td>
+<td>Dawn Leuning</td> <td>Deubrook</td>
+<td>Jayne Leusink</td> <td>Rapid City</td>
+<td>Britney Lewis</td> <td>Rapid City</td>
+<td>Lori Libra</td> <td>Rapid City</td>
+<td>Emily Lichtscheidl</td> <td>Brandon Valley</td>
+<td>Chelsey Liebl</td> <td>Warner</td>
+<td>Gale Lien</td> <td>Bowdle</td>
+<td>Joey Liesinger</td> <td>Madison Central</td>
+<td>Stephanie Light</td> <td>Irene-Wakonda</td>
+<td>Tammy Lilly</td> <td>Dakota Valley</td>
+<td>Molly Lindgren</td> <td>Watertown</td>
+<td>Tia Lindlauf</td> <td>DSU - Student Teachers</td>
+<td>Barbara Lindquist</td> <td>Bon Homme</td>
+<td>Kristie Lindskov</td> <td>Todd County</td>
+<td>Kristi Lingert</td> <td>Milbank</td>
+<td>Jill Linn</td> <td>Pierre</td>
+<td>Janelle Lipetzky</td> <td>Harrisburg</td>
+<td>Tina Lippert</td> <td>Sioux Falls Public</td>
+<td>Brenda Livermont</td> <td>Elkton</td>
+<td>Missy Livingston</td> <td>Brandon Valley</td>
+<td>Linda Loberg</td> <td>Sisseton</td>
+<td>Klaire Lockheart</td> <td>Brandon Valley</td>
+<td>Jeffrey Lockner</td> <td>Brandon Valley</td>
+<td>Becky Lockwood</td> <td>Brookings</td>
+<td>Kim Loeffen</td> <td>Lead-Deadwood</td>
+<td>Karen Loeschke</td> <td>Milbank</td>
+<td>Leanne Lohan</td> <td>Canton</td>
+<td>Janel Lone</td> <td>Groton</td>
+<td>Cassandra Long</td> <td>USD - Student Teachers</td>
+<td>Deb Long</td> <td>Harding County</td>
+<td>Kayla Long</td> <td>Douglas</td>
+<td>Barry Longden</td> <td>Rapid City</td>
+<td>Allerie Loof</td> <td>Hanson</td>
+<td>Seth Loofbourrow</td> <td>Freeman</td>
+<td>Nancy Lorenz</td> <td>Parkston</td>
+<td>Megan Lougheed</td> <td>Rapid City</td>
+<td>Rebecca Loutsch</td> <td>Sacred Heart School</td>
+<td>Justin Lovrien</td> <td>Brandon Valley</td>
+<td>Michelle Lubinus</td> <td>Brandon Valley</td>
+<td>Debera Lucas</td> <td>Andes Central</td>
+<td>Natasha Luchtenburg</td> <td>Flandreau</td>
+<td>George Ludvik</td> <td>White River</td>
+<td>Elizabeth Lukonen</td> <td>Canton</td>
+<td>Jenny Lund</td> <td>Florence</td>
+<td>Janie Lundberg</td> <td>Garretson</td>
+<td>Cynthia Lundgren</td> <td>Rapid City</td>
+<td>Carol Lundy</td> <td>Bon Homme</td>
+<td>Calley Lusk</td> <td>Hamlin</td>
+<td>Rich Luther</td> <td>Lennox</td>
+<td>Paula Lutz</td> <td>Brandon Valley</td>
+<td>Heather Lynch</td> <td>DSU - Student Teachers</td>
+<td>Mitch Lynch</td> <td>Sioux Falls Public</td>
+<td>Anne Lyon</td> <td>Bennett County</td>
+<td>Wanda Lyons</td> <td>Harding County</td>
+<td>Carol Lacher</td> <td>Ipswich</td>
+<td>Amanda LaCroix</td> <td>Gayville-Volin</td>
+<td>Carli Lager</td> <td>Oldham-Ramona</td>
+<td>Becky Lamb</td> <td>Agar-Blunt-Onida</td>
+<td>Becky Lambrechts</td> <td>Milbank</td>
+<td>Kali Lamp</td> <td>Brookings</td>
+<td>Bradi Lane</td> <td>Harrisburg</td>
+<td>William Lanfear</td> <td>Marion</td>
+<td>Dan Langbehn</td> <td>De Smet</td>
+<td>Jaclyn Lange</td> <td>Sioux Falls Public</td>
+<td>Alex Langner</td> <td>Baltic</td>
+<td>Tony Lanning</td> <td>Brookings</td>
+<td>JoAnna Lanz</td> <td>Gregory</td>
+<td>Tracie Larabee</td> <td>Andes Central</td>
+<td>Ramon LaRoque</td> <td>Crazy Horse School</td>
+<td>Ellen Larsen</td> <td>Rapid City</td>
+<td>Mikala Larsen</td> <td>Beresford</td>
+<td>Nikki Larsen</td> <td>Oldham-Ramona</td>
+<td>Becky Larson</td> <td>Mitchell</td>
+<td>Bonnie Larson</td> <td>Rapid City</td>
+<td>Carrie Larson</td> <td>Bennett County</td>
+<td>Chelsea Larson</td> <td>Waubay</td>
+<td>Janna Larson</td> <td>Highmore-Harrold</td>
+<td>Jean Larson</td> <td>TIE</td>
+<td>Katie Larson</td> <td>Gettysburg</td>
+<td>Lisa Larson</td> <td>John Paul II</td>
+<td>Lisa Larson</td> <td>Pierre</td>
+<td>Misty Larson</td> <td>Chester</td>
+<td>Netta Larson</td> <td>Canton</td>
+<td>Rayann Larson</td> <td>Plankinton</td>
+<td>Sandra Larson</td> <td>Douglas</td>
+<td>Staci Larson</td> <td>Gayville-Volin</td>
+<td>Tania Larson</td> <td>Sioux Falls Public</td>
+<td>Wendy Larson</td> <td>Belle Fourche</td>
+<td>Karla Laufmann</td> <td>Brandon Valley</td>
+<td>Peter Lawler</td> <td>Douglas</td>
+<td>Lynn Lawson</td> <td>McIntosh</td>
+<td>Bridget Leach</td> <td>Harrisburg</td>
+<td>Jenny Lease</td> <td>Waverly</td>
+<td>Tim Lease</td> <td>Brookings</td>
+<td>Bill Leberman</td> <td>Parker</td>
+<td>Amanda LeBlanc</td> <td>Douglas</td>
+<td>Bonnie LeCates</td> <td>Lead-Deadwood</td>
+<td>Lori Leddy</td> <td>Milbank</td>
+<td>Abby Lee</td> <td>Colman-Egan</td>
+<td>Bill Lee</td> <td>Demo</td>
+<td>Sandie Lee</td> <td>De Smet</td>
+<td>Tina Lee</td> <td>Irene-Wakonda</td>
+<td>Julie LeFebvre</td> <td>Brookings</td>
+<td>Joseph Lehman</td> <td>Pierre</td>
+<td>Lorie Lehr</td> <td>Menno</td>
+<td>Jennie Leibel</td> <td>Avon</td>
+<td>Gary Leighton</td> <td>Florence</td>
+<td>Peggy Leighton</td> <td>Madison Central</td>
+<td>Tina Lein</td> <td>Chamberlain</td>
+<td>Kristie Leischner</td> <td>Parkston</td>
+<td>Kristen Leite</td> <td>Brookings</td>
+<td>Nicole Leite</td> <td>Brookings</td>
+<td>Brian Lemaster</td> <td>Beresford</td>
+<td>Dolly Lenards</td> <td>Milbank</td>
+<td>Matthew Lenssen</td> <td>Henry</td>
+<td>Priscilla Leslie</td> <td>Brandon Valley</td>
+<td>Anne Lester</td> <td>Big Stone City</td>
+<td>Garry Leuning</td> <td>Elkton</td>
+<td>Becky Lewandowski</td> <td>Groton</td>
+<td>Jeanine Lewno</td> <td>Waverly</td>
+<td>Joshua Licht</td> <td>DSU - Student Teachers</td>
+<td>Sarah Lieber</td> <td>Woonsocket</td>
+<td>Jacque Liebl</td> <td>Menno</td>
+<td>Jennifer Lien</td> <td>DSU - Student Teachers</td>
+<td>Jacki Liester</td> <td>Garretson</td>
+<td>Kylee Ligtenberg</td> <td>Scotland</td>
+<td>Heather Linde</td> <td>Rapid City</td>
+<td>Samantha Lindholm</td> <td>Chester</td>
+<td>Wendi Lindner</td> <td>Northeast Ed Coop</td>
+<td>Lane Lindquist</td> <td>Milbank</td>
+<td>Crystal Lingemann</td> <td>Ethan</td>
+<td>Amy Linn</td> <td>Dupree</td>
+<td>Cody Linneweber</td> <td>Brandon Valley</td>
+<td>Kami Lipp</td> <td>Groton</td>
+<td>Stephanie Litzen</td> <td>Aberdeen Catholic</td>
+<td>John Livingston</td> <td>Brookings</td>
+<td>Carlos Llorens</td> <td>Meade</td>
+<td>Mary Lockey</td> <td>Douglas</td>
+<td>Cliff Lockner</td> <td>Watertown</td>
+<td>Leah Lockner</td> <td>Brandon Valley</td>
+<td>Angela Lodmel</td> <td>Redfield</td>
+<td>Shelly Loehrer</td> <td>Milbank</td>
+<td>Wanda Logan</td> <td>Brandon Valley</td>
+<td>Amanda Lohr</td> <td>Sioux Falls Public</td>
+<td>Meganne Loneman</td> <td>Gayville-Volin</td>
+<td>Chris Long</td> <td>Garretson</td>
+<td>Kay Long</td> <td>Dakota Valley</td>
+<td>Stacie Long</td> <td>Brandon Valley</td>
+<td>Amanda Longhenry</td> <td>Chamberlain</td>
+<td>Nancy Loofbourrow</td> <td>Freeman</td>
+<td>Shari Lord</td> <td>Huron</td>
+<td>LeAnn Lothrop</td> <td>Sioux Falls Public</td>
+<td>Penny Louks</td> <td>Belle Fourche</td>
+<td>CeCelia Louwagie</td> <td>Estelline</td>
+<td>Kelsey Lovseth</td> <td>Brookings</td>
+<td>Amy Lucas</td> <td>Rapid City</td>
+<td>Lindsey Lucas</td> <td>Vermillion</td>
+<td>Jeanne Ludens</td> <td>Dell Rapids</td>
+<td>Laura Lueders</td> <td>Lennox</td>
+<td>Dan Lund</td> <td>Florence</td>
+<td>Tammy Lund</td> <td>Madison Central</td>
+<td>Linse Lundberg</td> <td>Gregory</td>
+<td>Deanna Lundgren</td> <td>Elkton</td>
+<td>Bailey Lupardus</td> <td>USD - Student Teachers</td>
+<td>Kristi Lutgen</td> <td>Deubrook</td>
+<td>Bill Lutter</td> <td>Oldham-Ramona</td>
+<td>Debra Lyle</td> <td>Irene-Wakonda</td>
+<td>Karen Lynch</td> <td>Rapid City</td>
+<td>Chris Lynde</td> <td>Sioux Falls Public</td>
+<td>Don Lyon</td> <td>Spearfish</td>
+<td>William Lytle</td> <td>Rapid City</td>
+<td>Martha Ma</td> <td>Oglala Lakota County</td>
+<td>Rachel Maca</td> <td>Harrisburg</td>
+<td>Timm MacDonell</td> <td>Hamlin</td>
+<td>Rebecca Maciejczak</td> <td>Douglas</td>
+<td>Jennifer Mackey</td> <td>Hanson</td>
+<td>Nita Madetzke</td> <td>Brandon Valley</td>
+<td>Barbara Madison</td> <td>Iroquois</td>
+<td>Megan Madsen</td> <td>Brookings</td>
+<td>Sarah Madsen</td> <td>Kadoka</td>
+<td>Gary Maffett</td> <td>Brookings</td>
+<td>Robyn Magstadt</td> <td>Watertown</td>
+<td>Tiffany Mailey</td> <td>Sioux Falls Public</td>
+<td>Jane Maine</td> <td>Douglas</td>
+<td>Darcie Malcom</td> <td>Brookings</td>
+<td>Kristine Malloy</td> <td>Parkston</td>
+<td>Kristi Maloney</td> <td>Dakota Valley</td>
+<td>Karri Malsam</td> <td>Edmunds</td>
+<td>Wanona Manderfeld</td> <td>Meade</td>
+<td>Jenny Mann</td> <td>Bridgewater-Emery</td>
+<td>Sarah Manning</td> <td>Wagner</td>
+<td>Eleanor Marcouiller</td> <td>Sioux Falls Public</td>
+<td>Tyler Mareska</td> <td>McIntosh</td>
+<td>LaDonna Marlette</td> <td>Oldham-Ramona</td>
+<td>Eldon Marshall</td> <td>White River</td>
+<td>Marla Marshall</td> <td>Douglas</td>
+<td>Theodora Marshall</td> <td>Todd County</td>
+<td>Randy Marso</td> <td>Brandon Valley</td>
+<td>Deanna Martens</td> <td>Henry</td>
+<td>Cheri Martian</td> <td>McLaughlin</td>
+<td>Claire Martin</td> <td>Agar-Blunt-Onida</td>
+<td>Janet Martin</td> <td>Sioux Falls Public</td>
+<td>Jim Martinson</td> <td>Canton</td>
+<td>Crissi Marx</td> <td>Dakota Valley</td>
+<td>Tirah Maryott</td> <td>Rapid City</td>
+<td>Justin Mashlan</td> <td>Brandon Valley</td>
+<td>Dawn Maske</td> <td>Freeman</td>
+<td>Jennifer Mason</td> <td>Dell Rapids</td>
+<td>Will Massey</td> <td>Marion</td>
+<td>Nick Massmann</td> <td>Brandon Valley</td>
+<td>Kendra Mastel</td> <td>Florence</td>
+<td>Casey Materese</td> <td>Madison Central</td>
+<td>Shelly Mathiesen</td> <td>Harrisburg</td>
+<td>April Mathison</td> <td>Wilmot</td>
+<td>Dewayne Matt</td> <td>Rapid City</td>
+<td>Amy Matthies</td> <td>Dakota Valley</td>
+<td>Patti Mattis</td> <td>Wagner</td>
+<td>Tyler Maxwell</td> <td>Canton</td>
+<td>Tim Mayclin</td> <td>Kimball</td>
+<td>Jay Maynard</td> <td>Marty Indian School</td>
+<td>Marla Maynard</td> <td>Douglas</td>
+<td>Susan Mcadaragh</td> <td>Sioux Falls Public</td>
+<td>Kim Mccann</td> <td>Parkston</td>
+<td>Kimberly McCarty</td> <td>Rapid City</td>
+<td>Jamie McClain</td> <td>Sunshine Bible Academy</td>
+<td>Tricia McCloud</td> <td>Lake Preston</td>
+<td>Mallory McCollister</td> <td>Harrisburg</td>
+<td>Stephanie McCord</td> <td>Kimball</td>
+<td>Conni McCormick</td> <td>Mitchell</td>
+<td>Kelsey McDaniel</td> <td>Haakon</td>
+<td>Brooke McDonald</td> <td>Chester</td>
+<td>Caroline McGillvrey</td> <td>Wolsey-Wessington</td>
+<td>Tanner McGinnis</td> <td>Lead-Deadwood</td>
+<td>Chris McGregor</td> <td>Scotland</td>
+<td>Jean Mcgregor</td> <td>McIntosh</td>
+<td>Coty McGuire</td> <td>Brandon Valley</td>
+<td>Louise McGuire</td> <td>Douglas</td>
+<td>Erin McInroy</td> <td>Dell Rapids</td>
+<td>Shayne Mcintosh</td> <td>Parkston</td>
+<td>Troy McKenney</td> <td>Colman-Egan</td>
+<td>Madison McLaughlin</td> <td>Wall</td>
+<td>Lynette McMacken</td> <td>Brookings</td>
+<td>Mary McMahon</td> <td>St. Joseph School</td>
+<td>Kelly McMillan</td> <td>Wall</td>
+<td>Janet McNary</td> <td>Meade</td>
+<td>Makayla Mcpeak</td> <td>Custer</td>
+<td>Lorie Meade</td> <td>Douglas</td>
+<td>Alex Meehan</td> <td>Meade</td>
+<td>Dustin Mees</td> <td>Sioux Falls Public</td>
+<td>Sharla Mees</td> <td>Huron</td>
+<td>Randy Megard</td> <td>Brandon Valley</td>
+<td>Linda Mehlbrech</td> <td>McCook Central</td>
+<td>Brody Meier</td> <td>Leola</td>
+<td>Kim Meier</td> <td>White Lake</td>
+<td>Whitney Meier</td> <td>Dakota Valley</td>
+<td>Renee Meland</td> <td>Watertown</td>
+<td>Ruth Melichar</td> <td>Bon Homme</td>
+<td>Rachel Mellem</td> <td>Freeman</td>
+<td>Kay Mendel</td> <td>Madison Central</td>
+<td>Brian Menning</td> <td>Stanley County</td>
+<td>Mandie Menzel</td> <td>Haakon</td>
+<td>Chrystal Merriam</td> <td>DSU - Student Teachers</td>
+<td>Tami Merrill</td> <td>Pierre</td>
+<td>Molly Merriwhether</td> <td>Demo</td>
+<td>Chereste Messmer</td> <td>Harding County</td>
+<td>Colleen Mette</td> <td>Parkston</td>
+<td>Ann Metzger</td> <td>South Central Coop</td>
+<td>Barb Meyer</td> <td>Tri-Valley</td>
+<td>Cheryl Meyer</td> <td>Brookings</td>
+<td>Jon Meyer</td> <td>Waverly</td>
+<td>Ruth Meyer</td> <td>Brandon Valley</td>
+<td>Wanda Meyer</td> <td>Agar-Blunt-Onida</td>
+<td>Joanna Meyers</td> <td>Mitchell</td>
+<td>Anna Michaelson</td> <td>Dakota Valley</td>
+<td>Melinda Michels</td> <td>Brandon Valley</td>
+<td>Jay Mickelson</td> <td>Pierre</td>
+<td>Pat Mikkonen</td> <td>Mount Vernon</td>
+<td>Jill Miles</td> <td>Mitchell</td>
+<td>Whitney Millar</td> <td>Mitchell</td>
+<td>Anne Miller</td> <td>Meade</td>
+<td>Christa Miller</td> <td>Howard</td>
+<td>Jackie Miller</td> <td>Highmore-Harrold</td>
+<td>Jeannie Miller</td> <td>Iroquois</td>
+<td>Jesse Miller</td> <td>Sioux Falls Public</td>
+<td>Kamden Miller</td> <td>Kimball</td>
+<td>Linda Miller</td> <td>Mount Vernon</td>
+<td>Lindsey Miller</td> <td>Brandon Valley</td>
+<td>Meghan Miller</td> <td>Iroquois</td>
+<td>Sara Miller</td> <td>Chester</td>
+<td>Tina Miller</td> <td>LifeScape</td>
+<td>Kelly Mills</td> <td>Britton-Hecla</td>
+<td>Lora Milne</td> <td>Madison Central</td>
+<td>Janell Milton</td> <td>Deubrook</td>
+<td>Susan Minnaert</td> <td>Tri-Valley</td>
+<td>Katie Minster</td> <td>Marion</td>
+<td>Amber Misar</td> <td>Oldham-Ramona</td>
+<td>Bobbi Jo Misar</td> <td>Colman-Egan</td>
+<td>Dan Mitchell</td> <td>Yankton</td>
+<td>Sharon Mitchell</td> <td>Dell Rapids</td>
+<td>Alyssa Mittleider</td> <td>Hamlin</td>
+<td>Gerelyn Moberg</td> <td>Deubrook</td>
+<td>Deda Moe</td> <td>Rapid City</td>
+<td>Anne Moege</td> <td>Mitchell</td>
+<td>Trent Moehlman</td> <td>Rapid City</td>
+<td>Ardis Moeller</td> <td>Brandon Valley</td>
+<td>Dale Moeller</td> <td>Rutland</td>
+<td>Jessica Moeller</td> <td>Hamlin</td>
+<td>Teresa Moeller</td> <td>White Lake</td>
+<td>Marge Moen</td> <td>Sisseton</td>
+<td>Kate Mogard</td> <td>Brookings</td>
+<td>Helen Mogen</td> <td>Chester</td>
+<td>Charlotte Mohling</td> <td>Wessington Springs</td>
+<td>Becky Mohr</td> <td>Brandon Valley</td>
+<td>Juli Moke</td> <td>Parkston</td>
+<td>Bonnie Mollman</td> <td>McIntosh</td>
+<td>Susan Mollman</td> <td>Lead-Deadwood</td>
+<td>Alexis Monroe</td> <td>Sisseton</td>
+<td>Meghan Moody</td> <td>Mitchell</td>
+<td>Mark Moore</td> <td>Mitchell</td>
+<td>Ruth Moore</td> <td>Bon Homme</td>
+<td>Traci Moore</td> <td>Mitchell</td>
+<td>Jennifer Moravetz</td> <td>Deubrook</td>
+<td>Dawn Morgan</td> <td>John Paul II</td>
+<td>Steve Morgan</td> <td>Mitchell</td>
+<td>Wes Morgan</td> <td>Mitchell</td>
+<td>Patrick Moriarty</td> <td>Rapid City</td>
+<td>Marty Morlock</td> <td>Frederick Area</td>
+<td>Bobbie Morrison</td> <td>Hill City</td>
+<td>Margo Mortland</td> <td>Elkton</td>
+<td>Jennifer Moser</td> <td>Brookings</td>
+<td>Kortni Moser</td> <td>Todd County</td>
+<td>Holly Mosterd</td> <td>Burke</td>
+<td>Gay Mraz</td> <td>Dupree</td>
+<td>Tony Mraz</td> <td>Douglas</td>
+<td>Scott Muckey</td> <td>Corsica-Stickney</td>
+<td>Mary Mudder</td> <td>Brandon Valley</td>
+<td>Jennifer Mueller</td> <td>Rapid City</td>
+<td>Kelli Mueller</td> <td>Mitchell</td>
+<td>Sheila Mueller</td> <td>Waverly</td>
+<td>Joan Mulder</td> <td>Wagner</td>
+<td>David Muldoon</td> <td>Waubay</td>
+<td>Kory Muller</td> <td>Centerville</td>
+<td>Deanne Mulvehill</td> <td>Douglas</td>
+<td>Renee Munsen</td> <td>Wessington Springs</td>
+<td>Brenda Murphey</td> <td>Rapid City</td>
+<td>Kathryn Murphy</td> <td>Mitchell</td>
+<td>Roxanne Murphy</td> <td>Meade</td>
+<td>Kevin Murray</td> <td>Douglas</td>
+<td>Terriann Murray</td> <td>Mitchell</td>
+<td>Luann Murren</td> <td>Sioux Falls Public</td>
+<td>Ed Murtha</td> <td>Sioux Falls Public</td>
+<td>Vicki Musselman</td> <td>Mitchell</td>
+<td>Brent Mutchelknaus</td> <td>Irene-Wakonda</td>
+<td>Kaye Myers</td> <td>Brookings</td>
+<td>Kevin Myrmoe</td> <td>Gregory</td>
+<td>Nicole Maag</td> <td>Watertown</td>
+<td>Janis MacDonell</td> <td>Hamlin</td>
+<td>Diana Mach</td> <td>Scotland</td>
+<td>Sharon Mack</td> <td>Waverly</td>
+<td>Laurie Macziewski</td> <td>Madison Central</td>
+<td>Alisha Madison</td> <td>DSU - Student Teachers</td>
+<td>Brenda Madsen</td> <td>Groton</td>
+<td>Nichole Madsen</td> <td>Arlington</td>
+<td>Tammy Maeschen</td> <td>Parkston</td>
+<td>April Magnuson</td> <td>Douglas</td>
+<td>Lori Maher</td> <td>Brookings</td>
+<td>Lana Main</td> <td>West Central</td>
+<td>Julie Mairose</td> <td>Rapid City</td>
+<td>Bob Malloy</td> <td>Parkston</td>
+<td>Margaret Malm</td> <td>Pierre</td>
+<td>Anita Malsam</td> <td>Leola</td>
+<td>Cheryl Malsom</td> <td>Ipswich</td>
+<td>Paulette Mangold</td> <td>Parkston</td>
+<td>Lindsay Mann</td> <td>Tri-Valley</td>
+<td>Susan Manning</td> <td>Douglas</td>
+<td>Cheryle Marcus</td> <td>Huron</td>
+<td>Brandi Marler</td> <td>Douglas</td>
+<td>Bill Marquardt</td> <td>Mount Vernon</td>
+<td>Heath Marshall</td> <td>Irene-Wakonda</td>
+<td>Marlene Marshall</td> <td>Todd County</td>
+<td>Brian Marso</td> <td>Highmore-Harrold</td>
+<td>Casey Mart</td> <td>Vermillion</td>
+<td>Cherrie Martenson</td> <td>Douglas</td>
+<td>Michelle Martian</td> <td>Douglas</td>
+<td>Dolores Martin</td> <td>Douglas</td>
+<td>Jennifer Martinez</td> <td>Dakota Valley</td>
+<td>Gail Maruska</td> <td>Bon Homme</td>
+<td>Jenifer Marx</td> <td>Dakota Valley</td>
+<td>Heather Maschino</td> <td>Sioux Falls Public</td>
+<td>Chris Maske</td> <td>Freeman</td>
+<td>Frank Maslowski</td> <td>Harding County</td>
+<td>Rachael Massey</td> <td>Marion</td>
+<td>Jodi Massie</td> <td>Rapid City</td>
+<td>Bruce Mastel</td> <td>Mitchell</td>
+<td>Nina Mata</td> <td>Little Eagle Grant School</td>
+<td>Mike Materese</td> <td>Madison Central</td>
+<td>Janis Mathis-Anderson</td> <td>Meade</td>
+<td>Loren Matson</td> <td>Mitchell</td>
+<td>Amy Mattheis</td> <td>Parkston</td>
+<td>Tom Mattingly</td> <td>Watertown</td>
+<td>Jordan Maurice</td> <td>Sioux Falls Public</td>
+<td>Lori May</td> <td>Tri-Valley</td>
+<td>Jennifer Mayer</td> <td>Meade</td>
+<td>Kristen Maynard</td> <td>Andes Central</td>
+<td>Vicky Mayrose</td> <td>Montrose</td>
+<td>Renee McAmis</td> <td>Belle Fourche</td>
+<td>Catherine Mccardle</td> <td>Ethan</td>
+<td>Julia McCauley</td> <td>Little Eagle Grant School</td>
+<td>Heather McCleerey</td> <td>Sisseton</td>
+<td>Wes McClure</td> <td>Sunshine Bible Academy</td>
+<td>Rachel Mcconaghy</td> <td>Wall</td>
+<td>Dan McCormack</td> <td>Brookings</td>
+<td>Ashley McCue</td> <td>Irene-Wakonda</td>
+<td>Brian McDermott</td> <td>Miller</td>
+<td>Susanne McFarland</td> <td>St. Joseph School</td>
+<td>Karmin Mcginnis</td> <td>Mitchell</td>
+<td>Tom Mcgough</td> <td>Miller</td>
+<td>Diana McGregor</td> <td>Kimball</td>
+<td>Shawnya Mcgregor</td> <td>Montrose</td>
+<td>Jim McGuire</td> <td>St. Agnes</td>
+<td>Nadine McHugh</td> <td>Elkton</td>
+<td>Dan McIntire</td> <td>Custer</td>
+<td>DeeAnn McKeithan</td> <td>Douglas</td>
+<td>Connie McLaughlin</td> <td>Wessington Springs</td>
+<td>Sandy McLeodBreuer</td> <td>Madison Central</td>
+<td>Janelle Mcmahon</td> <td>John Paul II</td>
+<td>Emily McManamy</td> <td>Dakota Valley</td>
+<td>Deb Mcnary</td> <td>Dakota Valley</td>
+<td>Jackie McNeil</td> <td>Warner</td>
+<td>Alyssa McQuirk</td> <td>Kimball</td>
+<td>Michelle Mebius</td> <td>Mitchell</td>
+<td>Curtis Meendering</td> <td>Canton</td>
+<td>Gina Mees</td> <td>Sioux Falls Public</td>
+<td>Tom Meester</td> <td>Brandon Valley</td>
+<td>Michelle Mehlberg</td> <td>Watertown</td>
+<td>Laureen Mehlert</td> <td>Sioux Falls Public</td>
+<td>Heidi Meier</td> <td>Brandon Valley</td>
+<td>Tania Meier</td> <td>Brookings</td>
+<td>Samantha Meirose</td> <td>West Central</td>
+<td>Pedro Melendez</td> <td>Douglas</td>
+<td>Kathleen Melius</td> <td>Faulkton</td>
+<td>Tara Melmer</td> <td>Baltic</td>
+<td>Marilyn Mendenhall</td> <td>Brookings</td>
+<td>Kim Menning</td> <td>Salem St. Mary's</td>
+<td>Michela Meredith</td> <td>Meade</td>
+<td>Linda Merrick</td> <td>Alcester-Hudson</td>
+<td>Thomas Merriman</td> <td>Beresford</td>
+<td>Nancy Mertens</td> <td>Lead-Deadwood</td>
+<td>Jill Metheny</td> <td>Irene-Wakonda</td>
+<td>Carissa Metz</td> <td>Sisseton</td>
+<td>Tyson Metzger</td> <td>Brandon Valley</td>
+<td>Billi Jo Meyer</td> <td>Brookings</td>
+<td>Jen Meyer</td> <td>McIntosh</td>
+<td>Nancy Meyer</td> <td>Milbank</td>
+<td>Tammy Meyer</td> <td>Sisseton</td>
+<td>Gwen Meyerink</td> <td>Kimball</td>
+<td>Lora Meyers</td> <td>Dakota Valley</td>
+<td>Casey Michel</td> <td>St. Mary's</td>
+<td>Diane Mickelson</td> <td>McLaughlin</td>
+<td>Tanna Miiller</td> <td>Vermillion</td>
+<td>Julie Milbrandt</td> <td>Groton</td>
+<td>Sam Millar</td> <td>Sioux Falls Public</td>
+<td>Betty Millard</td> <td>Rapid City</td>
+<td>Cheryl Miller</td> <td>Mitchell</td>
+<td>Harvey Miller</td> <td>Douglas</td>
+<td>Janet Miller</td> <td>Dakota Valley</td>
+<td>Jenna Miller</td> <td>Sanborn Central</td>
+<td>Joan Miller</td> <td>Irene-Wakonda</td>
+<td>Kristin Miller</td> <td>Sioux Falls Public</td>
+<td>Linda Miller</td> <td>Sioux Falls Public</td>
+<td>Marshall Miller</td> <td>Douglas</td>
+<td>Melissa Miller</td> <td>Mitchell</td>
+<td>Scott Miller</td> <td>Brookings</td>
+<td>Kathy Mills</td> <td>Mitchell</td>
+<td>Mike Mills</td> <td>Northeast Technical High School</td>
+<td>Thomas Milne</td> <td>Madison Central</td>
+<td>Sharon Milton</td> <td>Deuel</td>
+<td>Deborah Minnich-Wolff</td> <td>Douglas</td>
+<td>Luanne Miracle</td> <td>Rapid City</td>
+<td>Beth Misar</td> <td>Oldham-Ramona</td>
+<td>Barb Mitchell</td> <td>Pierre</td>
+<td>Scott Mitchell</td> <td>Deuel</td>
+<td>Vicki Mitchell</td> <td>Aberdeen</td>
+<td>David Moberg</td> <td>Deubrook</td>
+<td>Craig Mock</td> <td>Mitchell</td>
+<td>Michelle Moeding</td> <td>Huron</td>
+<td>Jannette Moehlman</td> <td>Rapid City</td>
+<td>Allison Moeller</td> <td>Sioux Falls Public</td>
+<td>Bart Moeller</td> <td>Watertown</td>
+<td>Daphne Moeller</td> <td>Iroquois</td>
+<td>Maggie Moeller</td> <td>Sioux Falls Public</td>
+<td>April Moen</td> <td>Sisseton</td>
+<td>Sharon Moen</td> <td>Brookings</td>
+<td>Dee Mogck</td> <td>Tripp-Delmont</td>
+<td>Connie Mogensen</td> <td>Douglas</td>
+<td>Bailey Mohr</td> <td>Aberdeen</td>
+<td>Matt Mohr</td> <td>Henry</td>
+<td>Patrick Moller</td> <td>Mitchell</td>
+<td>Darcey Mollman</td> <td>Faith</td>
+<td>Lynette Molstad</td> <td>DSU</td>
+<td>Robin Montgomery</td> <td>Belle Fourche</td>
+<td>Demi Moon</td> <td>Sioux Falls Public</td>
+<td>Rosalie Moore</td> <td>Douglas</td>
+<td>Tom Moore</td> <td>Agar-Blunt-Onida</td>
+<td>Molly Moran</td> <td>Brookings</td>
+<td>Lisa Morford</td> <td>Dakota Valley</td>
+<td>Stacy Morgan</td> <td>Mitchell</td>
+<td>Teri Morgan</td> <td>Mitchell</td>
+<td>Gina Moriarty</td> <td>Rapid City</td>
+<td>Gary Mork</td> <td>Brookings</td>
+<td>Bertha Morrison</td> <td>White River</td>
+<td>Kristin Morse</td> <td>Madison Central</td>
+<td>Callie Jo Moser</td> <td>Wolsey-Wessington</td>
+<td>Kellen Moser</td> <td>Gayville-Volin</td>
+<td>Allison Moses</td> <td>Tea</td>
+<td>Rick Mott</td> <td>Dell Rapids</td>
+<td>Kathy Mraz</td> <td>Rapid City</td>
+<td>Dan Muck</td> <td>Mitchell</td>
+<td>Dave Mudder</td> <td>Garretson</td>
+<td>Holly Mueller</td> <td>Leola</td>
+<td>Julie Mueller</td> <td>Garretson</td>
+<td>Matt Mueller</td> <td>Brandon Valley</td>
+<td>Heather Mulder</td> <td>Tea</td>
+<td>Sara Mulder</td> <td>Sioux Falls Christian</td>
+<td>Bryan Muller</td> <td>Henry</td>
+<td>Noelle Muller</td> <td>Beresford</td>
+<td>Vanya Munce</td> <td>Huron</td>
+<td>Katie Murdy</td> <td>Brandon Valley</td>
+<td>Andrea Murphy</td> <td>Douglas</td>
+<td>Megan Murphy</td> <td>Douglas</td>
+<td>Cindy Murray</td> <td>Dakota Valley</td>
+<td>Mike Murray</td> <td>Gregory</td>
+<td>Lisa Murray Vernon</td> <td>Douglas</td>
+<td>Christine Murtha</td> <td>Brandon Valley</td>
+<td>Michelle Musick</td> <td>Mitchell</td>
+<td>Jeff Musser</td> <td>Mitchell</td>
+<td>Cindee Mutchelknaus</td> <td>Menno</td>
+<td>Don Myrick</td> <td>Watertown</td>
+<td>Cheri Myrvik</td> <td>Madison Central</td>
+<td>Todd Naasz</td> <td>Ipswich</td>
+<td>Deb Nafziger</td> <td>Hoven</td>
+<td>Darcy Nagel</td> <td>Meade</td>
+<td>Martha Nagy</td> <td>DSU - Student Teachers</td>
+<td>Allen Nash</td> <td>West Central</td>
+<td>Crystal Nash</td> <td>Aberdeen</td>
+<td>Nancy Neal</td> <td>Douglas</td>
+<td>Jennifer Nedrebo</td> <td>Pierre</td>
+<td>Deb Nehl</td> <td>McIntosh</td>
+<td>Mike Nehls</td> <td>Groton</td>
+<td>Kelly Neill</td> <td>Elkton</td>
+<td>Rebecca Nelsen</td> <td>Vermillion</td>
+<td>Anneke Nelson</td> <td>TIE</td>
+<td>Chad Nelson</td> <td>Brandon Valley</td>
+<td>Jay Nelson</td> <td>Dell Rapids</td>
+<td>Joel Nelson</td> <td>Hanson</td>
+<td>Kevin Nelson</td> <td>Beresford</td>
+<td>Kristy Nelson</td> <td>Chamberlain</td>
+<td>Nicole Nelson</td> <td>Canton</td>
+<td>Shireen Nelson</td> <td>Douglas</td>
+<td>Valerie Nelson</td> <td>Chamberlain</td>
+<td>Denise Nepodal</td> <td>Deubrook</td>
+<td>Guyla Ness</td> <td>Meade</td>
+<td>Jenille Neufeld</td> <td>Freeman</td>
+<td>Jodi Neugebauer</td> <td>Garretson</td>
+<td>Nicole Neugebauer</td> <td>Ethan</td>
+<td>Jason Neuharth</td> <td>Wolsey-Wessington</td>
+<td>Becky Neuheisel</td> <td>Plankinton</td>
+<td>Susan Neuman</td> <td>Brookings</td>
+<td>Amanda Neville-Coble</td> <td>Brookings</td>
+<td>Katherine Newhouse</td> <td>Freeman</td>
+<td>Bradley Newitt</td> <td>Sioux Falls Public</td>
+<td>James Niehus</td> <td>Deubrook</td>
+<td>Sheryl Nielsen</td> <td>Pierre</td>
+<td>Nancy Nielson</td> <td>Aberdeen</td>
+<td>Becky Nierman</td> <td>Ipswich</td>
+<td>Sandy Nightingale</td> <td>White Lake</td>
+<td>Kathy Niles</td> <td>Sisseton</td>
+<td>Renee Nills</td> <td>Madison Central</td>
+<td>Janet Ninas</td> <td>Iroquois</td>
+<td>Monte Nipp</td> <td>Langford</td>
+<td>Brad Noem</td> <td>Hamlin</td>
+<td>Stephanie Noem</td> <td>Hamlin</td>
+<td>Chad Nolz</td> <td>Milbank</td>
+<td>Julie Nolz</td> <td>Milbank</td>
+<td>Laurie Nord</td> <td>Elkton</td>
+<td>Luke Norden</td> <td>Mitchell</td>
+<td>Michele Norling</td> <td>Centerville</td>
+<td>Nichole North</td> <td>Dell Rapids</td>
+<td>Shelly Norton</td> <td>Dakota Valley</td>
+<td>Tina Novotny</td> <td>Colome</td>
+<td>Jeremy Noyes</td> <td>Rapid City</td>
+<td>Jill Nuebel</td> <td>Brandon Valley</td>
+<td>Yaimey Nunez</td> <td>Rapid City</td>
+<td>LeeAnn Nussbaum</td> <td>Plankinton</td>
+<td>Barb Nygaard</td> <td>Aberdeen</td>
+<td>Mariah Nachreiner</td> <td>Brandon Valley</td>
+<td>Charlotte Nagel</td> <td>Dakota Valley</td>
+<td>Rena Nagel</td> <td>Winner</td>
+<td>Alyssa Nase</td> <td>Armour</td>
+<td>Amber Nash</td> <td>Waubay</td>
+<td>Pam Nass</td> <td>Brookings</td>
+<td>Heather Nebel</td> <td>Hamlin</td>
+<td>Jan Nedved</td> <td>Wagner</td>
+<td>Marie Nehl</td> <td>McIntosh</td>
+<td>Tammy Neilan</td> <td>Meade</td>
+<td>Leslie Neiman</td> <td>Montrose</td>
+<td>Adam Nelson</td> <td>Chamberlain</td>
+<td>Carolynn Nelson</td> <td>Bowdle</td>
+<td>Derrik Nelson</td> <td>Scotland</td>
+<td>Jim Nelson</td> <td>Beresford</td>
+<td>Jolene Nelson</td> <td>Canton</td>
+<td>Kimberlee Nelson</td> <td>Sioux Falls Catholic</td>
+<td>Michelle Nelson</td> <td>Sisseton</td>
+<td>Sandra Nelson</td> <td>Douglas</td>
+<td>Tracy Nelson</td> <td>Huron</td>
+<td>Mary Nemitz</td> <td>Arlington</td>
+<td>Allison Ness</td> <td>Brookings</td>
+<td>Tony Neu</td> <td>Canton</td>
+<td>Angela Neugebauer</td> <td>Mitchell</td>
+<td>Lisa Neugebauer</td> <td>Mitchell</td>
+<td>Ashley Neuharth</td> <td>Wolsey-Wessington</td>
+<td>Valerie Neuharth</td> <td>Chamberlain</td>
+<td>Donna Neuman</td> <td>Beresford</td>
+<td>Laura Neville</td> <td>Flandreau</td>
+<td>Koleene Newbold</td> <td>Jones County</td>
+<td>Barbara Newitt</td> <td>Sioux Falls Public</td>
+<td>Vickie Newman</td> <td>Brookings</td>
+<td>Dianne Nielsen</td> <td>Beresford</td>
+<td>Tom Nielsen</td> <td>Madison Central</td>
+<td>Rachel Niemeyer</td> <td>Sioux Falls Christian</td>
+<td>John Niesen</td> <td>Tea</td>
+<td>Duane Niles</td> <td>Watertown</td>
+<td>Erin Nilges</td> <td>Dakota Valley</td>
+<td>Kayla Nilsson</td> <td>Ipswich</td>
+<td>Robert Ninas</td> <td>Iroquois</td>
+<td>Robin Nipp</td> <td>Brandon Valley</td>
+<td>Heidi Noem</td> <td>Hamlin</td>
+<td>Lindsay Nolte</td> <td>Willow Lake</td>
+<td>Deb Nolz</td> <td>Ethan</td>
+<td>Mike Norcross</td> <td>Rapid City</td>
+<td>Eric Norden</td> <td>Parkston</td>
+<td>Kathi Nordgaard</td> <td>Deubrook</td>
+<td>Linda Norman</td> <td>Douglas</td>
+<td>Jerry Norton</td> <td>Ethan</td>
+<td>David Novak</td> <td>Volga Christian</td>
+<td>Stacy Nowak</td> <td>Harrisburg</td>
+<td>Jim Noyes</td> <td>Rapid City</td>
+<td>Jeffrey Nugent</td> <td>Douglas</td>
+<td>Brad Nupen</td> <td>Brookings</td>
+<td>Chris Nyberg</td> <td>Groton</td>
+<td>Ken Oakley</td> <td>Custer</td>
+<td>Michael Oberg</td> <td>Dakota Valley</td>
+<td>Tricia Ochsner</td> <td>Baltic</td>
+<td>Mike Oconnell</td> <td>Chester</td>
+<td>Theresa O'Connell</td> <td>Douglas</td>
+<td>Carly OConnor</td> <td>Vermillion</td>
+<td>Heidi Ode</td> <td>Todd County</td>
+<td>Samantha Odegaard</td> <td>Meade</td>
+<td>Carol Odell</td> <td>Harding County</td>
+<td>Doug Odens</td> <td>Marty Indian School</td>
+<td>Sarah O'Donnell</td> <td>Madison Central</td>
+<td>Shari Okeefe</td> <td>Rapid City</td>
+<td>Alice Oleson</td> <td>Douglas</td>
+<td>Amanda Olinger</td> <td>Harrisburg</td>
+<td>Lisa Olnes</td> <td>Sacred Heart School</td>
+<td>Angie Olson</td> <td>Brandon Valley</td>
+<td>Blake Olson</td> <td>Redfield</td>
+<td>Brady Olson</td> <td>Brandon Valley</td>
+<td>Jason Olson</td> <td>Rapid City</td>
+<td>Julia Olson</td> <td>Harrisburg</td>
+<td>Karen Olson</td> <td>Herreid</td>
+<td>Kate Olson</td> <td>Pierre</td>
+<td>Kendra Olson</td> <td>Kimball</td>
+<td>Kimberly Olson</td> <td>Doland</td>
+<td>Kristie Olson</td> <td>Madison Central</td>
+<td>Lisa Olson</td> <td>Douglas</td>
+<td>Marda Olson</td> <td>DIAL</td>
+<td>Nancy Olson</td> <td>McIntosh</td>
+<td>Renae Olson</td> <td>Highmore-Harrold</td>
+<td>Sue Olson</td> <td>Brandon Valley</td>
+<td>Stacy Oltmanns</td> <td>Hanson</td>
+<td>Jared Opp</td> <td>Gregory</td>
+<td>Sharlene Orcutt</td> <td>Marion</td>
+<td>Kim Orth</td> <td>Wessington Springs</td>
+<td>Richard Osborn</td> <td>Northwestern</td>
+<td>Trent Osborne</td> <td>Ipswich</td>
+<td>Deb Oster</td> <td>Herreid</td>
+<td>Nancy Osterloo</td> <td>Mitchell</td>
+<td>Nikki Otten</td> <td>Harrisburg</td>
+<td>Denise Ottenbacher</td> <td>Watertown</td>
+<td>Derek Outland</td> <td>Brandon Valley</td>
+<td>Heather Overland</td> <td>Smee</td>
+<td>Chris Owen</td> <td>Hamlin</td>
+<td>Bree Oatman</td> <td>Lead-Deadwood</td>
+<td>Leona Oberlander</td> <td>Douglas</td>
+<td>Jennifer Oconnell</td> <td>Centerville</td>
+<td>Jeffrey O'Connell</td> <td>Brandon Valley</td>
+<td>Brian Oconnor</td> <td>Oglala Lakota County</td>
+<td>Kathy Oconnor</td> <td>Rapid City</td>
+<td>Jenna Odegaard</td> <td>Lake Preston</td>
+<td>Beth Odegard</td> <td>Madison Central</td>
+<td>Gene Odell</td> <td>Harding County</td>
+<td>Linda O'Donnell</td> <td>McIntosh</td>
+<td>Brenda Ohm</td> <td>Dakota Valley</td>
+<td>Samuel Olajide</td> <td>Howard</td>
+<td>John Oleson</td> <td>Douglas</td>
+<td>Sarah Olivier</td> <td>Chester</td>
+<td>Ashley Olsen</td> <td>Hamlin</td>
+<td>Ann Olson</td> <td>Wessington Springs</td>
+<td>Bradley Olson</td> <td>Milbank</td>
+<td>Cari Olson</td> <td>Harrisburg</td>
+<td>Jeanne Olson</td> <td>Huron</td>
+<td>Julie Olson</td> <td>Mitchell</td>
+<td>Karla Olson</td> <td>Mitchell</td>
+<td>Kelli Olson</td> <td>Madison Central</td>
+<td>Kim Olson</td> <td>Sacred Heart School</td>
+<td>Kimberly Olson</td> <td>White River</td>
+<td>Larry Olson</td> <td>Wessington Springs</td>
+<td>Lori Olson</td> <td>Brookings</td>
+<td>Mel Olson</td> <td>Mitchell</td>
+<td>Nancy Olson</td> <td>Sioux Falls Public</td>
+<td>Roxane Olson</td> <td>Vermillion</td>
+<td>Josh Oltmanns</td> <td>Hanson</td>
+<td>Carrie Oorlog</td> <td>Brookings</td>
+<td>Katie Opp</td> <td>Gregory</td>
+<td>Ellen Ordal</td> <td>Sioux Falls Public</td>
+<td>Melissa Osbeck</td> <td>Brookings</td>
+<td>Nichol Osborne</td> <td>Ipswich</td>
+<td>Tammy Osheim</td> <td>Brandon Valley</td>
+<td>Tom Osterberg</td> <td>Madison Central</td>
+<td>Shelly Osthus</td> <td>De Smet</td>
+<td>Stacy Otten</td> <td>Burke</td>
+<td>Lexi Oudman</td> <td>Sioux Falls Christian</td>
+<td>LeeAnn Overbay</td> <td>Mitchell</td>
+<td>Denise Overweg</td> <td>Pierre</td>
+<td>Andrea Oyen</td> <td>Salem St. Mary's</td>
+<td>Katie Pabst</td> <td>Sioux Falls Public</td>
+<td>Chuck Padfield</td> <td>Groton</td>
+<td>Larine Page</td> <td>Harding County</td>
+<td>Yvonne Palli</td> <td>Rapid City</td>
+<td>Beth Palmer</td> <td>Miller</td>
+<td>Megan Palmer</td> <td>Brookings</td>
+<td>Rebecca Palmer</td> <td>Brookings</td>
+<td>Todd Palmer</td> <td>Meade</td>
+<td>Teresa Palmlund</td> <td>De Smet</td>
+<td>Anne Pankratz</td> <td>Marion</td>
+<td>Kristina Pappas</td> <td>Brandon Valley</td>
+<td>Maryjo Parker</td> <td>DIAL</td>
+<td>Ron Parks</td> <td>Mitchell</td>
+<td>Lisa Parry</td> <td>Arlington</td>
+<td>Anthony Pataky</td> <td>Douglas</td>
+<td>Kym Patterson</td> <td>Dakota Valley</td>
+<td>Roxanne Patzlaff</td> <td>Sioux Falls Public</td>
+<td>Nancy Pauli</td> <td>Milbank</td>
+<td>Darren Paulson</td> <td>Rapid City</td>
+<td>Holly Paulson</td> <td>Watertown</td>
+<td>Dalaney Paxton</td> <td>Pierre</td>
+<td>Jayne Paysen</td> <td>Milbank</td>
+<td>Myrna Peacock</td> <td>Rapid City</td>
+<td>Gayle Pearson</td> <td>Sisseton</td>
+<td>Rachel Pearson</td> <td>Oldham-Ramona</td>
+<td>Quintin Pease</td> <td>Centerville</td>
+<td>Masey Pechholt</td> <td>McCook Central</td>
+<td>Lisa Pedersen</td> <td>Hamlin</td>
+<td>Colleen Pederson</td> <td>Lemmon</td>
+<td>Sue Pederson</td> <td>Oldham-Ramona</td>
+<td>Deborah Pena</td> <td>Douglas</td>
+<td>Malynda Penner</td> <td>Freeman</td>
+<td>Dale Pepper</td> <td>Douglas</td>
+<td>Michele Perrizo</td> <td>Aberdeen</td>
+<td>Nicole Perry</td> <td>Canistota</td>
+<td>Brock Persson</td> <td>Todd County</td>
+<td>Marlys Peskey</td> <td>Iroquois</td>
+<td>Anne Peters</td> <td>Brandon Valley</td>
+<td>Eric Peters</td> <td>Tiospa Zina Tribal School</td>
+<td>Jon Peters</td> <td>Brandon Valley</td>
+<td>Lori Petersen</td> <td>Watertown</td>
+<td>Stephanie Petersen</td> <td>USD - Student Teachers</td>
+<td>Brad Peterson</td> <td>Platte-Geddes</td>
+<td>Cindy Peterson</td> <td>Ipswich</td>
+<td>David Peterson</td> <td>Sisseton</td>
+<td>Jim Peterson</td> <td>Sioux Falls Public</td>
+<td>Kathy Peterson</td> <td>Sisseton</td>
+<td>Leah Peterson</td> <td>Timber Lake</td>
+<td>Roxann Peterson</td> <td>Dakota Valley</td>
+<td>Sandra Petree</td> <td>Canistota</td>
+<td>Cherie Petry</td> <td>Wagner</td>
+<td>Jake Pettengill</td> <td>Sioux Falls Christian</td>
+<td>Terry Pfann</td> <td>McCook Central</td>
+<td>Kristi Philips</td> <td>Chester</td>
+<td>Jacob Phillips</td> <td>Aberdeen</td>
+<td>Monica Pickard</td> <td>Madison Central</td>
+<td>Angela Pickett</td> <td>Rapid City</td>
+<td>Kevin Pickner</td> <td>Agar-Blunt-Onida</td>
+<td>Mark Pier</td> <td>Vermillion</td>
+<td>Sherry Pierson</td> <td>McCook Central</td>
+<td>Minnie Pietz</td> <td>Hoven</td>
+<td>Kristen Pittmann</td> <td>Baltic</td>
+<td>Shelly Pitts</td> <td>Brookings</td>
+<td>Bev Plantenberg</td> <td>Dakota Valley</td>
+<td>Dawn Plendl</td> <td>Dakota Valley</td>
+<td>Christy Plucker</td> <td>Flandreau</td>
+<td>Jill Pociask</td> <td>Hanson</td>
+<td>Chad Podhradsky</td> <td>Howard</td>
+<td>Jessica Podzimek</td> <td>White Lake</td>
+<td>Brandon Pogge</td> <td>Dakota Valley</td>
+<td>Casey Pollman</td> <td>Irene-Wakonda</td>
+<td>Jana Polston</td> <td>Pierre</td>
+<td>Samantha Polzin</td> <td>Gayville-Volin</td>
+<td>Jodi Ponwith</td> <td>Harrisburg</td>
+<td>Cassandra Popowski</td> <td>Deubrook</td>
+<td>Kelsey Poppen</td> <td>Huron</td>
+<td>Karen Poppens</td> <td>Sioux Falls Public</td>
+<td>Brianna Postma</td> <td>Pierre</td>
+<td>Reva Potter</td> <td>Belle Fourche</td>
+<td>Amy Powell</td> <td>Dakota Valley</td>
+<td>Cadena Powers</td> <td>Chamberlain</td>
+<td>Tim Pranger</td> <td>Mitchell</td>
+<td>Janie Pratt</td> <td>Highmore-Harrold</td>
+<td>Julie Preheim</td> <td>Colman-Egan</td>
+<td>Matt Preheim</td> <td>Ethan</td>
+<td>JoAnn Presler</td> <td>Brandon Valley</td>
+<td>Angie Preszler</td> <td>Edmunds</td>
+<td>Joel Price</td> <td>Stanley County</td>
+<td>Thomas Priest</td> <td>Douglas</td>
+<td>Darren Prisinger</td> <td>Wilmot</td>
+<td>Laurie Prpich</td> <td>Douglas</td>
+<td>Byron Pudwill</td> <td>Bon Homme</td>
+<td>Karla Pulscher</td> <td>Dell Rapids</td>
+<td>Mischelle Pulver</td> <td>Douglas</td>
+<td>Mike Putnam</td> <td>Brandon Valley</td>
+<td>Berin Pach</td> <td>McLaughlin</td>
+<td>Josh Page</td> <td>Harding County</td>
+<td>Debbi Pagel</td> <td>Sisseton</td>
+<td>Alyson Palmer</td> <td>Mitchell</td>
+<td>Justin Palmer</td> <td>Brookings</td>
+<td>Nicole Palmer</td> <td>CORE</td>
+<td>Tanya Palmer</td> <td>Brandon Valley</td>
+<td>Shannon Palmlund</td> <td>Iroquois</td>
+<td>Rodney Palo</td> <td>Waverly</td>
+<td>Linda Pankratz</td> <td>Parker</td>
+<td>Elizabeth Parce</td> <td>Plankinton</td>
+<td>Beverly Parker-Greer</td> <td>Douglas</td>
+<td>Elizabeth Parliament</td> <td>Rutland</td>
+<td>Jill Parsons</td> <td>Mitchell</td>
+<td>Robin Patnoe</td> <td>Milbank</td>
+<td>Mick Patzlaff</td> <td>Custer</td>
+<td>Kaitlyn Pauley</td> <td>Douglas</td>
+<td>Michelle Paulsen</td> <td>Sioux Falls Public</td>
+<td>Erica Paulson</td> <td>Watertown</td>
+<td>Hope Paulson</td> <td>Sioux Falls Public</td>
+<td>Tyler Payer</td> <td>Hanson</td>
+<td>Deb Pazour</td> <td>Platte-Geddes</td>
+<td>Brittany Pearson</td> <td>Douglas</td>
+<td>Lance Pearson</td> <td>Rapid City</td>
+<td>Rick Pearson</td> <td>Chamberlain</td>
+<td>Paula Pecenka</td> <td>Hanson</td>
+<td>Greg Pedersen</td> <td>Sunshine Bible Academy</td>
+<td>Anita Pederson</td> <td>Brandon Valley</td>
+<td>Jill Pederson</td> <td>Brandon Valley</td>
+<td>Samantha Peil</td> <td>Deubrook</td>
+<td>Ellen Pengra</td> <td>Brookings</td>
+<td>Cassey Penney</td> <td>Sioux Falls Public</td>
+<td>Janice Perrion</td> <td>Ipswich</td>
+<td>Denise Perry</td> <td>Brookings</td>
+<td>Lisa Person</td> <td>Sisseton</td>
+<td>Megan Pesek</td> <td>Bon Homme</td>
+<td>Rebecca Pester</td> <td>Tri-Valley</td>
+<td>Brad Peters</td> <td>Bon Homme</td>
+<td>Jacey Peters</td> <td>Parker</td>
+<td>Linda Petersen</td> <td>West Central</td>
+<td>Peggy Petersen</td> <td>Viborg-Hurley</td>
+<td>Ana Peterson</td> <td>Dakota Valley</td>
+<td>Christa Peterson</td> <td>Platte-Geddes</td>
+<td>Craig Peterson</td> <td>Madison Central</td>
+<td>Eric Peterson</td> <td>Watertown</td>
+<td>Joan Peterson</td> <td>Mitchell</td>
+<td>Kim Peterson</td> <td>Montrose</td>
+<td>Ross Peterson</td> <td>Brookings</td>
+<td>Stacy Peterson</td> <td>Irene-Wakonda</td>
+<td>Nathaniel Petrich</td> <td>Sioux Falls Public</td>
+<td>Steve Petry</td> <td>Wagner</td>
+<td>Renae Peyton</td> <td>Brandon Valley</td>
+<td>Michele Pfeifle</td> <td>Harrisburg</td>
+<td>Cheryl Phillips</td> <td>Mitchell</td>
+<td>Kim Phillips</td> <td>Chamberlain</td>
+<td>Amanda Pickett</td> <td>Tea</td>
+<td>Gay Pickner</td> <td>St. Joseph School</td>
+<td>Lorrie Piehl</td> <td>Madison Central</td>
+<td>Tom Pierce</td> <td>Brandon Valley</td>
+<td>Sally Pies</td> <td>Brookings</td>
+<td>Pandi Pittman</td> <td>Wessington Springs</td>
+<td>Justin Pitts</td> <td>Estelline</td>
+<td>Debra Plagge</td> <td>Colman-Egan</td>
+<td>Jennifer Plathe</td> <td>Dakota Valley</td>
+<td>Kevin Plooster</td> <td>Douglas</td>
+<td>Tiffany Plummer</td> <td>DSU - Student Teachers</td>
+<td>Steve Pociask</td> <td>Hanson</td>
+<td>Sue Podoll</td> <td>Rapid City</td>
+<td>Whitney Podzimek</td> <td>Avon</td>
+<td>Alanna Poling</td> <td>Sunshine Bible Academy</td>
+<td>Matt Pollock</td> <td>Ipswich</td>
+<td>Marsha Polzin</td> <td>Baltic</td>
+<td>Lyndsay Polzin-Scott</td> <td>Eagle Butte</td>
+<td>Randy Pool</td> <td>Agar-Blunt-Onida</td>
+<td>Naome Poppe</td> <td>Brandon Valley</td>
+<td>Sara Poppen</td> <td>Hamlin</td>
+<td>Linda Poppens-Boland</td> <td>Rapid City</td>
+<td>Bud Postma</td> <td>Madison Central</td>
+<td>Khadga Powdyel</td> <td>Sioux Falls Public</td>
+<td>Melissa Powell</td> <td>Sioux Falls Public</td>
+<td>Michelle Powers</td> <td>Brookings</td>
+<td>Karla Prangley</td> <td>Plankinton</td>
+<td>Shellie Pratt</td> <td>Beresford</td>
+<td>Laura Preheim</td> <td>Sioux Falls Public</td>
+<td>Sharon Prendergast</td> <td>Sisseton</td>
+<td>Kraig Presler</td> <td>Brandon Valley</td>
+<td>Nicole Pribil</td> <td>Elk Point-Jefferson</td>
+<td>Yolanda Price</td> <td>Hanson</td>
+<td>Brittany Prinsen</td> <td>Sioux Falls Public</td>
+<td>Pam Prisinger</td> <td>Milbank</td>
+<td>Andrea Pudwill</td> <td>Brandon Valley</td>
+<td>Cheryl Puhl</td> <td>Huron</td>
+<td>Nicole Pulse</td> <td>Kimball</td>
+<td>Kandy Punt</td> <td>Mount Vernon</td>
+<td>Laura Quail</td> <td>Brookings</td>
+<td>Colleen Quigley</td> <td>Douglas</td>
+<td>Paul Raasch</td> <td>Langford</td>
+<td>Tyler Rachetto</td> <td>Rapid City</td>
+<td>Karen Rahn</td> <td>Madison Central</td>
+<td>Emily Rames</td> <td>Mitchell</td>
+<td>Julie Ramsdell</td> <td>Wagner</td>
+<td>Christine Rans</td> <td>Rapid City</td>
+<td>Allison Rasmussen</td> <td>Brandon Valley</td>
+<td>Emily Rasmussen</td> <td>McCook Central</td>
+<td>Jerry Rasmussen</td> <td>Dakota Valley</td>
+<td>Jessie Rasmussen</td> <td>Vermillion</td>
+<td>Rachel Rasmussen</td> <td>Rapid City</td>
+<td>Timothy Rasmussen</td> <td>Douglas</td>
+<td>Tobias Rath</td> <td>Rapid City</td>
+<td>Roxanne Rauk</td> <td>Brandon Valley</td>
+<td>Sue Rausch</td> <td>Milbank</td>
+<td>Don Ray</td> <td>Deubrook</td>
+<td>Bert Ready</td> <td>Bennett County</td>
+<td>Susan Redford</td> <td>Tri-Valley</td>
+<td>James Reed</td> <td>White Lake</td>
+<td>Shari Reed</td> <td>Waverly</td>
+<td>Josie Reekers</td> <td>Brandon Valley</td>
+<td>Julie Reichert</td> <td>Mitchell</td>
+<td>Jonna Reid</td> <td>Huron</td>
+<td>Jill Reimer</td> <td>Sanborn Central</td>
+<td>Bobby Reindl</td> <td>Mitchell</td>
+<td>Lisa Reinhiller</td> <td>Northeast Ed Coop</td>
+<td>Lydia Reis</td> <td>Dakota Valley</td>
+<td>Cheryl Reiter</td> <td>Florence</td>
+<td>Lori Reitzel</td> <td>Hanson</td>
+<td>Brooke Relf</td> <td>Tri-Valley</td>
+<td>Jeanette Remily</td> <td>Salem St. Mary's</td>
+<td>Glenna Remington</td> <td>Groton</td>
+<td>Holly Renken</td> <td>Sioux Falls Public</td>
+<td>Karin Renner</td> <td>West Central</td>
+<td>Kayla Resick</td> <td>Douglas</td>
+<td>Rachelle Retzer</td> <td>Aberdeen</td>
+<td>Collin Reynolds</td> <td>Baltic</td>
+<td>Jackie Rezac</td> <td>John Paul II</td>
+<td>Jenny Rice</td> <td>Gayville-Volin</td>
+<td>Jennifer Richards</td> <td>Madison Central</td>
+<td>Carey Richardson</td> <td>Canton</td>
+<td>Sarah Richarz</td> <td>Canton</td>
+<td>Sherry Richter</td> <td>Douglas</td>
+<td>Michael Ricke</td> <td>Madison Central</td>
+<td>Terry Rieckman</td> <td>McCook Central</td>
+<td>Sara Rief</td> <td>Brandon Valley</td>
+<td>Tanis Rieffenberger</td> <td>Brandon Valley</td>
+<td>Suzy Ries</td> <td>Baltic</td>
+<td>Kim Riggen</td> <td>Kimball</td>
+<td>Mike Ring</td> <td>Highmore-Harrold</td>
+<td>Jessica Ringgenberg</td> <td>Frederick Area</td>
+<td>Sandy Ringling</td> <td>CORE</td>
+<td>Ashlee Rininger</td> <td>Florence</td>
+<td>Donna Ripp</td> <td>Mitchell</td>
+<td>Michelle Rist</td> <td>Brandon Valley</td>
+<td>Jeremy Risty</td> <td>Brandon Valley</td>
+<td>Deeann Ritter</td> <td>Herreid</td>
+<td>Ryan Robb</td> <td>Scotland</td>
+<td>Joy Robbins</td> <td>Waverly</td>
+<td>Kim Roberts</td> <td>Pierre</td>
+<td>Susan Roberts</td> <td>Highmore-Harrold</td>
+<td>Jodi Robertson</td> <td>Brandon Valley</td>
+<td>Alex Robey</td> <td>Sioux Falls Public</td>
+<td>Sage Robinson-Miller</td> <td>Meade</td>
+<td>Benito Rodriguez</td> <td>Woonsocket</td>
+<td>Kristi Roeder</td> <td>Gregory</td>
+<td>Carrie Roerig</td> <td>St. Agnes</td>
+<td>Heather Rogers</td> <td>White River</td>
+<td>Roberta Rohrbach</td> <td>Eureka</td>
+<td>Larry Rohrer</td> <td>SDPB</td>
+<td>Rusty Roland</td> <td>Bon Homme</td>
+<td>Rebecca Rolling</td> <td>McCook Central</td>
+<td>Karen Ronne</td> <td>Deubrook</td>
+<td>Lori Rook</td> <td>Watertown</td>
+<td>Jolene Roozenboom</td> <td>Brandon Valley</td>
+<td>Matt Rosdahl</td> <td>Deuel</td>
+<td>Jane Roseland</td> <td>Rapid City</td>
+<td>Luann Rosetter</td> <td>Douglas</td>
+<td>Angela Rossow</td> <td>Douglas</td>
+<td>Carmen Rotert</td> <td>McCook Central</td>
+<td>Kelly Rotert</td> <td>Huron</td>
+<td>Bryce Roth</td> <td>Ethan</td>
+<td>Deb Rothenberger</td> <td>Brandon Valley</td>
+<td>Barb Rounds</td> <td>Brookings</td>
+<td>Katilyn Rounds</td> <td>Brookings</td>
+<td>Kali Rowe</td> <td>Brandon Valley</td>
+<td>Jacki Roy</td> <td>Mitchell</td>
+<td>Carly Rozell</td> <td>Madison Central</td>
+<td>Wade Rozell</td> <td>Northwestern</td>
+<td>John Ruane</td> <td>Brookings</td>
+<td>Chelsea Rud</td> <td>USD - Student Teachers</td>
+<td>Fran Ruesink</td> <td>Dell Rapids</td>
+<td>Moe Ruesink</td> <td>Sioux Valley</td>
+<td>Dale Ruhoff</td> <td>Oelrichs</td>
+<td>Francis Ruml</td> <td>Garretson</td>
+<td>Wendy Runestad</td> <td>Baltic</td>
+<td>Arla Runyon</td> <td>Mitchell</td>
+<td>Eric Ruppelt</td> <td>DSU - Student Teachers</td>
+<td>Brittany Russell</td> <td>Watertown</td>
+<td>Brenda Russell-Paulson</td> <td>Rapid City</td>
+<td>Lori Ruthford</td> <td>Rapid City</td>
+<td>Tim Ryan</td> <td>Dakota Valley</td>
+<td>Vanessa Ryken</td> <td>Gayville-Volin</td>
+<td>Kristina Rabine</td> <td>Big Stone City</td>
+<td>Erin Radway</td> <td>Sioux Falls Public</td>
+<td>Cynthia Rall</td> <td>Leola</td>
+<td>Carla Ramlo</td> <td>Deubrook</td>
+<td>Robyn Randall</td> <td>McCook Central</td>
+<td>Travis Ransom</td> <td>Sunshine Bible Academy</td>
+<td>Bob Rasmussen</td> <td>Bridgewater-Emery</td>
+<td>Jack Rasmussen</td> <td>McCook Central</td>
+<td>Jessica Rasmussen</td> <td>Brandon Valley</td>
+<td>John Rasmussen</td> <td>Brookings</td>
+<td>Rebecca Rasmussen</td> <td>Kimball</td>
+<td>Corinne Rath</td> <td>Dakota Valley</td>
+<td>Tymmrie Rath</td> <td>Dakota Valley</td>
+<td>Paula Rausch</td> <td>St. Lawrence Catholic</td>
+<td>Chad Ray</td> <td>East Dakota Educational Coop</td>
+<td>Jami Ray</td> <td>Brandon Valley</td>
+<td>Britany Reber</td> <td>Gregory</td>
+<td>Daniel Reed</td> <td>Brandon Valley</td>
+<td>Mitchell Reed</td> <td>Florence</td>
+<td>Shelby Reed</td> <td>Hamlin</td>
+<td>Kristy Rehorst</td> <td>Mitchell</td>
+<td>Nicole Reichert</td> <td>Corsica-Stickney</td>
+<td>Clark Reider</td> <td>Tri-Valley</td>
+<td>Crystal Reimers</td> <td>Brandon Valley</td>
+<td>Sherri Reindl</td> <td>Custer</td>
+<td>Taylor Reints</td> <td>Langford</td>
+<td>Myra Reis</td> <td>South Central</td>
+<td>Peggy Reiter</td> <td>Brandon Valley</td>
+<td>Alicia Reker</td> <td>Sioux Falls Public</td>
+<td>Sherry Rembold</td> <td>Freeman</td>
+<td>Kelly Remily</td> <td>Meade</td>
+<td>Leah Rempp</td> <td>Rosholt</td>
+<td>Shannon Renkly</td> <td>Brookings</td>
+<td>Marissa Resel</td> <td>Miller</td>
+<td>Georgiana Respects Nothing</td> <td>Oelrichs</td>
+<td>David Reuland</td> <td>Mitchell</td>
+<td>Deborah Reynolds</td> <td>Rapid City</td>
+<td>Callie Rhead</td> <td>Canton</td>
+<td>Tom Rice</td> <td>Gayville-Volin</td>
+<td>Sandy Richards</td> <td>Rapid City</td>
+<td>Clark Richardson</td> <td>Rapid City</td>
+<td>Shelley Richou</td> <td>Dakota Valley</td>
+<td>Stacey Rickard</td> <td>Sunshine Bible Academy</td>
+<td>Dianne Rider</td> <td>DIAL</td>
+<td>Kelly Riedell</td> <td>Brookings</td>
+<td>Erin Rieff</td> <td>Brandon Valley</td>
+<td>Jim Rieger</td> <td>Estelline</td>
+<td>Carrie Rietsema</td> <td>Sioux Falls Christian</td>
+<td>Marsha Ring</td> <td>Rapid City</td>
+<td>Molly Ring</td> <td>Brandon Valley</td>
+<td>Amanda Ringling</td> <td>Brandon Valley</td>
+<td>Ray Ringstmeyer</td> <td>Hot Springs</td>
+<td>Douglas Rinken</td> <td>Sioux Falls Public</td>
+<td>Karla Ripp</td> <td>Ethan</td>
+<td>Karen Ristau</td> <td>Chamberlain</td>
+<td>Doug Riter</td> <td>Harrisburg</td>
+<td>Katie Rivers</td> <td>Brandon Valley</td>
+<td>Daniel Robbins</td> <td>Elkton</td>
+<td>Trudi Robel</td> <td>Watertown</td>
+<td>Kimberly Roberts</td> <td>Meade</td>
+<td>Ann Robertson</td> <td>Sioux Falls Public</td>
+<td>Peggy Roberts-Titze</td> <td>Rapid City</td>
+<td>Matt Robinson</td> <td>Harrisburg</td>
+<td>Nikki Rodas</td> <td>Mitchell</td>
+<td>Dayna Rodriguez</td> <td>Woonsocket</td>
+<td>Mark Roelfsema</td> <td>Baltic</td>
+<td>Carol Rogers</td> <td>White River</td>
+<td>Kim Rogers</td> <td>Pierre</td>
+<td>Samantha Rohrbach</td> <td>Bowdle</td>
+<td>Megan Rokusek</td> <td>John Paul II</td>
+<td>Mary Rolfs</td> <td>Sacred Heart School</td>
+<td>Ryan Rollinger</td> <td>Harrisburg</td>
+<td>Lisa Ronning</td> <td>Vermillion</td>
+<td>Cheryl Roos</td> <td>Brandon Valley</td>
+<td>Brittany Rosberg</td> <td>Harrisburg</td>
+<td>Joelle Rose</td> <td>Douglas</td>
+<td>Brenna Rosenquist</td> <td>Dakota Valley</td>
+<td>Roxanne Ross</td> <td>Mitchell</td>
+<td>Becky Rost</td> <td>Meade</td>
+<td>Diana Rotert</td> <td>McCook Central</td>
+<td>Becky Roth</td> <td>Mitchell</td>
+<td>Heidi Roth</td> <td>Marion</td>
+<td>Stacie Rothlisberger</td> <td>Parkston</td>
+<td>Jesse Rounds</td> <td>Iroquois</td>
+<td>Amy Rowe</td> <td>Douglas</td>
+<td>Heather Rowen</td> <td>Aberdeen</td>
+<td>Ryan Royer</td> <td>Stanley County</td>
+<td>Megan Rozell</td> <td>Aberdeen</td>
+<td>Danylle Rozier</td> <td>Brandon Valley</td>
+<td>Rica Rubas</td> <td>McIntosh</td>
+<td>Joy Rueb</td> <td>Freeman</td>
+<td>Jennifer Ruesink</td> <td>Dell Rapids</td>
+<td>Tammy Ruhd</td> <td>Deubrook</td>
+<td>Michelle Ruland</td> <td>Wall</td>
+<td>Susie Ruml</td> <td>Dupree</td>
+<td>Tiffany Runia</td> <td>Estelline</td>
+<td>Marica Rupp</td> <td>USD - Student Teachers</td>
+<td>Annika Russell</td> <td>DIAL</td>
+<td>Wanda Russell</td> <td>Meade</td>
+<td>Mike Ruth</td> <td>Iroquois</td>
+<td>Gretchen Rux</td> <td>Aberdeen</td>
+<td>Sherri Rygh</td> <td>Brandon Valley</td>
+<td>Amber Ryswyk</td> <td>East Dakota Educational Coop</td>
+<td>Marci Saathoff</td> <td>Northeast Ed Coop</td>
+<td>Nita Sachen</td> <td>Brookings</td>
+<td>Kristina Sage</td> <td>Freeman</td>
+<td>Douglas Sahli</td> <td>Rapid City</td>
+<td>Victoria Salmonson</td> <td>Oldham-Ramona</td>
+<td>Libbe Salverson</td> <td>Herreid</td>
+<td>Brian Sampson</td> <td>Arlington</td>
+<td>Shanna Sandal</td> <td>Douglas</td>
+<td>Julie Sandine</td> <td>Harrisburg</td>
+<td>Owen Sandine</td> <td>McCook Central</td>
+<td>Stephanie Sandwell</td> <td>Dakota Valley</td>
+<td>Kari Sargent</td> <td>Miller</td>
+<td>Wendi Sathe</td> <td>Gayville-Volin</td>
+<td>Leslie Sauder</td> <td>Hamlin</td>
+<td>Brenda Saunders</td> <td>Dakota Valley</td>
+<td>Corey Sayler</td> <td>White River</td>
+<td>Lila Scandrett</td> <td>Meade</td>
+<td>Phyllis Schaefer</td> <td>Dell Rapids</td>
+<td>Brittany Schaefers</td> <td>Arlington</td>
+<td>Chad Schaeffer</td> <td>Sioux Falls Public</td>
+<td>Maxwell Schaffer</td> <td>Mount Vernon</td>
+<td>Laurel Schamber</td> <td>Ipswich</td>
+<td>Linda Schamp</td> <td>Brookings</td>
+<td>Roger Schara</td> <td>Rapid City</td>
+<td>Sandra Schell</td> <td>Milbank</td>
+<td>Bobbie Schelske</td> <td>Mitchell</td>
+<td>Laura Schenk</td> <td>Brandon Valley</td>
+<td>JoAnn Schierholz</td> <td>McCook Central</td>
+<td>Danielle Schiernbeck</td> <td>Deuel</td>
+<td>Cynthia Schilf</td> <td>Brandon Valley</td>
+<td>Bonnie Schimmel</td> <td>Groton</td>
+<td>Lisa Schlaffman</td> <td>Chamberlain</td>
+<td>Mallory Schlechter</td> <td>Faulkton</td>
+<td>Trixie Schlechter</td> <td>Redfield</td>
+<td>Mark Schlekeway</td> <td>Brandon Valley</td>
+<td>Julia Schlesser</td> <td>Madison Central</td>
+<td>Denise Schleusner</td> <td>Douglas</td>
+<td>Kelli Schlimgen</td> <td>DSU - Student Teachers</td>
+<td>Dodie Schlueter</td> <td>Mitchell</td>
+<td>Vincent Schmaltz</td> <td>Meade</td>
+<td>Kari Schmeichel</td> <td>Milbank</td>
+<td>Shannon Schmelz</td> <td>Rapid City</td>
+<td>Barb Schmidt</td> <td>Rapid City</td>
+<td>Brandi Schmidt</td> <td>White River</td>
+<td>Jory Schmidt</td> <td>Highmore-Harrold</td>
+<td>Kayla Schmidt</td> <td>Sioux Falls Catholic</td>
+<td>Lori Schmidt</td> <td>Mitchell</td>
+<td>Stacey Schmidt</td> <td>Douglas</td>
+<td>Travis Schmidt</td> <td>Florence</td>
+<td>Allison Schmitz</td> <td>Northwestern</td>
+<td>Marilyn Schmitz-Stadem</td> <td>Baltic</td>
+<td>Lorna Schnabel</td> <td>Rapid City</td>
+<td>Wendi Schnabel</td> <td>Mitchell</td>
+<td>Cassie Schneider</td> <td>Oldham-Ramona</td>
+<td>Mary Schneider</td> <td>Brookings</td>
+<td>Tyler Schneider</td> <td>Brookings</td>
+<td>Ben Schnell</td> <td>Aberdeen</td>
+<td>Tanya Schock</td> <td>McCook Central</td>
+<td>Galen Schoenefeld</td> <td>Viborg-Hurley</td>
+<td>Brittany Schoenfelder</td> <td>Andes Central</td>
+<td>Renea Schoenfelder</td> <td>Mitchell</td>
+<td>Ashley Schofield</td> <td>Kadoka</td>
+<td>Tara Scholten</td> <td>Brandon Valley</td>
+<td>Danielle Schonebaum</td> <td>Waverly</td>
+<td>Philip Schonebaum</td> <td>Henry</td>
+<td>Pierre School</td> <td>Pierre</td>
+<td>Matt Schrank</td> <td>Garretson</td>
+<td>Elizabeth Schroeder</td> <td>Hanson</td>
+<td>Kim Schroeder</td> <td>Tri-Valley</td>
+<td>Robert Schroeder</td> <td>White Lake</td>
+<td>Stacy Schuelke</td> <td>Meade</td>
+<td>Dana Schuldt</td> <td>Mount Vernon</td>
+<td>Rachel Schuldt</td> <td>Bowdle</td>
+<td>Jessica Schulte</td> <td>St. Agnes</td>
+<td>Jo Ann Schultz</td> <td>St. Mary's</td>
+<td>Kristi Schultz</td> <td>Menno</td>
+<td>Keith Schulz</td> <td>Rapid City</td>
+<td>Carrie Schumacher</td> <td>Miller</td>
+<td>Brian Schuring</td> <td>Groton</td>
+<td>Linda Schwabe</td> <td>Aberdeen</td>
+<td>Joe Schwan</td> <td>Groton</td>
+<td>Carl Schwarzenberg</td> <td>Rapid City</td>
+<td>Sharon Schwebach</td> <td>Brandon Valley</td>
+<td>Miriam Schwenn</td> <td>Milbank</td>
+<td>Deshawn Scott</td> <td>Brookings</td>
+<td>Keith Scott</td> <td>Gettysburg</td>
+<td>Maria Scott</td> <td>Stanley County</td>
+<td>Ryan Scoular</td> <td>Milbank</td>
+<td>Lacey Seaman</td> <td>Irene-Wakonda</td>
+<td>Jason Sebern</td> <td>Brookings</td>
+<td>Greg Seefeldt</td> <td>Douglas</td>
+<td>Ashley Seeklander</td> <td>Groton</td>
+<td>Patrick Sees</td> <td>Centerville</td>
+<td>Kurt Seibel</td> <td>Vermillion</td>
+<td>Tara Seitz</td> <td>Rutland</td>
+<td>Jason Selchert</td> <td>Gayville-Volin</td>
+<td>Steve Selchert</td> <td>Gayville-Volin</td>
+<td>Kristine Sellers</td> <td>Brandon Valley</td>
+<td>Lynn Senftner</td> <td>Agar-Blunt-Onida</td>
+<td>Kayla Serocki</td> <td>Harrisburg</td>
+<td>Gina Sershen</td> <td>Brandon Valley</td>
+<td>Martha Sewell</td> <td>Brandon Valley</td>
+<td>Kathy Seymour</td> <td>Meade</td>
+<td>Marica Shannon</td> <td>Mitchell</td>
+<td>Adam Shaw</td> <td>Madison Central</td>
+<td>Carolyn Shearer</td> <td>McCook Central</td>
+<td>Geoffrey Sheehy</td> <td>Rapid City</td>
+<td>Sandra Sheets</td> <td>Mitchell</td>
+<td>Adolph Shepardson</td> <td>Milbank</td>
+<td>Kim Sheppard</td> <td>Madison Central</td>
+<td>Gail Sherwood</td> <td>Douglas</td>
+<td>Angela Shimitz</td> <td>Ipswich</td>
+<td>Pat Shoemaker</td> <td>Huron</td>
+<td>Kelly Short</td> <td>Elkton</td>
+<td>Craig Shryock</td> <td>Wessington Springs</td>
+<td>Teresa Shuck</td> <td>Kadoka</td>
+<td>Cassandra Shull</td> <td>Brookings</td>
+<td>Cassondra Shutes</td> <td>Brandon Valley</td>
+<td>Mary Sieck</td> <td>Agar-Blunt-Onida</td>
+<td>Martin Sieverding</td> <td>Menno</td>
+<td>Donna Sigman</td> <td>Meade</td>
+<td>Jayna Silvernail</td> <td>Brandon Valley</td>
+<td>Cynthia Simon</td> <td>Ipswich</td>
+<td>Sandra Simonds</td> <td>White River</td>
+<td>Jill Simpson</td> <td>Miller</td>
+<td>Bethany Singrey</td> <td>Waverly</td>
+<td>Deb Sittig</td> <td>Baltic</td>
+<td>Nick Sittig</td> <td>Garretson</td>
+<td>David Sivertsen</td> <td>Miller</td>
+<td>Sandra Sivertsen</td> <td>Miller</td>
+<td>Rhonda Skaare</td> <td>Hitchcock-Tulare</td>
+<td>Kim Skibsted</td> <td>Brandon Valley</td>
+<td>Sara Skillman</td> <td>Rapid City</td>
+<td>Shelley Skinner</td> <td>Sioux Falls Christian</td>
+<td>Theresa Skinner</td> <td>USD</td>
+<td>Mary Skoglund</td> <td>McCook Central</td>
+<td>Joe Skroch</td> <td>Deubrook</td>
+<td>Stephanie Skyberg</td> <td>Oldham-Ramona</td>
+<td>Ray Slaba</td> <td>Hanson</td>
+<td>Rachel Slaven</td> <td>Chester</td>
+<td>Marie Slovek</td> <td>Haakon</td>
+<td>Eric Smart</td> <td>Tri-Valley</td>
+<td>Jason Smidt</td> <td>Brookings</td>
+<td>Shana Smidt</td> <td>Menno</td>
+<td>Adam Smith</td> <td>Sioux Falls Public</td>
+<td>Brian Smith</td> <td>Dell Rapids</td>
+<td>Cathy Smith</td> <td>Dupree</td>
+<td>Francie Smith</td> <td>Huron</td>
+<td>Hillary Smith</td> <td>Miller</td>
+<td>Joni Smith</td> <td>St. Mary's</td>
+<td>Kelsey Smith</td> <td>Lake Preston</td>
+<td>Megan Smith</td> <td>Mount Vernon</td>
+<td>Pam Smith</td> <td>Lead-Deadwood</td>
+<td>Rebecca Smith</td> <td>Canistota</td>
+<td>Susie Smith</td> <td>Demo</td>
+<td>Gary Smithers</td> <td>Madison Central</td>
+<td>Dan Snethen</td> <td>Tri-Valley</td>
+<td>Christina Snyder</td> <td>Harrisburg</td>
+<td>Kim Sogn</td> <td>Canton</td>
+<td>Shawn Soles</td> <td>Winner</td>
+<td>Richard Soma</td> <td>Iroquois</td>
+<td>Tracy Somerset</td> <td>Rapid City</td>
+<td>Kathy Sorensen</td> <td>Harrisburg</td>
+<td>Dawn Sorenson</td> <td>Dell Rapids</td>
+<td>Caylee Sorum</td> <td>Gettysburg</td>
+<td>Andrea Soto</td> <td>Tri-Valley</td>
+<td>David Souhrada</td> <td>Smee</td>
+<td>Tracy South</td> <td>Brandon Valley</td>
+<td>Amanda Spaniol</td> <td>Watertown</td>
+<td>Kellie Spenst</td> <td>Sioux Falls Public</td>
+<td>Kimberly Spiekermeier</td> <td>Rapid City</td>
+<td>Sarah Spiering</td> <td>Florence</td>
+<td>Adam Spoehr</td> <td>Pierre</td>
+<td>Chanda Spotted Eagle</td> <td>Rapid City</td>
+<td>Mark Stadem</td> <td>Brandon Valley</td>
+<td>Brandon Stahl</td> <td>Centerville</td>
+<td>Robin Stahl</td> <td>Brookings</td>
+<td>Chris Stahly</td> <td>Huron</td>
+<td>Monica Stambach</td> <td>Dupree</td>
+<td>Angela Stanford</td> <td>Douglas</td>
+<td>Tom Starr</td> <td>Mitchell</td>
+<td>James Stearns</td> <td>Aberdeen</td>
+<td>Kevin Steckler</td> <td>Garretson</td>
+<td>Deb Steele</td> <td>Rapid City</td>
+<td>Becky Steen</td> <td>Sisseton</td>
+<td>Hannah Steffen</td> <td>DSU - Student Teachers</td>
+<td>Heidi Steffensen</td> <td>Brookings</td>
+<td>Jan Steffes</td> <td>Meade</td>
+<td>Dana Stein</td> <td>Brookings</td>
+<td>Lynne Steinley</td> <td>Rapid City</td>
+<td>Virjean Steinwand</td> <td>Canton</td>
+<td>Michelle Stemwedel</td> <td>Brandon Valley</td>
+<td>Anne Stensland</td> <td>Sioux Falls Public</td>
+<td>Walter Stephens</td> <td>Harding County</td>
+<td>Jodi Sternhagen</td> <td>Groton</td>
+<td>Roxanne Stevens</td> <td>Miller</td>
+<td>Al Stewart</td> <td>Milbank</td>
+<td>Diane Stewart</td> <td>Big Stone City</td>
+<td>Kristan Stewart</td> <td>Douglas</td>
+<td>Kathy Stiefvater</td> <td>Salem St. Mary's</td>
+<td>John Stluka</td> <td>Pierre</td>
+<td>Glenda Stoecker</td> <td>McLaughlin</td>
+<td>Mark Stolt</td> <td>Brookings</td>
+<td>Sarah Stoltenberg</td> <td>Brookings</td>
+<td>Alicia Stone</td> <td>Andes Central</td>
+<td>Sara Stone</td> <td>Brandon Valley</td>
+<td>Shad Storley</td> <td>Redfield</td>
+<td>Kathryn Storm</td> <td>Sioux Falls Public</td>
+<td>Tom Stotts</td> <td>Pierre</td>
+<td>Kayla Stough</td> <td>Pierre</td>
+<td>Peri Strain</td> <td>White River</td>
+<td>Brittni Strand</td> <td>Huron</td>
+<td>Kevin Strand</td> <td>TIE</td>
+<td>Sarah Strang</td> <td>Waverly</td>
+<td>Mary Jo Strehlo</td> <td>Parker</td>
+<td>Joyce Strickland</td> <td>Madison Central</td>
+<td>Nick Stroh</td> <td>Brandon Valley</td>
+<td>Rhonda Strouckel</td> <td>Bowdle</td>
+<td>Emily Struck</td> <td>Brookings</td>
+<td>Kayla Stuefen</td> <td>Elkton</td>
+<td>Sandy Stukel</td> <td>Mid Central Educational Cooperative</td>
+<td>Michelle Stumpf</td> <td>Belle Fourche</td>
+<td>Troy Sturgeon</td> <td>Brandon Valley</td>
+<td>Susan Suelflow</td> <td>Kimball</td>
+<td>Kelly Sullivan</td> <td>Oldham-Ramona</td>
+<td>Sarah Sumption</td> <td>Frederick Area</td>
+<td>Chip Sundberg</td> <td>Gettysburg</td>
+<td>Kathy Sussex</td> <td>Milbank</td>
+<td>Michael Sutton</td> <td>Sioux Falls Public</td>
+<td>Amanda Swaney</td> <td>Dell Rapids</td>
+<td>Deb Swanson</td> <td>Chamberlain</td>
+<td>Joan Swanson</td> <td>Plankinton</td>
+<td>Shirley Swanson</td> <td>Stanley County</td>
+<td>Kristi Sweeter</td> <td>Lennox</td>
+<td>Darren Swenson</td> <td>Madison Central</td>
+<td>Jeremy Swenson</td> <td>Canton</td>
+<td>Michael Swenson</td> <td>Aberdeen</td>
+<td>Tracey Swenson</td> <td>Baltic</td>
+<td>Carol Swier</td> <td>Avon</td>
+<td>Renee Swisher</td> <td>Groton</td>
+<td>Kati Jo Sykora</td> <td>White River</td>
+<td>Jane Syltie</td> <td>Brookings</td>
+<td>Shannon Symens</td> <td>Hamlin</td>
+<td>Lisa Sabers</td> <td>Rapid City</td>
+<td>Curtis Sage</td> <td>Freeman</td>
+<td>Melissa Sagmoe</td> <td>Brookings</td>
+<td>Sarah Salas</td> <td>McLaughlin</td>
+<td>Molly Salter</td> <td>Meade</td>
+<td>Betty Sample</td> <td>Baltic</td>
+<td>Sarah Sanborn</td> <td>Ipswich</td>
+<td>Shelly Sandhoff</td> <td>Mitchell</td>
+<td>Kalli Sandine</td> <td>McCook Central</td>
+<td>Laura Sandness</td> <td>Meade</td>
+<td>Travis Santistevan</td> <td>Britton-Hecla</td>
+<td>Amy Sass</td> <td>Henry</td>
+<td>Derrek Sattler</td> <td>Parker</td>
+<td>Julie Saugstad</td> <td>Beresford</td>
+<td>Chris Sayler</td> <td>Freeman</td>
+<td>Patrick Sayler</td> <td>Langford</td>
+<td>Nellie Schaefer</td> <td>Hamlin</td>
+<td>Rachel Schaefer</td> <td>Elkton</td>
+<td>Tiffany Schaefers</td> <td>Mitchell</td>
+<td>Beth Schaffer</td> <td>Brandon Valley</td>
+<td>Betsy Schamber</td> <td>Madison Central</td>
+<td>Wendy Schamber</td> <td>Lead-Deadwood</td>
+<td>David Schanzenbach</td> <td>Belle Fourche</td>
+<td>Doug Schauer</td> <td>Faith</td>
+<td>Tiann Schell</td> <td>McIntosh</td>
+<td>Sue Schelske</td> <td>Wessington Springs</td>
+<td>Jane Scherr</td> <td>Rapid City</td>
+<td>Chad Schiernbeck</td> <td>Deuel</td>
+<td>Kathy Schiesl</td> <td>Brookings</td>
+<td>Ralyna Schilling</td> <td>Mitchell</td>
+<td>Amber Schipper</td> <td>Dakota Valley</td>
+<td>Steve Schlaht</td> <td>Northeast Technical High School</td>
+<td>Mary Schlechter</td> <td>Faulkton</td>
+<td>Jeff Schlekeway</td> <td>Pierre</td>
+<td>Pam Schlenz</td> <td>Marty Indian School</td>
+<td>Lorri Schleuning</td> <td>Douglas</td>
+<td>Kara Schleusner</td> <td>Watertown</td>
+<td>Brandi Schlosser</td> <td>Ipswich</td>
+<td>Desaray Schmaltz</td> <td>Deuel</td>
+<td>Josh Schmeichel</td> <td>Milbank</td>
+<td>Kathy Schmeichel</td> <td>Smee</td>
+<td>Anita Schmidt</td> <td>Plankinton</td>
+<td>Bonnie Schmidt</td> <td>Plankinton</td>
+<td>Garrett Schmidt</td> <td>Sisseton</td>
+<td>Joshua Schmidt</td> <td>McCook Central</td>
+<td>Lee Schmidt</td> <td>Brookings</td>
+<td>Sarah Schmidt</td> <td>Canton</td>
+<td>Tamara Schmidt</td> <td>Sioux Valley</td>
+<td>James Schmit</td> <td>Dakota Valley</td>
+<td>Rob Schmitz</td> <td>Scotland</td>
+<td>Brian Schmuck</td> <td>Menno</td>
+<td>Melissa Schnabel</td> <td>Parkston</td>
+<td>Whitney Schnabel</td> <td>Meade</td>
+<td>Jeff Schneider</td> <td>Arlington</td>
+<td>Tina Schneider</td> <td>Baltic</td>
+<td>Velda Schneider</td> <td>Chester</td>
+<td>Luann Schock</td> <td>Douglas</td>
+<td>Stephanie Schoellerman</td> <td>Beresford</td>
+<td>Amy Schoenfelder</td> <td>Huron</td>
+<td>Michelle Schoenfelder</td> <td>Huron</td>
+<td>Sherri Schoenfish</td> <td>Garretson</td>
+<td>Kory Scholten</td> <td>Brandon Valley</td>
+<td>Jaci Schomberg</td> <td>Ipswich</td>
+<td>Kelli Schonebaum</td> <td>Bon Homme</td>
+<td>Parker School</td> <td>Parker</td>
+<td>Mike Schouten</td> <td>Sioux Falls Christian</td>
+<td>Ashley Schreurs</td> <td>Custer</td>
+<td>Karmon Schroeder</td> <td>Beresford</td>
+<td>Lenny Schroeder</td> <td>Canistota</td>
+<td>Sarah Schroeder</td> <td>Brandon Valley</td>
+<td>Carolyn Schuldies</td> <td>Meade</td>
+<td>Marcia Schuldt</td> <td>White Lake</td>
+<td>Jennifer Schulte</td> <td>Milbank</td>
+<td>Abby Schultz</td> <td>Hamlin</td>
+<td>Kellie Schultz</td> <td>Sioux Falls Public</td>
+<td>Mackenzie Schultz</td> <td>Tea</td>
+<td>Beth Schumacher</td> <td>Crow Creek Tribal</td>
+<td>Steve Schumacher</td> <td>Miller</td>
+<td>Jeremy Schutter</td> <td>Aberdeen</td>
+<td>Brett Schwan</td> <td>Groton</td>
+<td>Helen Schwarting</td> <td>White River</td>
+<td>Robin Schwebach</td> <td>Madison Central</td>
+<td>Jamie Schwenn</td> <td>Wilmot</td>
+<td>Leah Schwiesow</td> <td>Deuel</td>
+<td>Jody Scott</td> <td>Parkston</td>
+<td>Lindsay Scott</td> <td>Douglas</td>
+<td>Tracy Scott</td> <td>Agar-Blunt-Onida</td>
+<td>Kimberly Sealine</td> <td>Douglas</td>
+<td>Holly Sebern</td> <td>Brookings</td>
+<td>Jennifer Sedlacek</td> <td>Scotland</td>
+<td>Mike Seefeldt</td> <td>Clark</td>
+<td>Mike Sees</td> <td>Irene-Wakonda</td>
+<td>Jan Seibel</td> <td>Groton</td>
+<td>Kim Seitz</td> <td>Madison Central</td>
+<td>Lynnea Seivert</td> <td>Willow Lake</td>
+<td>Natalie Selchert</td> <td>Gayville-Volin</td>
+<td>Tammy Selgestad</td> <td>Madison Central</td>
+<td>Linda Senesac</td> <td>Douglas</td>
+<td>Ohnew Seol</td> <td>Sunshine Bible Academy</td>
+<td>JoAnn Serr</td> <td>Gregory</td>
+<td>Beth Severson</td> <td>Henry</td>
+<td>Annette Sewright</td> <td>Mitchell</td>
+<td>Casey Shade</td> <td>Sioux Falls Public</td>
+<td>Linda Shave</td> <td>Douglas</td>
+<td>Hannah Shay</td> <td>Rutland</td>
+<td>Jeff Sheehan</td> <td>Hamlin</td>
+<td>Mark Sheets</td> <td>Douglas</td>
+<td>JinJin Shen</td> <td>Sioux Falls Public</td>
+<td>Lisa Shepardson</td> <td>Brookings</td>
+<td>Kayla Sherman</td> <td>Deubrook</td>
+<td>McKenzie Shields</td> <td>Douglas</td>
+<td>Kelly Shoemaker</td> <td>Faith</td>
+<td>Stephanie Shore</td> <td>Oelrichs</td>
+<td>Mark Shriver</td> <td>Dell Rapids</td>
+<td>Kelli Shryock</td> <td>Mitchell</td>
+<td>Mary Shuey</td> <td>Dakota Valley</td>
+<td>Valerie Shull</td> <td>Rapid City</td>
+<td>Margaret Siebold</td> <td>Rapid City</td>
+<td>Christina Siemsen</td> <td>Mitchell</td>
+<td>Les Siewert</td> <td>McIntosh</td>
+<td>Jo Silbernagel</td> <td>Rapid City</td>
+<td>Jennifer Simmons</td> <td>Brandon Valley</td>
+<td>Georgia Simon</td> <td>Douglas</td>
+<td>Krystal Simons</td> <td>Stanley County</td>
+<td>Doug Sims</td> <td>Madison Central</td>
+<td>Ann Sittig</td> <td>Brandon Valley</td>
+<td>Melanie Sittig</td> <td>Brandon Valley</td>
+<td>Robert Sittig</td> <td>Baltic</td>
+<td>Robin Sivertsen</td> <td>Miller</td>
+<td>Sheila Sivertsen</td> <td>Douglas</td>
+<td>Patricia Skancke</td> <td>Rapid City</td>
+<td>Nick Skibsted</td> <td>Brandon Valley</td>
+<td>Chris Skinner</td> <td>Sioux Falls Christian</td>
+<td>Suzanne Skinner</td> <td>Mitchell</td>
+<td>Erik Skoglund</td> <td>Mitchell</td>
+<td>Shelly Skogstad</td> <td>Northeast Ed Coop</td>
+<td>Dennis Skrove</td> <td>Crow Creek Tribal</td>
+<td>Matt Slaba</td> <td>Wagner</td>
+<td>Linnae Slattery</td> <td>Bennett County</td>
+<td>Jerica Slocum</td> <td>Eagle Butte</td>
+<td>Dawn Slowey</td> <td>Tri-Valley</td>
+<td>Jennifer Smedsrud</td> <td>Brandon Valley</td>
+<td>Mandy Smidt</td> <td>Brookings</td>
+<td>Kim Smiley</td> <td>Meade</td>
+<td>Alexander Smith</td> <td>Demo</td>
+<td>Cathy Smith</td> <td>Brandon Valley</td>
+<td>Curtis Smith</td> <td>Mitchell</td>
+<td>Geoff Smith</td> <td>Sioux Falls Public</td>
+<td>Jamie Smith</td> <td>Vermillion</td>
+<td>Julie Smith</td> <td>Sioux Falls Public</td>
+<td>Kelsey Smith</td> <td>Mitchell</td>
+<td>Melissa Smith</td> <td>Sioux Falls Public</td>
+<td>Peyton Smith</td> <td>Sioux Falls Public</td>
+<td>Sally Smith</td> <td>Demo</td>
+<td>Teresa Smith</td> <td>Huron</td>
+<td>Keley Smith-Keller</td> <td>DOE</td>
+<td>Susan Snethen</td> <td>Douglas</td>
+<td>Alex Sogn</td> <td>Brookings</td>
+<td>John Solberg</td> <td>Mitchell</td>
+<td>Isaura Solis</td> <td>Elkton</td>
+<td>Lori Sombke</td> <td>DIAL</td>
+<td>Jill Sommer</td> <td>Parkston</td>
+<td>Cheryl Sorenson</td> <td>Stanley County</td>
+<td>Jenna Sorsen</td> <td>Flandreau</td>
+<td>Allyssa Soto</td> <td>Bridgewater-Emery</td>
+<td>CeCe Soucy</td> <td>Watertown</td>
+<td>Laura Soukup</td> <td>Wagner</td>
+<td>Rick Sowada</td> <td>Hanson</td>
+<td>Stephanie Sparks</td> <td>Brandon Valley</td>
+<td>Barb Spicer</td> <td>Canistota</td>
+<td>Leah Spiel</td> <td>New Underwood</td>
+<td>Kristi Spitzer</td> <td>Edmunds</td>
+<td>Wendy Sports</td> <td>Brandon Valley</td>
+<td>Daniel Springman</td> <td>Brookings</td>
+<td>Tanna Stadler</td> <td>Brookings</td>
+<td>Brenda Stahl</td> <td>Brandon Valley</td>
+<td>Ryan Stahle</td> <td>Mitchell</td>
+<td>Charles Stai</td> <td>DSU - Student Teachers</td>
+<td>Deanna Stands</td> <td>Wagner</td>
+<td>Kristina Starr</td> <td>Mitchell</td>
+<td>Ronald Stary</td> <td>Brookings</td>
+<td>Sara Steckel</td> <td>Mitchell</td>
+<td>Barbara Steele</td> <td>Rapid City</td>
+<td>Evan Steemken</td> <td>Sioux Falls Public</td>
+<td>Sharla Steever</td> <td>TIE</td>
+<td>Andrew Steffensen</td> <td>Canton</td>
+<td>Tim Steffensen</td> <td>Brookings</td>
+<td>Theresa Steffy</td> <td>Douglas</td>
+<td>Tammy Steiner</td> <td>Parker</td>
+<td>Mary Steinmetz</td> <td>Brookings</td>
+<td>Sara Stekly</td> <td>White Lake</td>
+<td>Linda Stenberg</td> <td>McLaughlin</td>
+<td>Michelle Stensland</td> <td>Canton</td>
+<td>Debbie Sternhagen</td> <td>Bon Homme</td>
+<td>Karon Stevens</td> <td>Wessington Springs</td>
+<td>Sara Stevicks</td> <td>Gregory</td>
+<td>Chester Stewart</td> <td>Douglas</td>
+<td>Kathy Stewart</td> <td>Immaculate Conception School</td>
+<td>Kelly Stieben</td> <td>DSU - Student Teachers</td>
+<td>Mary Stier</td> <td>Agar-Blunt-Onida</td>
+<td>Lisa Stoebner</td> <td>Bon Homme</td>
+<td>Rachel Stokes</td> <td>Menno</td>
+<td>Kari Stoltenberg</td> <td>Garretson</td>
+<td>Lynn Stoltenburg</td> <td>Deuel</td>
+<td>Jody Stone</td> <td>Dell Rapids</td>
+<td>Julie Stonecipher</td> <td>Rapid City</td>
+<td>Jena Storm</td> <td>Brandon Valley</td>
+<td>Marge Stoterau</td> <td>Brandon Valley</td>
+<td>Jordan Stotz</td> <td>Aberdeen</td>
+<td>Amber Stout</td> <td>Pierre</td>
+<td>Dennis Strait</td> <td>Northeast Technical High School</td>
+<td>Jennifer Strand</td> <td>Brandon Valley</td>
+<td>Val Strande</td> <td>Hamlin</td>
+<td>Paul Streff</td> <td>Clark</td>
+<td>Brendan Streitz</td> <td>Flandreau</td>
+<td>Tina Strid</td> <td>Corsica-Stickney</td>
+<td>Dorothy Strom</td> <td>Vermillion</td>
+<td>Heidi Stroud</td> <td>Iroquois</td>
+<td>Joey Struwe</td> <td>Sioux Falls Public</td>
+<td>Kurt Stukel</td> <td>Gregory</td>
+<td>Wendy Stukel</td> <td>Gregory</td>
+<td>Diane Sturgeon</td> <td>Brandon Valley</td>
+<td>Susan Sudtelgte</td> <td>Elkton</td>
+<td>Lori Suess</td> <td>Scotland</td>
+<td>Lecia Summerer</td> <td>Sioux Falls Christian</td>
+<td>Kelli Sundall</td> <td>Wall</td>
+<td>Desirae Surat</td> <td>Chamberlain</td>
+<td>Don Sutera</td> <td>Sioux Valley</td>
+<td>Bethany Svacina</td> <td>Scotland</td>
+<td>Deb Swanson</td> <td>Brandon Valley</td>
+<td>Hannah Swanson</td> <td>Alcester-Hudson</td>
+<td>Russ Swanson</td> <td>Canton</td>
+<td>Travis Swartz</td> <td>Rapid City</td>
+<td>Christian Swenson</td> <td>Sioux Falls Public</td>
+<td>Denise Swenson</td> <td>Watertown</td>
+<td>Kelly Swenson</td> <td>Madison Central</td>
+<td>Rick Swenson</td> <td>Milbank</td>
+<td>Chris Swiden</td> <td>Pierre</td>
+<td>Ronald Swier</td> <td>Avon</td>
+<td>Courtany Sykora</td> <td>Milbank</td>
+<td>Tim Sylliaasen</td> <td>Brandon Valley</td>
+<td>Robbin Symens</td> <td>Lennox</td>
+<td>Lennie Symes</td> <td>TIE</td>
+<td>Heather Taft</td> <td>White River</td>
+<td>Donna Taken-alive</td> <td>McLaughlin</td>
+<td>Gregg Talcott</td> <td>Brandon Valley</td>
+<td>Michael Talley</td> <td>Rapid City</td>
+<td>Nichole Tarr</td> <td>Vermillion</td>
+<td>Bev Taylor</td> <td>Pierre</td>
+<td>Dawn Taylor</td> <td>Arlington</td>
+<td>Jayne Taylor</td> <td>St. Agnes</td>
+<td>Maryann Taylor</td> <td>Doland</td>
+<td>Wade Taylor</td> <td>Watertown</td>
+<td>Garretson Tech</td> <td>Garretson</td>
+<td>Bonnie Tekrony</td> <td>Deuel</td>
+<td>Lori Teller</td> <td>Harding County</td>
+<td>Diann Terpstra</td> <td>Brandon Valley</td>
+<td>Jenna Terry</td> <td>Dakota Valley</td>
+<td>Andrew Terwee</td> <td>Garretson</td>
+<td>Mona Terwilliger</td> <td>Rapid City</td>
+<td>Buff Tewahade</td> <td>Oelrichs</td>
+<td>Rhonda Theel</td> <td>Beresford</td>
+<td>Leigh Thelen</td> <td>Harrisburg</td>
+<td>Deb Thill</td> <td>Mitchell</td>
+<td>Diane Thomas</td> <td>Sioux Falls Public</td>
+<td>Jenna Thomas</td> <td>Brookings</td>
+<td>Amy Thompson</td> <td>Garretson</td>
+<td>Colleen Thompson</td> <td>DSU - Student Teachers</td>
+<td>Denise Thompson</td> <td>Pierre</td>
+<td>Lisa Thompson</td> <td>Douglas</td>
+<td>Reeba Thompson</td> <td>Milbank</td>
+<td>Julie Thomsen</td> <td>Dakota Valley</td>
+<td>Scott Thorson</td> <td>Groton</td>
+<td>Wendy Thorson</td> <td>Northwestern</td>
+<td>Crystal Thue</td> <td>Hamlin</td>
+<td>Kelly Thurow</td> <td>DSU - Student Teachers</td>
+<td>Kelsey Thury</td> <td>Kimball</td>
+<td>Vickie Tibbs-Husted</td> <td>Highmore-Harrold</td>
+<td>Ken Tiefenthaler</td> <td>Brookings</td>
+<td>Ty Tietjen</td> <td>Brandon Valley</td>
+<td>Susan Tilberg</td> <td>Ethan</td>
+<td>Nicolle Timmerman</td> <td>Marion</td>
+<td>Hillary Tjeerdsma</td> <td>Wagner</td>
+<td>Melissa Todd</td> <td>Watertown</td>
+<td>Eric Toft</td> <td>Brookings</td>
+<td>Lisa Tolliver</td> <td>Menno</td>
+<td>Shannon Tomlin</td> <td>Sioux Falls Public</td>
+<td>Kari Tonkin</td> <td>Edgemont</td>
+<td>Jeremy Tostenson</td> <td>Milbank</td>
+<td>Olivia Tracy</td> <td>Harrisburg</td>
+<td>Jill Trainer</td> <td>Rapid City</td>
+<td>Kristin Trana</td> <td>West Central</td>
+<td>Jeffrey Trapp</td> <td>Milbank</td>
+<td>Dan Trefz</td> <td>Miller</td>
+<td>Nicole Trefz</td> <td>Miller</td>
+<td>Mary Trewatha</td> <td>Deubrook</td>
+<td>Chad Trigg</td> <td>Oldham-Ramona</td>
+<td>Jeffrey Trout</td> <td>Brandon Valley</td>
+<td>Juli Trowbridge</td> <td>Hamlin</td>
+<td>Deb Trullinger</td> <td>McIntosh</td>
+<td>Kristin Trygstad</td> <td>Elkton</td>
+<td>Judy Tschetter</td> <td>Brandon Valley</td>
+<td>Lori Tschetter</td> <td>Freeman</td>
+<td>Mona Tschudy</td> <td>Harrisburg</td>
+<td>Connie Tucker</td> <td>Douglas</td>
+<td>Kari Tucker</td> <td>Rapid City</td>
+<td>Vince Tucker</td> <td>Dakota Valley</td>
+<td>Abby Turbak</td> <td>Watertown</td>
+<td>Andrew Tuttle</td> <td>Gettysburg</td>
+<td>Amy Tvedt</td> <td>Deuel</td>
+<td>Leslie Tvedt</td> <td>Castlewood</td>
+<td>Mary Tweeten</td> <td>Wall</td>
+<td>Steve Twite</td> <td>White River</td>
+<td>Robin Tyler</td> <td>Tri-Valley</td>
+<td>Gabi Taggart</td> <td>Vermillion</td>
+<td>Hank Taken-alive</td> <td>McLaughlin</td>
+<td>Katrina Talley</td> <td>Mitchell</td>
+<td>Brenda Tangen</td> <td>Sisseton</td>
+<td>McKinsey Tate</td> <td>Mitchell</td>
+<td>Dale Taylor</td> <td>Kimball</td>
+<td>Gwen Taylor</td> <td>Estelline</td>
+<td>Margo Taylor</td> <td>Mitchell</td>
+<td>Robin Taylor</td> <td>Deubrook</td>
+<td>Lisa Teachout</td> <td>Hill City</td>
+<td>April Teel</td> <td>Plankinton</td>
+<td>Larry Telkamp</td> <td>Britton-Hecla</td>
+<td>Elaine TenNapel</td> <td>Sioux Falls Christian</td>
+<td>Jacob Terry</td> <td>Elk Point-Jefferson</td>
+<td>Kara Terry</td> <td>Elk Point-Jefferson</td>
+<td>Jennifer Terwee</td> <td>Brandon Valley</td>
+<td>Christine Tetzlaff</td> <td>Pierre</td>
+<td>Karen Thaler</td> <td>Brookings</td>
+<td>Andrea Theilen</td> <td>Garretson</td>
+<td>Shellie Theodosopoulos</td> <td>Brookings</td>
+<td>Shane Thill</td> <td>Mitchell</td>
+<td>Gary Thomas</td> <td>Brookings</td>
+<td>Renee Thomas</td> <td>CORE</td>
+<td>Caroline Thompson</td> <td>Elk Point-Jefferson</td>
+<td>Deidra Thompson</td> <td>Dakota Valley</td>
+<td>Jerricka Thompson</td> <td>Madison Central</td>
+<td>Nancy Thompson</td> <td>Canton</td>
+<td>Valerie Thompson</td> <td>Rapid City</td>
+<td>Brad Thorson</td> <td>Brandon Valley</td>
+<td>Todd Thorson</td> <td>Ipswich</td>
+<td>Tina Thu</td> <td>Dakota Valley</td>
+<td>Angie Thunker</td> <td>McLaughlin</td>
+<td>Justin Thury</td> <td>Parkston</td>
+<td>Alison Thyen</td> <td>Immaculate Conception School</td>
+<td>Rachael Tiedeman</td> <td>Sioux Falls Public</td>
+<td>Thomas Tieszen</td> <td>Lead-Deadwood</td>
+<td>Lindsey Tietz</td> <td>Groton</td>
+<td>Michael Timm</td> <td>Pierre</td>
+<td>Makenzi Timmons</td> <td>Brookings</td>
+<td>Carrie Tobin</td> <td>Plankinton</td>
+<td>Jerry Toering</td> <td>Chamberlain</td>
+<td>Pam Toft</td> <td>Canton</td>
+<td>Phyllis Toman</td> <td>Mitchell</td>
+<td>Lori Tonak</td> <td>DIAL</td>
+<td>Tucker Tornberg</td> <td>Centerville</td>
+<td>Eric Townsend</td> <td>Milbank</td>
+<td>Ray Tracy</td> <td>Chamberlain</td>
+<td>Jacki Tramp</td> <td>Gayville-Volin</td>
+<td>Erika Trapp</td> <td>Howard</td>
+<td>Samra Trask</td> <td>Wall</td>
+<td>Heather Trefz</td> <td>Highmore-Harrold</td>
+<td>Jennifer Trewatha</td> <td>Rapid City</td>
+<td>Lynn Tribby</td> <td>Meade</td>
+<td>Renae Trigg</td> <td>Madison Central</td>
+<td>Theresa Trout</td> <td>Dakota Valley</td>
+<td>Brittany Trujillo</td> <td>Sioux Falls Public</td>
+<td>Jessamy Truman</td> <td>Kimball</td>
+<td>Douglas Tschetter</td> <td>Sioux Falls Public</td>
+<td>Kym Tschetter</td> <td>Freeman</td>
+<td>Samantha Tschetter</td> <td>Sioux Valley</td>
+<td>Sandy Tucholke</td> <td>Milbank</td>
+<td>Jamie Tucker</td> <td>Brookings</td>
+<td>Tracy Tucker</td> <td>White River</td>
+<td>Linda Tuntland</td> <td>Canton</td>
+<td>Sue Turnipseed</td> <td>Brookings</td>
+<td>Joshua Tuttle</td> <td>Sioux Falls Public</td>
+<td>Brian Tvedt</td> <td>Deuel</td>
+<td>Bridget Twedt</td> <td>Beresford</td>
+<td>Stacy Twite</td> <td>White River</td>
+<td>Amy Tyler</td> <td>Wagner</td>
+<td>Chelsey Tyrell</td> <td>Chamberlain</td>
+<td>Bobbi Uecker</td> <td>Hamlin</td>
+<td>Cassie Uithoven</td> <td>Brandon Valley</td>
+<td>Alyssa Ullrich</td> <td>Aberdeen</td>
+<td>Kristopher Ulmer</td> <td>Deuel</td>
+<td>Deborah Underwood</td> <td>Milbank</td>
+<td>Tracy Upton</td> <td>Milbank</td>
+<td>Shannon Utter</td> <td>Douglas</td>
+<td>Chuck Uhl</td> <td>Rapid City</td>
+<td>Craig Ullmann</td> <td>Edmunds</td>
+<td>Cheryl Ulmen</td> <td>Pierre</td>
+<td>Karen Ulrikson</td> <td>Canton</td>
+<td>Maxine Unterbrunner</td> <td>Madison Central</td>
+<td>Chad Urban</td> <td>Brandon Valley</td>
+<td>Tonia Vachal</td> <td>Watertown</td>
+<td>David Van Heel</td> <td>Meade</td>
+<td>Rebecca Van Roekel</td> <td>Brandon Valley</td>
+<td>Shawna Van Voorst</td> <td>Harrisburg</td>
+<td>Kelby Van Wyk</td> <td>Huron</td>
+<td>Morgan Van Zee</td> <td>Harrisburg</td>
+<td>Nikki VanBockern</td> <td>Arlington</td>
+<td>Amanda Vande Vegte</td> <td>Dakota Valley</td>
+<td>Suzanne VandeBerg</td> <td>Wolsey-Wessington</td>
+<td>Teri Vandentop</td> <td>Brandon Valley</td>
+<td>Natalie Vander Vorst</td> <td>Langford</td>
+<td>Jeannine Vanderpol</td> <td>Andes Central</td>
+<td>Kaylee VanderWal</td> <td>Oldham-Ramona</td>
+<td>Dina Vanderwilt</td> <td>Mitchell</td>
+<td>Rebecca Vandrongelen</td> <td>Sioux Falls Public</td>
+<td>Rani VanGorp</td> <td>Scotland</td>
+<td>Kristi VanHeerde-Anderson</td> <td>Garretson</td>
+<td>Johnitta Vanhull</td> <td>Viborg-Hurley</td>
+<td>Rob Vanlaecken</td> <td>Parkston</td>
+<td>Kelli Vanoverbeke</td> <td>Arlington</td>
+<td>Kent Vanoverschelde</td> <td>Mitchell</td>
+<td>Jasmin Vant</td> <td>Mitchell</td>
+<td>Courtney VanZee</td> <td>Miller</td>
+<td>Matthew VanZee</td> <td>Stanley County</td>
+<td>James Vasquez</td> <td>Little Eagle Grant School</td>
+<td>Anna Vaughn</td> <td>Douglas</td>
+<td>Pamela Vaughn</td> <td>Douglas</td>
+<td>Camrin Vaux</td> <td>Brookings</td>
+<td>Jolene Vavra</td> <td>Winner</td>
+<td>Meghan Vega</td> <td>Hamlin</td>
+<td>Roger Venaas</td> <td>Dakota Valley</td>
+<td>Robyn Ventura</td> <td>Canton</td>
+<td>April Verburg</td> <td>Brandon Valley</td>
+<td>Dian Versteeg</td> <td>Brandon Valley</td>
+<td>Kayla Vetter</td> <td>Sanborn Central</td>
+<td>Eileen Vielmette</td> <td>Brandon Valley</td>
+<td>Tracy Vik</td> <td>Sioux Falls Public</td>
+<td>Bill Vincent</td> <td>Sioux Valley</td>
+<td>Greg Vincent</td> <td>Crow Creek Tribal</td>
+<td>Jill Vincent</td> <td>Sioux Valley</td>
+<td>Leslie Violet</td> <td>Douglas</td>
+<td>Erin Visser</td> <td>Brandon Valley</td>
+<td>Travis Vlaminck</td> <td>Brookings</td>
+<td>Beau Voegeli</td> <td>Lead-Deadwood</td>
+<td>Darmi Vogel</td> <td>Parker</td>
+<td>Mary Vogel</td> <td>Douglas</td>
+<td>Molly Voichahoske</td> <td>Dakota Valley</td>
+<td>Jennifer Voigt</td> <td>Gregory</td>
+<td>Bonnie Vore</td> <td>Dakota Valley</td>
+<td>Dennis Voss</td> <td>Sioux Falls Public</td>
+<td>Stephanie Voss</td> <td>Beresford</td>
+<td>Robert Vroman</td> <td>Sioux Falls Public</td>
+<td>Randi Van Der Sloot</td> <td>Sioux Falls Public</td>
+<td>Christy Van Heerde</td> <td>Estelline</td>
+<td>Jerrid Van Sloten</td> <td>Brandon Valley</td>
+<td>Halden Van Wyhe</td> <td>USD - Student Teachers</td>
+<td>Bernadette Van Zee</td> <td>Huron</td>
+<td>Chandra Van Zyl</td> <td>Marion</td>
+<td>Wendy VanBockern</td> <td>Wessington Springs</td>
+<td>Michelle Vande Weerd</td> <td>Brookings</td>
+<td>Jeff Vandenhul</td> <td>Dakota Valley</td>
+<td>Jerry VandePol</td> <td>Sioux Falls Christian</td>
+<td>Dawn Vanderheiden</td> <td>Kimball</td>
+<td>Kaci Vandervorst</td> <td>Eureka</td>
+<td>Michelle VanderWal</td> <td>Brookings</td>
+<td>Todd Vandevoort</td> <td>Sioux Falls Public</td>
+<td>Jennifer Vandyke</td> <td>Brandon Valley</td>
+<td>Jeremy VanHeel</td> <td>Brandon Valley</td>
+<td>Lila VanHorn</td> <td>Brandon Valley</td>
+<td>Joanne Vanlaecken</td> <td>Parkston</td>
+<td>Chelsea Vanleur</td> <td>Brandon Valley</td>
+<td>Kelsey Vanoverschelde</td> <td>Mitchell</td>
+<td>Cody VanRosendale</td> <td>Watertown</td>
+<td>Trevor VanTilburg</td> <td>Leola</td>
+<td>Laela Vanzee</td> <td>Miller</td>
+<td>Pam Vanzee</td> <td>Miller</td>
+<td>Jared Vasquez</td> <td>Rapid City</td>
+<td>Krystal Vaughn</td> <td>Gregory</td>
+<td>Adam Vaux</td> <td>Brookings</td>
+<td>Gloria Vavra</td> <td>Wessington Springs</td>
+<td>Sandy Vavra</td> <td>Sacred Heart School</td>
+<td>Kelli Vellema</td> <td>Brandon Valley</td>
+<td>Bruce Venner</td> <td>Douglas</td>
+<td>Emily Ver Burg</td> <td>Oldham-Ramona</td>
+<td>Cathy VerSteeg</td> <td>Mitchell</td>
+<td>Don Versteeg</td> <td>USD</td>
+<td>Beth Victor</td> <td>Plankinton</td>
+<td>Ken Vigdal</td> <td>Brookings</td>
+<td>Paula Vilhauer</td> <td>Wagner</td>
+<td>Darcy Vincent</td> <td>Brookings</td>
+<td>Jeani Vincent</td> <td>Arlington</td>
+<td>Cordell Vinz</td> <td>Langford</td>
+<td>Conni Virtue</td> <td>Custer</td>
+<td>Curt Vlaminck</td> <td>Brandon Valley</td>
+<td>Megan Voegele</td> <td>DSU - Student Teachers</td>
+<td>Judy Voeltz</td> <td>Oldham-Ramona</td>
+<td>Debbie Vogel</td> <td>Chester</td>
+<td>Elizabeth Vogt</td> <td>Pierre</td>
+<td>Curt Voight</td> <td>Elk Mountain</td>
+<td>Parker Volleyball</td> <td>Parker</td>
+<td>Abby Voss</td> <td>Dakota Valley</td>
+<td>Shane Voss</td> <td>Freeman</td>
+<td>Ashley Vostad</td> <td>Arlington</td>
+<td>Kristal Vugteveen</td> <td>Brandon Valley</td>
+<td>Susan Waagmeester</td> <td>Sioux Falls Public</td>
+<td>Kristine Waba</td> <td>Madison Central</td>
+<td>Spencer Wacholz</td> <td>McIntosh</td>
+<td>Beth Wagner</td> <td>Milbank</td>
+<td>Donna Wagner</td> <td>Wessington Springs</td>
+<td>Adam Waider</td> <td>Rapid City</td>
+<td>Chandra Waikel</td> <td>Brookings</td>
+<td>Tim Wald</td> <td>Rapid City</td>
+<td>Allyson Waldner</td> <td>Corsica-Stickney</td>
+<td>Eileen Waldner</td> <td>Hutterville</td>
+<td>Jackie Waldner</td> <td>Hanson</td>
+<td>Lori Waldner</td> <td>Madison Central</td>
+<td>Tim Waldner</td> <td>Hutterville</td>
+<td>Cari Walker</td> <td>McLaughlin</td>
+<td>Ron Walker</td> <td>McIntosh</td>
+<td>Jennifer Wall</td> <td>Parker</td>
+<td>Kevin Waller</td> <td>Sunshine Bible Academy</td>
+<td>Deanna Wallum</td> <td>Iroquois</td>
+<td>Becca Walsh</td> <td>Baltic</td>
+<td>Jodi Walter</td> <td>Huron</td>
+<td>Laura Walters</td> <td>New Underwood</td>
+<td>Paula Waltman</td> <td>Parkston</td>
+<td>Kylea Waltner</td> <td>Marion</td>
+<td>Sonja Waltner</td> <td>Freeman</td>
+<td>Shaun Wanner</td> <td>Groton</td>
+<td>Kathy War Bonnet</td> <td>Garretson</td>
+<td>Doris Ware</td> <td>Rapid City</td>
+<td>Vicki Warrad</td> <td>Dakota Valley</td>
+<td>Brenda Waterbury</td> <td>Chamberlain</td>
+<td>Rhonda Waterbury</td> <td>Gregory</td>
+<td>Roxann Watkins</td> <td>Brookings</td>
+<td>Sue Wattier</td> <td>Groton</td>
+<td>Bethany Waysman</td> <td>Brandon Valley</td>
+<td>Amy Webb</td> <td>Highmore-Harrold</td>
+<td>Kay Weber</td> <td>Parkston</td>
+<td>Mike Weber</td> <td>Groton</td>
+<td>Sara Weber</td> <td>Brandon Valley</td>
+<td>Alan Webster</td> <td>Custer</td>
+<td>Teresa Webster</td> <td>Gregory</td>
+<td>Katie Weeldreyer</td> <td>Madison Central</td>
+<td>Paula Weeldreyer</td> <td>Pierre</td>
+<td>Pamela Weger</td> <td>Huron</td>
+<td>Shirlee Weich</td> <td>Plankinton</td>
+<td>Lisa Weier</td> <td>Brookings</td>
+<td>Randy Weier</td> <td>Bon Homme</td>
+<td>Robin Weigel-Wolff</td> <td>Ipswich</td>
+<td>Katie Weisbeck</td> <td>Timber Lake</td>
+<td>Susan Weisflock</td> <td>Eagle Butte</td>
+<td>Gary Weismantel</td> <td>Herreid</td>
+<td>Hannah Weispfennig</td> <td>Sacred Heart School</td>
+<td>Tammy Weisser</td> <td>South Central Coop</td>
+<td>Penny Weisz</td> <td>Hanson</td>
+<td>Jeff Welbig</td> <td>Dell Rapids</td>
+<td>Tammi Welch</td> <td>Lennox</td>
+<td>Martha Wells</td> <td>Douglas</td>
+<td>Brianne Welsch</td> <td>McIntosh</td>
+<td>Patricia Wenande</td> <td>Hanson</td>
+<td>Tiffany Wendling</td> <td>Dakota Valley</td>
+<td>Kim Wentz</td> <td>Canton</td>
+<td>Misty Wentzel</td> <td>Demo</td>
+<td>Jason Wenzel</td> <td>Hitchcock-Tulare</td>
+<td>Gwen Weron</td> <td>Canton</td>
+<td>Chris West</td> <td>Meade</td>
+<td>Stacey Westby</td> <td>Huron</td>
+<td>John Westhoff</td> <td>Tea</td>
+<td>Jason Wetzel</td> <td>Aberdeen</td>
+<td>Daniel Whalen</td> <td>Clark</td>
+<td>Ev Wheelhouse</td> <td>Highmore-Harrold</td>
+<td>Debbie Wherry</td> <td>Eureka</td>
+<td>Shane Whidby</td> <td>Rapid City</td>
+<td>Tonya Whirlwind Soldier</td> <td>Todd County</td>
+<td>Brian White</td> <td>Agar-Blunt-Onida</td>
+<td>Christopher White</td> <td>Tri-Valley</td>
+<td>Lee White</td> <td>Mitchell</td>
+<td>Karen White Horse</td> <td>Marty Indian School</td>
+<td>Holly Whitney</td> <td>Gregory</td>
+<td>Judy Wickre</td> <td>Sisseton</td>
+<td>Kris Wiebe</td> <td>Colman-Egan</td>
+<td>Robin Wiebers</td> <td>USD</td>
+<td>Gretchen Wiechmann</td> <td>Harrisburg</td>
+<td>Jeanie Wieger</td> <td>Gayville-Volin</td>
+<td>Danae Wieking</td> <td>Harrisburg</td>
+<td>Karri Wieman</td> <td>Marion</td>
+<td>Marlee Wieman</td> <td>Douglas</td>
+<td>Tracy Wientjes</td> <td>Agar-Blunt-Onida</td>
+<td>Andrea Wiese</td> <td>St. Lawrence Catholic</td>
+<td>Lisa Wiese</td> <td>Howard</td>
+<td>Jeremy Wieseler</td> <td>Doland</td>
+<td>Paige Wieseler</td> <td>Hanson</td>
+<td>Lisa Wilber</td> <td>Dell Rapids</td>
+<td>Terry Wilhelmi</td> <td>Rapid City</td>
+<td>Linda Wilke</td> <td>Baltic</td>
+<td>Valerie Wilkens</td> <td>Madison Central</td>
+<td>Steve Willard</td> <td>Belle Fourche</td>
+<td>Rick Willemssen</td> <td>Tea</td>
+<td>Cynthia Williams</td> <td>Elkton</td>
+<td>Melinda Williams</td> <td>Douglas</td>
+<td>Sarah Williams</td> <td>Douglas</td>
+<td>Chad Williamson</td> <td>Colman-Egan</td>
+<td>Kari Wilmes</td> <td>Alcester-Hudson</td>
+<td>Lori Wilson</td> <td>Harding County</td>
+<td>Deb Winburn</td> <td>Groton</td>
+<td>Duane Wince</td> <td>Douglas</td>
+<td>Kathy Winghart</td> <td>Brookings</td>
+<td>Garry Winter</td> <td>Chamberlain</td>
+<td>Nathaniel Winter</td> <td>Chamberlain</td>
+<td>Snowy Winter</td> <td>Demo</td>
+<td>Darci Winthers</td> <td>Mitchell</td>
+<td>Jory Wipf</td> <td>James Valley Christian</td>
+<td>Mary Helen Wipf</td> <td>Huron</td>
+<td>Deborah Wippel</td> <td>Rapid City</td>
+<td>Tania Witt</td> <td>CORE</td>
+<td>Melody Witte</td> <td>Huron</td>
+<td>Craig Wixon</td> <td>Corsica-Stickney</td>
+<td>Lisa Wolff</td> <td>Baltic</td>
+<td>Kelli Wollmann</td> <td>Madison Central</td>
+<td>Heidi Wolthuizen</td> <td>Sioux Falls Christian</td>
+<td>Molly Woodard</td> <td>Andes Central</td>
+<td>Charnelle Wooledge</td> <td>Sioux Falls Public</td>
+<td>Meghan Woundedhead</td> <td>Sioux Falls Public</td>
+<td>Dave Wutzke</td> <td>McIntosh</td>
+<td>Michelle Wysuph</td> <td>Rapid City</td>
+<td>Chris Waba</td> <td>Madison Central</td>
+<td>Angela Wachal</td> <td>Harrisburg</td>
+<td>Aimee Wagner</td> <td>Leola</td>
+<td>Brandon Wagner</td> <td>Yankton</td>
+<td>Lorri Wagner</td> <td>Lyman</td>
+<td>Carol Waider</td> <td>Meade</td>
+<td>Sarah Wald</td> <td>Sacred Heart School</td>
+<td>Jeff Walder</td> <td>Tea</td>
+<td>Eddie Waldner</td> <td>Hutterville</td>
+<td>George Waldner</td> <td>Hutterville</td>
+<td>Justin Waldner</td> <td>Hutterville</td>
+<td>Thaddeus Waldner</td> <td>Elkton</td>
+<td>Bob Waldrop</td> <td>Baltic</td>
+<td>Lavonne Walker</td> <td>McLaughlin</td>
+<td>Tricia Walker</td> <td>Watertown</td>
+<td>Stephanie Wallace</td> <td>Hanson</td>
+<td>Kristyn Walloch</td> <td>Scotland</td>
+<td>Kristen Walraven</td> <td>Rapid City</td>
+<td>Tracey Walsh</td> <td>Kimball</td>
+<td>Kendra Walter</td> <td>Wolsey-Wessington</td>
+<td>Melissa Walther</td> <td>McLaughlin</td>
+<td>Kaye Waltner</td> <td>Sioux Falls Public</td>
+<td>Peggy Waltner</td> <td>Freeman</td>
+<td>Jay Wammen</td> <td>Harding County</td>
+<td>Troy Wanner</td> <td>Sioux Falls Public</td>
+<td>Kim Ward</td> <td>Deubrook</td>
+<td>Christina Warnke</td> <td>DSU - Student Teachers</td>
+<td>Darci Wassenaar</td> <td>Sioux Falls Christian</td>
+<td>Ken Waterbury</td> <td>Chamberlain</td>
+<td>Kerry Waterson</td> <td>Douglas</td>
+<td>Jason Watson</td> <td>Sunshine Bible Academy</td>
+<td>Diane Way</td> <td>Mitchell</td>
+<td>Donna Wayt</td> <td>Florence</td>
+<td>Alena Weber</td> <td>Dakota Valley</td>
+<td>Laura Weber</td> <td>Pierre</td>
+<td>Rebecca Weber</td> <td>Rapid City</td>
+<td>Shelley Weber</td> <td>McCook Central</td>
+<td>Seth Webster</td> <td>Gregory</td>
+<td>Tressa Wede</td> <td>Mitchell</td>
+<td>Michael Weeldreyer</td> <td>Brandon Valley</td>
+<td>James Weger</td> <td>Iroquois</td>
+<td>Lori Wehlander</td> <td>Huron</td>
+<td>Nancy Weidenbach</td> <td>Harrisburg</td>
+<td>Mark Weier</td> <td>Irene-Wakonda</td>
+<td>Theresa Weigel</td> <td>Henry</td>
+<td>Amy Weight</td> <td>Elkton</td>
+<td>Stacy Weise</td> <td>Canton</td>
+<td>Lacey Weishaar</td> <td>McIntosh</td>
+<td>Sandra Weismantel</td> <td>Herreid</td>
+<td>Janet Weisser</td> <td>Mitchell</td>
+<td>Paige Weisz</td> <td>DSU - Student Teachers</td>
+<td>Sarah Wek</td> <td>Canton</td>
+<td>Heather Welch</td> <td>Dakota Valley</td>
+<td>Heidi Wellnitz</td> <td>Milbank</td>
+<td>Todd Wells</td> <td>Sioux Falls Public</td>
+<td>June Wenande</td> <td>Mitchell</td>
+<td>Rebecca Wendland</td> <td>Arlington</td>
+<td>Gwen Wenisch</td> <td>Yankton</td>
+<td>Mercedes Wentzel</td> <td>Demo</td>
+<td>Melody Wenz</td> <td>Northeast Ed Coop</td>
+<td>Kimberley Wenzel</td> <td>Sioux Falls Public</td>
+<td>Wolsey Wessington</td> <td>Wolsey-Wessington</td>
+<td>David Westby</td> <td>Huron</td>
+<td>Sandra Westcott</td> <td>Brandon Valley</td>
+<td>Amy Westrum</td> <td>Gayville-Volin</td>
+<td>Zach Wevik</td> <td>Watertown</td>
+<td>Kristin Wheaton</td> <td>Meade</td>
+<td>Brian Wherry</td> <td>Eureka</td>
+<td>Virgil Whetsel</td> <td>Miller</td>
+<td>Marissa Whipple</td> <td>Baltic</td>
+<td>Connie Whistler</td> <td>Bridgewater-Emery</td>
+<td>Christopher White</td> <td>Brandon Valley</td>
+<td>Dana White</td> <td>Baltic</td>
+<td>Tara White</td> <td>Agar-Blunt-Onida</td>
+<td>Jason Whiting</td> <td>Sioux Falls Public</td>
+<td>Kaye Wickard</td> <td>Ipswich</td>
+<td>Travis Wicks</td> <td>Oldham-Ramona</td>
+<td>Dawn Wiebers</td> <td>Madison Central</td>
+<td>Stacy Wiebersch</td> <td>USD - Student Teachers</td>
+<td>Susan Wiedrich</td> <td>Ipswich</td>
+<td>Emily Wiekamp</td> <td>Chamberlain</td>
+<td>Chris Wieman</td> <td>Douglas</td>
+<td>Kirsten Wieman</td> <td>Harrisburg</td>
+<td>Mary Wienbar</td> <td>Iroquois</td>
+<td>Alex Wiese</td> <td>Sioux Falls Public</td>
+<td>Kindra Wiese</td> <td>Madison Central</td>
+<td>Stacey Wiese</td> <td>Brandon Valley</td>
+<td>Lanae Wieseler</td> <td>Douglas</td>
+<td>Kelly Wieser</td> <td>Langford</td>
+<td>Amanda Wilcoxon</td> <td>Freeman</td>
+<td>Abigail Wilke</td> <td>Sioux Falls Public</td>
+<td>Stacia Wilkens</td> <td>Dakota Valley</td>
+<td>Brad Wilkins</td> <td>McCook Central</td>
+<td>Laura Willemssen</td> <td>Huron</td>
+<td>Andria Williams</td> <td>Meade</td>
+<td>Marlys Williams</td> <td>White Lake</td>
+<td>Robin Williams</td> <td>Langford</td>
+<td>Amber Williamson</td> <td>Garretson</td>
+<td>Leah Williamson</td> <td>Brandon Valley</td>
+<td>Alex Wilson</td> <td>DSU - Student Teachers</td>
+<td>Rob Wilson</td> <td>Beresford</td>
+<td>Teddy Winburn</td> <td>Sisseton</td>
+<td>Darcy Winger</td> <td>Rapid City</td>
+<td>Dayna Winter</td> <td>Huron</td>
+<td>Melinda Winter</td> <td>Brandon Valley</td>
+<td>Robin Winter</td> <td>Mitchell</td>
+<td>Jana Winters</td> <td>Gregory</td>
+<td>Dulcy Wipf</td> <td>Hitchcock-Tulare</td>
+<td>Kayla Wipf</td> <td>Rutland</td>
+<td>Sheila Wipf</td> <td>Freeman</td>
+<td>Julie Witcraft</td> <td>Meade</td>
+<td>Esther Witte</td> <td>Mitchell</td>
+<td>Victoria Wittrock</td> <td>West Central</td>
+<td>Jody Woehl</td> <td>Brandon Valley</td>
+<td>Jessica Wolles</td> <td>Sacred Heart School</td>
+<td>Janelle Wollschlager</td> <td>Milbank</td>
+<td>Kathy Woodard</td> <td>Brandon Valley</td>
+<td>Julie Woodruff</td> <td>Chamberlain</td>
+<td>Mary Wortman</td> <td>Highmore-Harrold</td>
+<td>Tyler Wuebben</td> <td>Gayville-Volin</td>
+<td>Jim Wynia</td> <td>Harrisburg</td>
+<td>Bonnie Yackley</td> <td>Elkton</td>
+<td>Desiree Yeigh</td> <td>Groton</td>
+<td>Nancy Young</td> <td>Bon Homme</td>
+<td>Tony Young</td> <td>Demo</td>
+<td>Debi Younger</td> <td>Dakota Valley</td>
+<td>Lynn Yahne</td> <td>John Paul II</td>
+<td>Joanne Young</td> <td>Sunshine Bible Academy</td>
+<td>Nash Young</td> <td>Demo</td>
+<td>Maggie Youngberg</td> <td>Brandon Valley</td>
+<td>Sarah Zach</td> <td>Flandreau</td>
+<td>Justin Zajic</td> <td>Mitchell</td>
+<td>Becky Zebroski</td> <td>Watertown</td>
+<td>Aaron Zeller</td> <td>Miller</td>
+<td>Ashley Zens</td> <td>Redfield</td>
+<td>Alison Zephier</td> <td>Flandreau</td>
+<td>Jenny Zephier</td> <td>Wagner</td>
+<td>Stacey Zerfas</td> <td>Brookings</td>
+<td>Mitchell Zerr</td> <td>Brandon Valley</td>
+<td>Samantha Ziegler</td> <td>Armour</td>
+<td>Megan Zinter</td> <td>Bowdle</td>
+<td>Teresa Zirpel</td> <td>Mitchell</td>
+<td>Pamela Zubke</td> <td>Brookings</td>
+<td>Paige Zachariasen</td> <td>Freeman</td>
+<td>Tanya Zastoupil</td> <td>Ipswich</td>
+<td>Elaine Zell</td> <td>Brandon Valley</td>
+<td>Ashley Zenk</td> <td>Tri-Valley</td>
+<td>Deb Zens</td> <td>White River</td>
+<td>Burgess Zephier</td> <td>Wagner</td>
+<td>Jonita Zephier</td> <td>Marty Indian School</td>
+<td>Mike Zerr</td> <td>Brandon Valley</td>
+<td>Sharon Zettlemoyer</td> <td>Webster</td>
+<td>Ryan Zink</td> <td>Watertown</td>
+<td>Steve Zirbel</td> <td>Henry</td>
+<td>Anne Zoellner</td> <td>Groton</td>
+<td>Erica Zwart</td> <td>Irene-Wakonda</td>
